@@ -1,0 +1,19 @@
+feeds:
+  - name: Microsoft
+    url: https://blogs.microsoft.com/feed/
+    max_items: 5
+  - name: Snowflake
+    url: https://www.snowflake.com/feed/
+    max_items: 5
+  - name: Databricks
+    url: https://www.databricks.com/feed
+    max_items: 5
+  - name: Sigma Computing
+    url: https://www.sigmacomputing.com/blog/feed/
+    max_items: 5
+  - name: Agentic Analytics
+    url: https://news.google.com/rss/search?q=agentic+analytics
+    max_items: 5
+  - name: Data Analytics
+    url: https://news.google.com/rss/search?q=data+analytics
+    max_items: 5
