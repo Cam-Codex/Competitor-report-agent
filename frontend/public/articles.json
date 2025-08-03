@@ -45,22 +45,94 @@
     "drawbacks": "May require high compute resources and raise bias concerns."
   },
   {
-    "title": "The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025 - Australian Technology News",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUTNmOUgwN1VSUlBYSHRSM3BoSVJjTHlndnR5QkdmTS1EcTl3akJSX3N2R3ZKY2ZtOTVscy1nTHY1RnpTY2tEUHk2OEplc05PS2FNMklVRndOMnZ0cm9jTVV3S0pfQWJRSWZuYXVIVFl6X2NnNzBkaU03VmI0N2VnczVsOVg0eEJoUktfQi16Ri15VkR0ZElta3lUdXpRQUlWcm04LTh1ak42Q2tWcGtkOXZiMXdWWmxXb2V0TFctRnZfUzFqaHZnLXVpNWtUcFg4YU5HUA?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUTNmOUgwN1VSUlBYSHRSM3BoSVJjTHlndnR5QkdmTS1EcTl3akJSX3N2R3ZKY2ZtOTVscy1nTHY1RnpTY2tEUHk2OEplc05PS2FNMklVRndOMnZ0cm9jTVV3S0pfQWJRSWZuYXVIVFl6X2NnNzBkaU03VmI0N2VnczVsOVg0eEJoUktfQi16Ri15VkR0ZElta3lUdXpRQUlWcm04LTh1ak42Q2tWcGtkOXZiMXdWWmxXb2V0TFctRnZfUzFqaHZnLXVpNWtUcFg4YU5HUA?oc=5\" target=\"_blank\">The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Technology News</font>",
-    "published": "Sat, 02 Aug 2025 03:05:18 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
+    "title": "Unlocking Trust in Enterprise AI with AI Observability and Evaluations in Snowflake Cortex AI",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-observability-trust-cortex-enterprise",
+    "summary": "Snowflake Cortex AI helps teams build trustworthy, production-ready AI apps with built-in observability, evaluations, and performance monitoring.",
+    "published": "Fri, 01 Aug 2025 13:28:00 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
     "drawbacks": "May require high compute resources and raise bias concerns."
   },
   {
-    "title": "ThoughtSpot Launches ThoughtSpot Agentic MCP Server - MarTech Cube",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXdfRVZnUVlvR1YyNGVXUURzbDVidno3bjlLbHF3QVc5X1paVE5uRERwSTB3LWdMczZtb0M2Ykl3Z0pUVlg4TDBaWF9oMEVCa1lhMFNVS1RWaG5ZY0NJUUJIbjNTbjF6Skt1MjdwWHlCYlJ3TWVaYi1JQk5ESlA4aEhRaWl2WFk?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXdfRVZnUVlvR1YyNGVXUURzbDVidno3bjlLbHF3QVc5X1paVE5uRERwSTB3LWdMczZtb0M2Ykl3Z0pUVlg4TDBaWF9oMEVCa1lhMFNVS1RWaG5ZY0NJUUJIbjNTbjF6Skt1MjdwWHlCYlJ3TWVaYi1JQk5ESlA4aEhRaWl2WFk?oc=5\" target=\"_blank\">ThoughtSpot Launches ThoughtSpot Agentic MCP Server</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarTech Cube</font>",
-    "published": "Wed, 30 Jul 2025 11:45:01 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
+    "title": "Best Practices for Delivering AI-Ready Data Products with Snowflake Internal Marketplace",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-ready-data-products-snowflake-internal-marketplace",
+    "summary": "Learn how to deliver trusted, contextualized data products that power AI success across the business using Snowflake’s Internal Marketplace.",
+    "published": "Thu, 31 Jul 2025 09:00:07 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "May require high compute resources and raise bias concerns."
+  },
+  {
+    "title": "Hightouch and Snowflake Boost AI-Powered Marketing Data Stack with Snowflake Ventures Investment",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/hightouch-snowflake-ai-marketing-ventures-investment",
+    "summary": "Snowflake invests in Hightouch to help marketing and data teams activate AI-powered insights and scale personalized campaigns across 200+ destinations.",
+    "published": "Tue, 29 Jul 2025 09:00:00 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "May require high compute resources and raise bias concerns."
+  },
+  {
+    "title": "Snowpark Connect for Apache Spark™ in Public Preview",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowpark-connect-apache-spark-preview",
+    "summary": "Discover how Snowpark Connect for Apache Spark™ lets you run Spark code on Snowflake's engine—eliminating Spark environment overhead and simplifying performance.",
+    "published": "Tue, 29 Jul 2025 06:00:00 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
     "drawbacks": "Could introduce extra costs or change management challenges."
+  },
+  {
+    "title": "Sports Teams and AI: Real Results and Real Challenges",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/sports-and-AI-real-results",
+    "summary": "Discover how AI is transforming the sports industry, from predictive fan engagement and dynamic sponsorships to enhanced media targeting. Learn how Snowflake and Sports Innovation Lab's data solutions are helping organizations unlock new revenue and deeper fan connections.",
+    "published": "Tue, 22 Jul 2025 15:58:00 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "May require high compute resources and raise bias concerns."
+  },
+  {
+    "title": "Announcing Databricks Vancouver Development Center",
+    "link": "https://www.databricks.com/blog/announcing-databricks-vancouver-development-center",
+    "summary": "I’m thrilled to announce that Databricks R&amp;D is coming to Vancouver. Starting today,...",
+    "published": "Thu, 31 Jul 2025 16:30:00 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Could introduce extra costs or change management challenges."
+  },
+  {
+    "title": "Continuous Environmental Monitoring Using the New transformWithState API",
+    "link": "https://www.databricks.com/blog/continuous-environmental-monitoring-using-new-transformwithstate-api",
+    "summary": "Apache Spark's™ streaming capabilities have evolved dramatically since their inception, ...",
+    "published": "Wed, 30 Jul 2025 16:00:00 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Could introduce extra costs or change management challenges."
+  },
+  {
+    "title": "The Power of RLVR: Training a Leading SQL Reasoning Model on Databricks",
+    "link": "https://www.databricks.com/blog/power-rlvr-training-leading-sql-reasoning-model-databricks",
+    "summary": "At&nbsp;Databricks,&nbsp;we use reinforcement learning (RL) to develop&nbsp;reasoning models for...",
+    "published": "Wed, 30 Jul 2025 15:15:29 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "May require high compute resources and raise bias concerns."
+  },
+  {
+    "title": "What’s New in AI/BI - July 2025 Roundup",
+    "link": "https://www.databricks.com/blog/whats-new-aibi-july-2025-roundup",
+    "summary": "Introduction Since announcing the General Availability of AI/BI Genie and introducing...",
+    "published": "Wed, 30 Jul 2025 08:07:33 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "May require high compute resources and raise bias concerns."
+  },
+  {
+    "title": "Smarter Decisions at Scale: How Lotus’s Uses AI and NLQ to Empower 3,000+ Stores with Real-Time Intelligence",
+    "link": "https://www.databricks.com/blog/smarter-decisions-scale-how-lotuss-uses-ai-and-nlq-empower-3000-stores-real-time-intelligence",
+    "summary": "Making Everyday Store Decisions Smarter, Faster In the fast-paced world of retail,...",
+    "published": "Mon, 28 Jul 2025 18:30:47 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "May require high compute resources and raise bias concerns."
   },
   {
     "title": "“I think of analysts as data wizards who help their product teams solve problems” - Towards Data Science",
@@ -72,10 +144,19 @@
     "drawbacks": "Could introduce extra costs or change management challenges."
   },
   {
-    "title": "Qrvey 9.1 Accelerates Embedded Analytics With Agentic AI and a Faster Path to Deployment - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1d1RE9uYUdqeGpqeGFVMFNDR1oyM1hIM3lyNTd4UEZmWG51MkhLTTFWQ2JjZ2ZuYjE0bE1DTHBpQWMyb1hhVmRTRWVoZ2hKRVZFbXF1VFJheU4zcXlGazhzMGJidE0tWUJ4U1IxWlBDbjJFczk0T3MwT2xTNE5JNjRn?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1d1RE9uYUdqeGpqeGFVMFNDR1oyM1hIM3lyNTd4UEZmWG51MkhLTTFWQ2JjZ2ZuYjE0bE1DTHBpQWMyb1hhVmRTRWVoZ2hKRVZFbXF1VFJheU4zcXlGazhzMGJidE0tWUJ4U1IxWlBDbjJFczk0T3MwT2xTNE5JNjRn?oc=5\" target=\"_blank\">Qrvey 9.1 Accelerates Embedded Analytics With Agentic AI and a Faster Path to Deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-    "published": "Tue, 29 Jul 2025 12:00:00 GMT",
+    "title": "The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025 - Australian Technology News",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUTNmOUgwN1VSUlBYSHRSM3BoSVJjTHlndnR5QkdmTS1EcTl3akJSX3N2R3ZKY2ZtOTVscy1nTHY1RnpTY2tEUHk2OEplc05PS2FNMklVRndOMnZ0cm9jTVV3S0pfQWJRSWZuYXVIVFl6X2NnNzBkaU03VmI0N2VnczVsOVg0eEJoUktfQi16Ri15VkR0ZElta3lUdXpRQUlWcm04LTh1ak42Q2tWcGtkOXZiMXdWWmxXb2V0TFctRnZfUzFqaHZnLXVpNWtUcFg4YU5HUA?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUTNmOUgwN1VSUlBYSHRSM3BoSVJjTHlndnR5QkdmTS1EcTl3akJSX3N2R3ZKY2ZtOTVscy1nTHY1RnpTY2tEUHk2OEplc05PS2FNMklVRndOMnZ0cm9jTVV3S0pfQWJRSWZuYXVIVFl6X2NnNzBkaU03VmI0N2VnczVsOVg0eEJoUktfQi16Ri15VkR0ZElta3lUdXpRQUlWcm04LTh1ak42Q2tWcGtkOXZiMXdWWmxXb2V0TFctRnZfUzFqaHZnLXVpNWtUcFg4YU5HUA?oc=5\" target=\"_blank\">The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Technology News</font>",
+    "published": "Sat, 02 Aug 2025 03:05:18 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "May require high compute resources and raise bias concerns."
+  },
+  {
+    "title": "ThoughtSpot Redefines AI Interoperability with Launch of ThoughtSpot Agentic MCP Server - GlobeNewswire",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa0JVdjIwbWM0M0VaX1NLTzBVcXpTOUpRVWNwNERHQkpTU1JFclBIQ282M1hCR2s2ZE43bXczal9CamVUZWJfQkdGc3dHaklLeWJ1RjMzcWJHZldIQjdMZlVyQ1dnTnJLX3MwUXVkbnBiZmxNOXE2azN6ZUJRNElLZ1pnZzQ0MkRKdlBOZUZXTDdpTTNYVVNWbzV4T1lodkVlakNaci14bjhRYUJ0cFVpeS1jTWIzMjNXbTRFVWQ1SG9OcEEtaDBSMnlJd19Jd1htbVRiZHhfRDN1UTczemRGTTJWcm9XSWVtcXN2WkxyUTM?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa0JVdjIwbWM0M0VaX1NLTzBVcXpTOUpRVWNwNERHQkpTU1JFclBIQ282M1hCR2s2ZE43bXczal9CamVUZWJfQkdGc3dHaklLeWJ1RjMzcWJHZldIQjdMZlVyQ1dnTnJLX3MwUXVkbnBiZmxNOXE2azN6ZUJRNElLZ1pnZzQ0MkRKdlBOZUZXTDdpTTNYVVNWbzV4T1lodkVlakNaci14bjhRYUJ0cFVpeS1jTWIzMjNXbTRFVWQ1SG9OcEEtaDBSMnlJd19Jd1htbVRiZHhfRDN1UTczemRGTTJWcm9XSWVtcXN2WkxyUTM?oc=5\" target=\"_blank\">ThoughtSpot Redefines AI Interoperability with Launch of ThoughtSpot Agentic MCP Server</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+    "published": "Tue, 29 Jul 2025 13:04:02 GMT",
     "source": "Agentic Analytics",
     "category": "industry",
     "drawbacks": "May require high compute resources and raise bias concerns."
@@ -90,28 +171,37 @@
     "drawbacks": "May require high compute resources and raise bias concerns."
   },
   {
-    "title": "Cognyte integrates with Microsoft Azure to enhance AI Data analytics solution - Police1",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdlM1RDlvTVY2MDdiQTNyRDQyejltbzNMdUNEUjhfUzlrV2dvS2ZYUy0yY1oycXg4TnV5NklvLXM4SE9pZTlxX195TUxvdWk0aFpXQ05WcnduWHdOaGVac3ZNUXlILS1qaEQ3VVVWYUtJXy1TcEJYOHFlQkgyV25BUXhOcHZ0eDR0R0NBSHdwdFpiM3FqbzlJTDZwN1NvZGlrQmNZaHUwX2dJd09kS0FsMWlKcV9kQUZZaGUxNDFBdWhvR3d6Um0tbXBuZVp2ZnlkbHpWUjhTUDVjaW8?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdlM1RDlvTVY2MDdiQTNyRDQyejltbzNMdUNEUjhfUzlrV2dvS2ZYUy0yY1oycXg4TnV5NklvLXM4SE9pZTlxX195TUxvdWk0aFpXQ05WcnduWHdOaGVac3ZNUXlILS1qaEQ3VVVWYUtJXy1TcEJYOHFlQkgyV25BUXhOcHZ0eDR0R0NBSHdwdFpiM3FqbzlJTDZwN1NvZGlrQmNZaHUwX2dJd09kS0FsMWlKcV9kQUZZaGUxNDFBdWhvR3d6Um0tbXBuZVp2ZnlkbHpWUjhTUDVjaW8?oc=5\" target=\"_blank\">Cognyte integrates with Microsoft Azure to enhance AI Data analytics solution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Police1</font>",
-    "published": "Fri, 01 Aug 2025 22:00:51 GMT",
-    "source": "Data Analytics",
+    "title": "Getting real about agentic AI, from protocols to data platforms - more inbox adventures with AI vendors - Diginomica",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0ZlR1pIUW80R3U2bmdfdVZ1amcyVE1Bd29WcXF0eThUVHdGcE1fX2luMm12YTliVGpHVHhBbjlTYkFMSkR0VGtlTFZCWjNiTmhzZGJwSVc3aHdhNEpDTkVmQWhYWUtYdFNkQ0E5YUpXWWNETndyODNQOHRLc2tvSzh3dUxNczFpR3NVY3dsX1E4TmtfaDlvZGVOamNNaVBLQXVtdDBnNV9Nd3hYVXhJ0gG0AUFVX3lxTE1YTk9oNjRmbXdvN2JZVHU1SDF6NmVlMEh1SUJvLW1LYVV6QzVFRUNMc3V4cEZCTUd0dDFQbVBRVTN4aXFGZDd6X2IwX1NaTGE2ZmdCOWRiTTZYNTQtRm91b1dYTnFYZEFYZy1LcWpIUDBzMkJxZ3BlRmdoUnEwaG5FNHBIdjBIQm9TajZoS3ZhaTlOMURncTJBVUpoQkpmbXVRT1pKT2I1WlFmZGlaLXhHelVmaQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0ZlR1pIUW80R3U2bmdfdVZ1amcyVE1Bd29WcXF0eThUVHdGcE1fX2luMm12YTliVGpHVHhBbjlTYkFMSkR0VGtlTFZCWjNiTmhzZGJwSVc3aHdhNEpDTkVmQWhYWUtYdFNkQ0E5YUpXWWNETndyODNQOHRLc2tvSzh3dUxNczFpR3NVY3dsX1E4TmtfaDlvZGVOamNNaVBLQXVtdDBnNV9Nd3hYVXhJ0gG0AUFVX3lxTE1YTk9oNjRmbXdvN2JZVHU1SDF6NmVlMEh1SUJvLW1LYVV6QzVFRUNMc3V4cEZCTUd0dDFQbVBRVTN4aXFGZDd6X2IwX1NaTGE2ZmdCOWRiTTZYNTQtRm91b1dYTnFYZEFYZy1LcWpIUDBzMkJxZ3BlRmdoUnEwaG5FNHBIdjBIQm9TajZoS3ZhaTlOMURncTJBVUpoQkpmbXVRT1pKT2I1WlFmZGlaLXhHelVmaQ?oc=5\" target=\"_blank\">Getting real about agentic AI, from protocols to data platforms - more inbox adventures with AI vendors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diginomica</font>",
+    "published": "Tue, 22 Jul 2025 07:00:00 GMT",
+    "source": "Agentic Analytics",
     "category": "industry",
     "drawbacks": "May require high compute resources and raise bias concerns."
   },
   {
-    "title": "7 Data Analytics Careers That Are in High Demand, and How to Stand Out - Bentley University",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV085STI4NGI4RjdLa21GYWtjajI4XzNkcGZfSWx1VHBZQ29HM2NWTDdwSWQ5SVRROHRDek5wRF9rUVg5WTRieWZSU3BLbklXUHBFa3R5cmdWOW9MLXVEUFlhY1BSc2h2UjNxUWZTRHg3S3FveFFNODVJMVBUTEZWcXF5QlFNakZqdlU3R3BXNmk?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQV085STI4NGI4RjdLa21GYWtjajI4XzNkcGZfSWx1VHBZQ29HM2NWTDdwSWQ5SVRROHRDek5wRF9rUVg5WTRieWZSU3BLbklXUHBFa3R5cmdWOW9MLXVEUFlhY1BSc2h2UjNxUWZTRHg3S3FveFFNODVJMVBUTEZWcXF5QlFNakZqdlU3R3BXNmk?oc=5\" target=\"_blank\">7 Data Analytics Careers That Are in High Demand, and How to Stand Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bentley University</font>",
-    "published": "Wed, 23 Jul 2025 13:23:52 GMT",
+    "title": "FinTech’s next frontier: Unleashing growth through hyper-personalization and data analytics - BusinessCloud",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDVyaU5UTUZ4V2JGYmM5ZklnUm4zZ3RrdElBZkdJU3l0Y3FVVkJuYnp0VmJRS3dNOXNZbXdWUnJweHprQWdsV1ViWC11REdlSDU5T2NpcTNVZmJoemdHeWltNVc4QkNZYkY5OUpJcWl0dmZKXzhTZTBpanFCWUFNd2RYUGlFblByaHNaS0ItSndVcWNiczNOMXktZWoxdEFKdnVaNy1CLUo1c0dqUFhVeTBTaVlRSVRzLXRHUXRsM1Y?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDVyaU5UTUZ4V2JGYmM5ZklnUm4zZ3RrdElBZkdJU3l0Y3FVVkJuYnp0VmJRS3dNOXNZbXdWUnJweHprQWdsV1ViWC11REdlSDU5T2NpcTNVZmJoemdHeWltNVc4QkNZYkY5OUpJcWl0dmZKXzhTZTBpanFCWUFNd2RYUGlFblByaHNaS0ItSndVcWNiczNOMXktZWoxdEFKdnVaNy1CLUo1c0dqUFhVeTBTaVlRSVRzLXRHUXRsM1Y?oc=5\" target=\"_blank\">FinTech’s next frontier: Unleashing growth through hyper-personalization and data analytics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessCloud</font>",
+    "published": "Tue, 29 Jul 2025 17:38:49 GMT",
     "source": "Data Analytics",
     "category": "industry",
     "drawbacks": "Could introduce extra costs or change management challenges."
   },
   {
-    "title": "Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More - solutionsreview.com",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlN1VzV4cnNSRl9SWGhZRVgyNmlzYzJNZ1VlYzhQeU5LRnFpV0hRR2dRakJHb0VDdkxHMVczZkppVjgzUVBxbmkxTDVUT1BTTGVkVlJVTXh2anllam5LcjFFZHpCcHB6TmU4TnRLXzBXcGtYb0Zvcmc5ZWp5SUkxMGY3UG1JY2staVhVQVRYQlFpVWxTSHg4RWFFc25OQ2dNZDBHNzJPbHN2TlR6S01CU0NXYzNYT2RyWmxxMGJqcURka1R1c0lYWUFaTFgwX1FOdTVGMHE1X1RrS1VaUnY4TGdHYXhEMHI5cFV3?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlN1VzV4cnNSRl9SWGhZRVgyNmlzYzJNZ1VlYzhQeU5LRnFpV0hRR2dRakJHb0VDdkxHMVczZkppVjgzUVBxbmkxTDVUT1BTTGVkVlJVTXh2anllam5LcjFFZHpCcHB6TmU4TnRLXzBXcGtYb0Zvcmc5ZWp5SUkxMGY3UG1JY2staVhVQVRYQlFpVWxTSHg4RWFFc25OQ2dNZDBHNzJPbHN2TlR6S01CU0NXYzNYT2RyWmxxMGJqcURka1R1c0lYWUFaTFgwX1FOdTVGMHE1X1RrS1VaUnY4TGdHYXhEMHI5cFV3?oc=5\" target=\"_blank\">Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solutionsreview.com</font>",
-    "published": "Fri, 01 Aug 2025 10:50:45 GMT",
+    "title": "Prep data for machine learning with AWS analytics services - TechTarget",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYm1Ca3BublNzZWdiMFp6aVFvX3VsMmVQbkRWSmZ4OWpfcDhPZzZDeEp2d25hY19oQjREXzJPNVg0cGpISW9mVHkxOU80aG1BclF4allwckFTUlFnUGxwbmpqdVFKaVdERDRkVjJZUkUtR196dnhxTlE5YWdyaHZLdEc5STNZMjd4QnpmQ1BjamdMRmxvU2IyVzk5UUlTMURxaVcxNkhna0pHRlFUZkFn?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYm1Ca3BublNzZWdiMFp6aVFvX3VsMmVQbkRWSmZ4OWpfcDhPZzZDeEp2d25hY19oQjREXzJPNVg0cGpISW9mVHkxOU80aG1BclF4allwckFTUlFnUGxwbmpqdVFKaVdERDRkVjJZUkUtR196dnhxTlE5YWdyaHZLdEc5STNZMjd4QnpmQ1BjamdMRmxvU2IyVzk5UUlTMURxaVcxNkhna0pHRlFUZkFn?oc=5\" target=\"_blank\">Prep data for machine learning with AWS analytics services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechTarget</font>",
+    "published": "Fri, 01 Aug 2025 16:30:17 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Could introduce extra costs or change management challenges."
+  },
+  {
+    "title": "Data Science vs Machine Learning vs Data Analytics [2025] - Simplilearn.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUxGM1pBU2t4YWNzR0d0Q19MUzdlTkF5ZTNfd0FSVmNJVzhYT1M2ZDBicDRtQTJ5bHlDVlVTR1ltaGJxbkJLenR6OVNWUERiWmNNM0VweVhSendTUDlIR2tDYWp0MXVLWUlXR3RrQnE3UWE3U0I5ekdlbnR2SWE5eTVVM2JfYV8xelpkaXFWUQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUxGM1pBU2t4YWNzR0d0Q19MUzdlTkF5ZTNfd0FSVmNJVzhYT1M2ZDBicDRtQTJ5bHlDVlVTR1ltaGJxbkJLenR6OVNWUERiWmNNM0VweVhSendTUDlIR2tDYWp0MXVLWUlXR3RrQnE3UWE3U0I5ekdlbnR2SWE5eTVVM2JfYV8xelpkaXFWUQ?oc=5\" target=\"_blank\">Data Science vs Machine Learning vs Data Analytics [2025]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simplilearn.com</font>",
+    "published": "Thu, 31 Jul 2025 07:00:00 GMT",
     "source": "Data Analytics",
     "category": "industry",
     "drawbacks": "Could introduce extra costs or change management challenges."
@@ -126,10 +216,10 @@
     "drawbacks": "May require high compute resources and raise bias concerns."
   },
   {
-    "title": "“I think of analysts as data wizards who help their product teams solve problems” - Towards Data Science",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjExeTM2NXlNa21vZ3I0SWVfS2hlWWJUZHZraHp2c1JvSzktOEdhR25pYVNvVlhkR2NaWE1CS2l5QUpVX1VpMXFpdXYwc0ZmWHlLd2JYcGFDM01YTVN3cWVfXzdtNGtNMjVzUEs1RDBMMW52dThWYmxwY0NZc19zZFVSdlhWNnVDaXpsVVhlU0pKQmlmR1g1Sk1JNU9OR3dtQUtram0yUlBzZDEyeHNiLQ?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjExeTM2NXlNa21vZ3I0SWVfS2hlWWJUZHZraHp2c1JvSzktOEdhR25pYVNvVlhkR2NaWE1CS2l5QUpVX1VpMXFpdXYwc0ZmWHlLd2JYcGFDM01YTVN3cWVfXzdtNGtNMjVzUEs1RDBMMW52dThWYmxwY0NZc19zZFVSdlhWNnVDaXpsVVhlU0pKQmlmR1g1Sk1JNU9OR3dtQUtram0yUlBzZDEyeHNiLQ?oc=5\" target=\"_blank\">“I think of analysts as data wizards who help their product teams solve problems”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
-    "published": "Fri, 01 Aug 2025 14:39:53 GMT",
+    "title": "Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More - solutionsreview.com",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlN1VzV4cnNSRl9SWGhZRVgyNmlzYzJNZ1VlYzhQeU5LRnFpV0hRR2dRakJHb0VDdkxHMVczZkppVjgzUVBxbmkxTDVUT1BTTGVkVlJVTXh2anllam5LcjFFZHpCcHB6TmU4TnRLXzBXcGtYb0Zvcmc5ZWp5SUkxMGY3UG1JY2staVhVQVRYQlFpVWxTSHg4RWFFc25OQ2dNZDBHNzJPbHN2TlR6S01CU0NXYzNYT2RyWmxxMGJqcURka1R1c0lYWUFaTFgwX1FOdTVGMHE1X1RrS1VaUnY4TGdHYXhEMHI5cFV3?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlN1VzV4cnNSRl9SWGhZRVgyNmlzYzJNZ1VlYzhQeU5LRnFpV0hRR2dRakJHb0VDdkxHMVczZkppVjgzUVBxbmkxTDVUT1BTTGVkVlJVTXh2anllam5LcjFFZHpCcHB6TmU4TnRLXzBXcGtYb0Zvcmc5ZWp5SUkxMGY3UG1JY2staVhVQVRYQlFpVWxTSHg4RWFFc25OQ2dNZDBHNzJPbHN2TlR6S01CU0NXYzNYT2RyWmxxMGJqcURka1R1c0lYWUFaTFgwX1FOdTVGMHE1X1RrS1VaUnY4TGdHYXhEMHI5cFV3?oc=5\" target=\"_blank\">Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solutionsreview.com</font>",
+    "published": "Fri, 01 Aug 2025 10:50:45 GMT",
     "source": "Data Analytics",
     "category": "industry",
     "drawbacks": "Could introduce extra costs or change management challenges."
