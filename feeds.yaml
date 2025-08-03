@@ -1,0 +1,37 @@
+feeds:
+  - name: Microsoft
+    url: https://blogs.microsoft.com/feed/
+    max_items: 5
+    category: vendor
+  - name: Microsoft
+    url: https://news.google.com/rss/search?q=Microsoft+Power+BI
+    max_items: 5
+    category: vendor
+  - name: Salesforce
+    url: https://news.google.com/rss/search?q=Salesforce+Tableau
+    max_items: 5
+    category: vendor
+  - name: Salesforce
+    url: https://news.google.com/rss/search?q=Salesforce+Agentforce
+    max_items: 5
+    category: vendor
+  - name: Snowflake
+    url: https://www.snowflake.com/feed/
+    max_items: 5
+    category: vendor
+  - name: Databricks
+    url: https://www.databricks.com/feed
+    max_items: 5
+    category: vendor
+  - name: Sigma Computing
+    url: https://www.sigmacomputing.com/blog/feed/
+    max_items: 5
+    category: vendor
+  - name: Agentic Analytics
+    url: https://news.google.com/rss/search?q=agentic+analytics
+    max_items: 5
+    category: industry
+  - name: Data Analytics
+    url: https://news.google.com/rss/search?q=data+analytics
+    max_items: 5
+    category: industry
