@@ -198,6 +198,15 @@
     "drawbacks": "Could introduce extra costs or change management challenges."
   },
   {
+    "title": "“I think of analysts as data wizards who help their product teams solve problems” - Towards Data Science",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjExeTM2NXlNa21vZ3I0SWVfS2hlWWJUZHZraHp2c1JvSzktOEdhR25pYVNvVlhkR2NaWE1CS2l5QUpVX1VpMXFpdXYwc0ZmWHlLd2JYcGFDM01YTVN3cWVfXzdtNGtNMjVzUEs1RDBMMW52dThWYmxwY0NZc19zZFVSdlhWNnVDaXpsVVhlU0pKQmlmR1g1Sk1JNU9OR3dtQUtram0yUlBzZDEyeHNiLQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjExeTM2NXlNa21vZ3I0SWVfS2hlWWJUZHZraHp2c1JvSzktOEdhR25pYVNvVlhkR2NaWE1CS2l5QUpVX1VpMXFpdXYwc0ZmWHlLd2JYcGFDM01YTVN3cWVfXzdtNGtNMjVzUEs1RDBMMW52dThWYmxwY0NZc19zZFVSdlhWNnVDaXpsVVhlU0pKQmlmR1g1Sk1JNU9OR3dtQUtram0yUlBzZDEyeHNiLQ?oc=5\" target=\"_blank\">“I think of analysts as data wizards who help their product teams solve problems”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+    "published": "Fri, 01 Aug 2025 14:39:53 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Could introduce extra costs or change management challenges."
+  },
+  {
     "title": "Data Science vs Machine Learning vs Data Analytics [2025] - Simplilearn.com",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUxGM1pBU2t4YWNzR0d0Q19MUzdlTkF5ZTNfd0FSVmNJVzhYT1M2ZDBicDRtQTJ5bHlDVlVTR1ltaGJxbkJLenR6OVNWUERiWmNNM0VweVhSendTUDlIR2tDYWp0MXVLWUlXR3RrQnE3UWE3U0I5ekdlbnR2SWE5eTVVM2JfYV8xelpkaXFWUQ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUxGM1pBU2t4YWNzR0d0Q19MUzdlTkF5ZTNfd0FSVmNJVzhYT1M2ZDBicDRtQTJ5bHlDVlVTR1ltaGJxbkJLenR6OVNWUERiWmNNM0VweVhSendTUDlIR2tDYWp0MXVLWUlXR3RrQnE3UWE3U0I5ekdlbnR2SWE5eTVVM2JfYV8xelpkaXFWUQ?oc=5\" target=\"_blank\">Data Science vs Machine Learning vs Data Analytics [2025]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simplilearn.com</font>",
@@ -214,14 +223,5 @@
     "source": "Data Analytics",
     "category": "industry",
     "drawbacks": "May require high compute resources and raise bias concerns."
-  },
-  {
-    "title": "Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More - solutionsreview.com",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlN1VzV4cnNSRl9SWGhZRVgyNmlzYzJNZ1VlYzhQeU5LRnFpV0hRR2dRakJHb0VDdkxHMVczZkppVjgzUVBxbmkxTDVUT1BTTGVkVlJVTXh2anllam5LcjFFZHpCcHB6TmU4TnRLXzBXcGtYb0Zvcmc5ZWp5SUkxMGY3UG1JY2staVhVQVRYQlFpVWxTSHg4RWFFc25OQ2dNZDBHNzJPbHN2TlR6S01CU0NXYzNYT2RyWmxxMGJqcURka1R1c0lYWUFaTFgwX1FOdTVGMHE1X1RrS1VaUnY4TGdHYXhEMHI5cFV3?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlN1VzV4cnNSRl9SWGhZRVgyNmlzYzJNZ1VlYzhQeU5LRnFpV0hRR2dRakJHb0VDdkxHMVczZkppVjgzUVBxbmkxTDVUT1BTTGVkVlJVTXh2anllam5LcjFFZHpCcHB6TmU4TnRLXzBXcGtYb0Zvcmc5ZWp5SUkxMGY3UG1JY2staVhVQVRYQlFpVWxTSHg4RWFFc25OQ2dNZDBHNzJPbHN2TlR6S01CU0NXYzNYT2RyWmxxMGJqcURka1R1c0lYWUFaTFgwX1FOdTVGMHE1X1RrS1VaUnY4TGdHYXhEMHI5cFV3?oc=5\" target=\"_blank\">Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solutionsreview.com</font>",
-    "published": "Fri, 01 Aug 2025 10:50:45 GMT",
-    "source": "Data Analytics",
-    "category": "industry",
-    "drawbacks": "Could introduce extra costs or change management challenges."
   }
 ]
