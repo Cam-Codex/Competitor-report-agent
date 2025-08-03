@@ -1,48 +1,73 @@
+:root {
+  --ts-blue: #0c2d48;
+  --ts-light: #f5f6f8;
+  --ts-dark: #0a1f44;
+}
+
 body {
+  margin: 0;
   font-family: 'Segoe UI', Tahoma, sans-serif;
-  background-color: #f5f6f8;
-  color: #333;
+  background: var(--ts-light);
+  color: var(--ts-dark);
 }
 
-.container {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 2rem;
+.navbar {
+  background: var(--ts-blue);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
 }
 
-h1 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+.navbar h1 {
+  margin: 0;
+  font-size: 1.5rem;
 }
 
-input[type="text"] {
-  width: 100%;
+.navbar nav a {
+  color: #fff;
+  margin-right: 1rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navbar nav a:last-child {
+  margin-right: 0;
+}
+
+.search {
   padding: 0.5rem 0.75rem;
-  margin-bottom: 1.5rem;
-  font-size: 1rem;
-  border: 1px solid #ccc;
+  border: none;
   border-radius: 4px;
+  min-width: 200px;
 }
 
-section {
+.content {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.section {
   margin-bottom: 2rem;
 }
 
-h2 {
-  border-bottom: 1px solid #ddd;
+.section h2 {
+  border-bottom: 2px solid var(--ts-blue);
   padding-bottom: 0.25rem;
   margin-bottom: 1rem;
 }
 
-article {
+.card {
   background: #fff;
-  border: 1px solid #ddd;
-  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
   padding: 1rem;
   margin-bottom: 1rem;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
-article h3 {
+.card h3 {
   margin-top: 0;
 }

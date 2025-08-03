@@ -1,27 +1,9 @@
 import React, { useEffect, useState } from 'react';
-
-function Section({ title, articles }) {
-  if (!articles.length) return null;
-  return (
-    <section>
-      <h2>{title}</h2>
-      {articles.map((art) => (
-        <article key={art.link}>
-          <h3>
-            <a href={art.link} target="_blank" rel="noopener noreferrer">
-              {art.title}
-            </a>
-          </h3>
-          {art.published && <p><em>{art.published}</em></p>}
-          {art.summary && <p>{art.summary}</p>}
-          {art.drawbacks && (
-            <p><strong>Potential drawbacks:</strong> {art.drawbacks}</p>
-          )}
-        </article>
-      ))}
-    </section>
-  );
-}
+import { Routes, Route } from 'react-router-dom';
+import Layout from './components/Layout.jsx';
+import Home from './pages/Home.jsx';
+import Vendors from './pages/Vendors.jsx';
+import Industry from './pages/Industry.jsx';
 
 export default function App() {
   const [articles, setArticles] = useState([]);
@@ -39,26 +21,13 @@ export default function App() {
     return text.includes(query.toLowerCase());
   });
 
-  const vendors = filtered.filter((a) => a.category === 'vendor');
-  const vendorSections = vendors.reduce((acc, art) => {
-    (acc[art.source] = acc[art.source] || []).push(art);
-    return acc;
-  }, {});
-  const industry = filtered.filter((a) => a.category === 'industry');
-
   return (
-    <div className="container">
-      <h1>Analytics News</h1>
-      <input
-        type="text"
-        placeholder="Search articles"
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-      />
-      {Object.entries(vendorSections).map(([vendor, arts]) => (
-        <Section key={vendor} title={vendor} articles={arts} />
-      ))}
-      <Section title="Industry" articles={industry} />
-    </div>
+    <Routes>
+      <Route element={<Layout query={query} setQuery={setQuery} />}>
+        <Route index element={<Home articles={filtered} />} />
+        <Route path="vendors" element={<Vendors articles={filtered} />} />
+        <Route path="industry" element={<Industry articles={filtered} />} />
+      </Route>
+    </Routes>
   );
 }

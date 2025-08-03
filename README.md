@@ -6,7 +6,7 @@ This project tracks daily announcements from analytics vendors (Microsoft, Sales
 - **`frontend/public/articles.json`** – structured data used by a React app
 - **Optional email digest** summarising the links
 
-The React app groups articles by vendor or industry and lets you search the summaries and heuristic "potential drawbacks" for each item. Styling aims to resemble a simple enterprise portal.
+The React app uses React Router to provide a home page plus separate vendor and industry sections. A global search bar filters all pages, and styling mimics ThoughtSpot's clean enterprise look.
 
 ---
 
@@ -75,7 +75,7 @@ cd frontend
 npm run dev
 ```
 
-`npm` prints a local URL (usually `http://localhost:5173`). Open that in your browser to browse articles grouped by vendor (e.g., Microsoft with Power BI news, Salesforce focusing on Tableau and Agentforce) or industry, search them, and view potential drawbacks.
+`npm` prints a local URL (usually `http://localhost:5173`). Open it to browse via the Home, Vendors, and Industry routes, search globally, and view expanded summaries with potential drawbacks.
 
 ---
 
@@ -110,12 +110,9 @@ On Windows PowerShell use `$env:VARIABLE="value"` instead of `export`.
 
 ## 8. Automate daily runs
 
-Schedule the command from step 5 (and optionally the email command) using a task scheduler:
+This repository includes a GitHub Actions workflow (`.github/workflows/daily.yml`) that runs at **07:00 GMT** every day. It fetches the latest feeds and commits the updated `public/index.html` and `frontend/public/articles.json`, triggering a redeploy on platforms like Vercel.
 
-- **macOS/Linux:** `crontab -e`
-- **Windows:** Task Scheduler
-
-Run it once a day to keep the report and React app data up to date. The TLDR email now includes brief summaries and potential drawbacks with clean plain text.
+If you prefer running locally instead, schedule the command from step 5 (and optionally the email command) using cron or Task Scheduler.
 
 ---
 

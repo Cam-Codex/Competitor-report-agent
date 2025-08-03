@@ -74,7 +74,7 @@ class Digest:
                 if art.summary:
                     lines.append(f"  {art.summary}")
                 lines.append(
-                    f"  Potential drawback: {suggest_drawback(art.title)}"
+                    f"  Potential drawback: {suggest_drawback(art.title, art.summary)}"
                 )
                 lines.append(f"  {art.link}")
                 lines.append("")
@@ -91,9 +91,7 @@ def load_feeds(path: str | Path) -> List[Feed]:
 def fetch_feed(feed: Feed) -> Iterable[Article]:
     parsed = feedparser.parse(feed.url)
     for entry in parsed.entries[: feed.max_items]:
-        summary = entry.get("summary")
-        if summary:
-            summary = strip_html(summary)
+        summary = extract_summary(entry)
         yield Article(
             title=entry.get("title", ""),
             link=entry.get("link", ""),
@@ -112,14 +110,36 @@ def build_digest(feeds: List[Feed]) -> Digest:
     return digest
 
 
-def suggest_drawback(title: str) -> str:
-    """Generate a simple potential drawback for an article."""
-    title_l = title.lower()
-    if "ai" in title_l:
-        return "May require high compute resources and raise bias concerns."
-    if "partnership" in title_l or "integration" in title_l:
-        return "Integration complexity and possible vendor lock-in."
-    return "Could introduce extra costs or change management challenges."
+def suggest_drawback(title: str, summary: str | None = None) -> str:
+    """Return a heuristic drawback based on title/summary keywords."""
+    text = f"{title} {summary or ''}".lower()
+    if any(k in text for k in ["security", "breach", "privacy"]):
+        return "May raise security and compliance concerns."
+    if any(k in text for k in ["ai", "machine learning", "automation"]):
+        return "Could require significant compute resources and expert oversight."
+    if any(k in text for k in ["cloud", "saas"]):
+        return "Relies on external infrastructure and possible vendor lock-in."
+    if any(k in text for k in ["partnership", "integration"]):
+        return "Integration complexity and potential data silos."
+    return "Consider cost, adoption effort, and governance implications."
+
+
+def extract_summary(entry: feedparser.FeedParserDict) -> str | None:
+    """Pull a longer plain-text summary from common RSS fields."""
+    parts: List[str] = []
+    for key in ("summary", "description"):
+        val = entry.get(key)
+        if val:
+            parts.append(val)
+    if entry.get("content"):
+        for c in entry.content:
+            if isinstance(c, dict) and c.get("value"):
+                parts.append(c["value"])
+    if not parts:
+        return None
+    text = strip_html(" ".join(parts))
+    sentences = re.split(r"(?<=[.!?]) +", text)
+    return " ".join(sentences[:2]).strip()
 
 
 def strip_html(text: str) -> str:
@@ -140,7 +160,7 @@ def write_json(digest: Digest, output: Path) -> None:
                     "published": art.published,
                     "source": art.source,
                     "category": art.category,
-                    "drawbacks": suggest_drawback(art.title),
+                    "drawbacks": suggest_drawback(art.title, art.summary),
                 }
             )
     output.parent.mkdir(parents=True, exist_ok=True)

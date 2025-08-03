@@ -1,0 +1,21 @@
+name: daily-news
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - run: pip install -r requirements.txt
+      - run: python news_agent.py --config feeds.yaml --output public/index.html --json frontend/public/articles.json
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update daily news data"
+          file_pattern: public/index.html frontend/public/articles.json
