@@ -1,12 +1,12 @@
 # Competitor Report Agent
 
-This project tracks daily announcements from analytics vendors and general industry news. A Python script gathers RSS articles and produces:
+This project tracks daily announcements from analytics vendors (Microsoft, Salesforce/Tableau, Snowflake, Databricks, Sigma, etc.) and general industry news. A Python script gathers RSS articles and produces:
 
 - **`public/index.html`** – a simple HTML report
 - **`frontend/public/articles.json`** – structured data used by a React app
 - **Optional email digest** summarising the links
 
-The React app groups articles by vendor or industry and lets you search the summaries and heuristic "potential drawbacks" for each item.
+The React app groups articles by vendor or industry and lets you search the summaries and heuristic "potential drawbacks" for each item. Styling aims to resemble a simple enterprise portal.
 
 ---
 
@@ -64,7 +64,7 @@ Run the news agent to fetch feeds, build the HTML report and create the JSON fil
 python news_agent.py --config feeds.yaml --output public/index.html --json frontend/public/articles.json
 ```
 
-You can open `public/index.html` directly in a browser to see the full list of links.
+You can open `public/index.html` directly in a browser to see the full list of links. The JSON file powers the React frontend (`frontend/public/articles.json`).
 
 ---
 
@@ -75,7 +75,7 @@ cd frontend
 npm run dev
 ```
 
-`npm` prints a local URL (usually `http://localhost:5173`). Open that in your browser to browse articles grouped by vendor or industry, search them, and view potential drawbacks.
+`npm` prints a local URL (usually `http://localhost:5173`). Open that in your browser to browse articles grouped by vendor (e.g., Microsoft with Power BI news, Salesforce focusing on Tableau and Agentforce) or industry, search them, and view potential drawbacks.
 
 ---
 
@@ -115,7 +115,7 @@ Schedule the command from step 5 (and optionally the email command) using a task
 - **macOS/Linux:** `crontab -e`
 - **Windows:** Task Scheduler
 
-Run it once a day to keep the report and React app data up to date.
+Run it once a day to keep the report and React app data up to date. The TLDR email now includes brief summaries and potential drawbacks with clean plain text.
 
 ---
 

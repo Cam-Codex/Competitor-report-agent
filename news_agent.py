@@ -30,6 +30,8 @@ from typing import Dict, Iterable, List
 import feedparser
 import jinja2
 import yaml
+import re
+from html import unescape
 
 
 @dataclass
@@ -68,9 +70,15 @@ class Digest:
         for source, articles in self.feeds.items():
             lines.append(f"{source}:")
             for art in articles:
-                lines.append(f" - {art.title} ({art.link})")
-            lines.append("")
-        return "\n".join(lines)
+                lines.append(f"- {art.title}")
+                if art.summary:
+                    lines.append(f"  {art.summary}")
+                lines.append(
+                    f"  Potential drawback: {suggest_drawback(art.title)}"
+                )
+                lines.append(f"  {art.link}")
+                lines.append("")
+        return "\n".join(lines).strip()
 
 
 def load_feeds(path: str | Path) -> List[Feed]:
@@ -83,10 +91,13 @@ def load_feeds(path: str | Path) -> List[Feed]:
 def fetch_feed(feed: Feed) -> Iterable[Article]:
     parsed = feedparser.parse(feed.url)
     for entry in parsed.entries[: feed.max_items]:
+        summary = entry.get("summary")
+        if summary:
+            summary = strip_html(summary)
         yield Article(
             title=entry.get("title", ""),
             link=entry.get("link", ""),
-            summary=entry.get("summary"),
+            summary=summary,
             published=entry.get("published"),
             source=feed.name,
             category=feed.category,
@@ -109,6 +120,12 @@ def suggest_drawback(title: str) -> str:
     if "partnership" in title_l or "integration" in title_l:
         return "Integration complexity and possible vendor lock-in."
     return "Could introduce extra costs or change management challenges."
+
+
+def strip_html(text: str) -> str:
+    """Remove HTML tags and unescape entities."""
+    clean = re.sub(r"<[^>]+>", "", text)
+    return unescape(clean).strip()
 
 
 def write_json(digest: Digest, output: Path) -> None:
