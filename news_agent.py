@@ -132,15 +132,11 @@ VENDOR_WEAKNESSES = {
 def suggest_drawback(
     title: str, summary: str | None = None, source: str | None = None
 ) -> str:
-    """Return drawback based on article context, using LLM when available."""
-    combined = f"{title} {summary or ''}".strip()
-    llm = llm_drawback(combined, source)
-    if llm:
-        return llm
+    """Return drawback based on vendor or title/summary keywords."""
     if source and source in VENDOR_WEAKNESSES:
         return VENDOR_WEAKNESSES[source]
 
-    text = combined.lower()
+    text = f"{title} {summary or ''}".lower()
     if any(k in text for k in ["security", "breach", "privacy"]):
         return "May raise security and compliance concerns."
     if any(k in text for k in ["ai", "machine learning", "automation"]):
@@ -211,45 +207,6 @@ def llm_summarize(text: str) -> Optional[str]:
                         "content": "Summarize the following article in 2-3 sentences.",
                     },
                     {"role": "user", "content": text[:4000]},
-                ],
-                max_tokens=120,
-                temperature=0.5,
-            )
-            return resp["choices"][0]["message"]["content"].strip()
-    except Exception:
-        return None
-
-
-def llm_drawback(text: str, source: str | None = None) -> Optional[str]:
-    """Use an LLM to highlight potential weaknesses versus ThoughtSpot."""
-    api_key = os.environ.get("OPENAI_API_KEY")
-    if not api_key or openai is None:
-        return None
-    prompt = (
-        "Identify a potential weakness or drawback in the following article, "
-        "noting any gap compared to ThoughtSpot where appropriate."
-    )
-    user_text = f"Source: {source or 'Unknown'}\n\n{text[:4000]}"
-    try:
-        if hasattr(openai, "OpenAI"):
-            client = openai.OpenAI(api_key=api_key)
-            resp = client.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "system", "content": prompt},
-                    {"role": "user", "content": user_text},
-                ],
-                max_tokens=120,
-                temperature=0.5,
-            )
-            return resp.choices[0].message.content.strip()
-        else:
-            openai.api_key = api_key
-            resp = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "system", "content": prompt},
-                    {"role": "user", "content": user_text},
                 ],
                 max_tokens=120,
                 temperature=0.5,
