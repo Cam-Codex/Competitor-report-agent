@@ -3,16 +3,20 @@ import Section from '../components/Section.jsx';
 
 export default function Older({ articles }) {
   const grouped = articles.reduce((acc, art) => {
-    const date = art.fetched || 'Unknown';
-    (acc[date] = acc[date] || []).push(art);
+    const vendor = art.source || 'Unknown';
+    (acc[vendor] = acc[vendor] || []).push(art);
     return acc;
   }, {});
 
   return (
-    <div>
-      {Object.entries(grouped).map(([date, arts]) => (
-        <Section key={date} title={date} articles={arts} />
+    <div className="vendor-folders">
+      {Object.entries(grouped).map(([vendor, arts]) => (
+        <details key={vendor}>
+          <summary>{vendor}</summary>
+          <Section articles={arts} />
+        </details>
       ))}
     </div>
   );
 }
+
