@@ -6,7 +6,8 @@
     "published": "Mon, 28 Jul 2025 13:59:57 +0000",
     "source": "Microsoft",
     "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight."
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
   },
   {
     "title": "Recommitting to our why, what, and how",
@@ -15,7 +16,8 @@
     "published": "Thu, 24 Jul 2025 16:19:41 +0000",
     "source": "Microsoft",
     "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight."
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
   },
   {
     "title": "Announcing comprehensive sovereign solutions empowering European organizations",
@@ -24,7 +26,8 @@
     "published": "Mon, 16 Jun 2025 08:39:54 +0000",
     "source": "Microsoft",
     "category": "vendor",
-    "drawbacks": "May raise security and compliance concerns."
+    "drawbacks": "May raise security and compliance concerns.",
+    "fetched": "2025-08-04"
   },
   {
     "title": "Microsoft Build 2025: The age of AI agents and building the open agentic web",
@@ -33,7 +36,8 @@
     "published": "Mon, 19 May 2025 16:00:00 +0000",
     "source": "Microsoft",
     "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight."
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
   },
   {
     "title": "How agentic AI is driving AI-first business transformation for customers to achieve more",
@@ -42,7 +46,8 @@
     "published": "Mon, 28 Apr 2025 15:59:56 +0000",
     "source": "Microsoft",
     "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight."
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
   },
   {
     "title": "Copilot, agents, and apps at the Power Platform Community Conference 2025 - Microsoft",
@@ -51,7 +56,8 @@
     "published": "Thu, 31 Jul 2025 15:00:00 GMT",
     "source": "Microsoft",
     "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
   },
   {
     "title": "AI-powered success—with more than 1,000 stories of customer transformation and innovation - Microsoft",
@@ -60,7 +66,8 @@
     "published": "Thu, 24 Jul 2025 07:00:00 GMT",
     "source": "Microsoft",
     "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight."
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
   },
   {
     "title": "How Microsoft Power BI Elevated My Data Analysis and Visualization Workflow - Towards Data Science",
@@ -69,7 +76,218 @@
     "published": "Tue, 27 May 2025 07:00:00 GMT",
     "source": "Microsoft",
     "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "What’s new in Power Apps: March 2025 Feature Update - Microsoft",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWFZUllBam9sakxsamZ5TUdIVGlyY0dEUjFPVlFGRFRQSVltMTgxbEU1aWZ0Szd2NDRyY2Rza0JTWV85UnhBZmxIaDJvd3FIQnpmTnVrVnU4WGFFWFU3aW9WYnp1QWh4a0xNQ3pnYUVDU3haY012TVRaZjR4UElMcHNZZWVOMVBmVkRHVXhjd2p6cC1sWFdTY0hXSjVZLUY2dmo0RGQ3NlNaM1lhb3lQaHZVdw?oc=5",
+    "summary": "What’s new in Power Apps: March 2025 Feature Update  Microsoft What’s new in Power Apps: March 2025 Feature Update  Microsoft",
+    "published": "Fri, 04 Apr 2025 07:00:00 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately! - gbhackers.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2V0OFhvNzQ5Qm5LVV9TXzdFZUNLbHJHbVhaRG12bG45Uk5OS1dqMWh6LWxsa2VqZWtIN2dyMXhlUEpqM1BFT3NQMmZtWHJsUkxxWTU3b3RhMXdMQmhYdzNPUVBOSGZTUGFsX3JxWG1HeWdpQW1rTGdoUzdXSTZjcm530gGHAUFVX3lxTE43UVdmZFRzOEdQazgtUy00ejItX3R2dGRSNlRjbzZTZW41NUJuVXkzLTdzZFcwQm9nX0ZzY0NQU2s2Z2RCZWVwZ0tpVFNUeWdlNzQwaTR0VGtrUFRtci1hem5XM2tDNU5wcGR3TnpoQWxSVlgzRmtVZkxCY3NPZ2xCYVh0MFQ5OA?oc=5",
+    "summary": "Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately!  gbhackers.com Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately!  gbhackers.com",
+    "published": "Mon, 28 Jul 2025 04:56:24 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required - Cyber Press",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemdaa2RTVGZibW8zYzZaZ1QxOGx5TnVuMUFkVk83YnNHNkhXNF9tZFNmc1NLVGFpeERPODIya0ZhM1Z3MzdoYVcwNEhWWmlzdFlGbG1YSXkyOUQzM2dPTU9PM3AzZzdVZzZSa2w2SUprMC1hb1HSAXZBVV95cUxQR3pnWmtkU1RmYm1vM2M2WmdUMThseU51bjFBZFZPN2JzRzZIVzRfbWRTZnNTS1RhaXhETzgyMmtGYTNWdzM3aGFXMDRIVlppc3RZRmxtWEl5MjlEMzNnT01PTzNwM2c3VWc2UmtsNklKazAtYW9R?oc=5",
+    "summary": "Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required  Cyber Press Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required  Cyber Press",
+    "published": "Mon, 28 Jul 2025 07:11:47 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely - CyberSecurityNews",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQNWR0ZlMwT0ZEdXFabENDTmJITHNjSXpQN0lKRU9NTld1b2lCMndET1RFX0R4Uzc1b25jdks3aWY4YzExNTlGV2l6aVBsNTFKWGdldFJVYXpXOW1ISHhLLXd0TUI2dHpuVHl6X0FqYThjYknSAXhBVV95cUxQN05UTDNKa1A4ejB3YklWcnJoRjQ4M19MbDkxVmlkY2NuQWxRSHhQS0NicVVZTTBrNzZVTFZZWWE3SnBFdzVXYURYdTVTRVBuNmkzb0IzWDlUYWxfTkllVzdzbFNpbU9BanpxaUN5eVYzZTNtQ2dPcWY?oc=5",
+    "summary": "Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely  CyberSecurityNews Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely  CyberSecurityNews",
+    "published": "Mon, 28 Jul 2025 06:06:42 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "May raise security and compliance concerns.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Salesforce Unveils Tableau Next: 5 Big Talking Points - CX Today",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2s5NElSY1dxVU5Ma0lWWUpfUkRTN0trbExOOENCSWRkMXNBOGJRUzVGcmZfV1F6VWI1elRESWNmR2hLZEtwR2hCZHNVaUFGVGlSc1JRenB2dHd5amtiTF9sbjFVNWFRWHoxMVdhMmF6VVQxYmRvZXZsYmhXZFlBTTk2Q2V4R1g4VU04T1A3RXJ5UlVzX1ZjSllBczBld29PWXc?oc=5",
+    "summary": "Salesforce Unveils Tableau Next: 5 Big Talking Points  CX Today Salesforce Unveils Tableau Next: 5 Big Talking Points  CX Today",
+    "published": "Tue, 22 Apr 2025 07:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Salesforce Agentforce: What you need to know - MarTech",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVUJsbmhIeDdrYjJlZDJOa0hHSXB4U3hSUk5WTmRXTmVZalhvZGx4QjFJMUtEUDV4QWsyNTZjSTdiRE54MGt0TlFoQm5NZDVpN0NhZkVmd1FBN0VBbk9PM0lJS3RXUVRLcmZ2OGxCOW1SUQ?oc=5",
+    "summary": "Salesforce Agentforce: What you need to know  MarTech Salesforce Agentforce: What you need to know  MarTech",
+    "published": "Fri, 25 Jul 2025 07:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Salesforce: The Generational Buying Opportunity Is Here (Rating Upgrade) (NYSE:CRM) - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fazVsQVBqVTlOWlZ3ZXVuS00tZ01SOXlkOE56cEZtRUdNSXFucW5xS1I3RUdER012NTBXaFAzSExFZkpzb29BenQtLURmaks4RHdEajNzTjB1cVFWcC1xa0R3VGdhRlM3aEstV0ZaamRKSFBYWVU5aFhB?oc=5",
+    "summary": "Salesforce: The Generational Buying Opportunity Is Here (Rating Upgrade) (NYSE:CRM)  Seeking Alpha Salesforce: The Generational Buying Opportunity Is Here (Rating Upgrade) (NYSE:CRM)  Seeking Alpha",
+    "published": "Sun, 03 Aug 2025 17:10:15 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Is Salesforce's 30% Upside Potential a Generational Buy Opportunity in the AI-Driven CRM Sector? - AInvest",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2l5YkdEdjFzclEwdXp4Y3IxUlp5eXdsdXl0UkZsODhYeHphaWJ2MktOWVVzQkhfcUhrT0tWMzNWVjhOeERtRnM5YklnTUpFMTFGMXRwZW9iUk92R092OUxhUXR3V2RUUVJ5OHRkRHJZamFScGF0RTVRSmlQN3hCUXQyTDBmSE5IVTVXSnZTTi1jaVljVzItR25ac01ObHIxLU5mcU0xdVpUTWQzQ3U5VnhuZlowZw?oc=5",
+    "summary": "Is Salesforce's 30% Upside Potential a Generational Buy Opportunity in the AI-Driven CRM Sector?  AInvest Is Salesforce's 30% Upside Potential a Generational Buy Opportunity in the AI-Driven CRM Sector?  AInvest",
+    "published": "Sun, 03 Aug 2025 17:23:37 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "PepsiCo Leverages Salesforce's Agentforce to Advance AI Agenda - PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFRvSjVtdEJQYkk5d2N4UndudzlyTEdrYllPSVU3UHBHSHpCLTlUUmRoSG51S19DcGJqbFV1TGc1Rkd6UHlEUlJHM09kZ3gzeXJjTTI4OTVEanVfcHBmcTdfQXluX3V3WkY2NUl2WmhTUlVFMXZBUl83cy1NT2VvUzRPbnZjLS1SWGdyZmZZa1FJSmJnZG9sMWN2YnZFRGEwck5BSEg3ZmR2OS1OSVdaM21WbjBTR3FI?oc=5",
+    "summary": "PepsiCo Leverages Salesforce's Agentforce to Advance AI Agenda  PR Newswire PepsiCo Leverages Salesforce's Agentforce to Advance AI Agenda  PR Newswire",
+    "published": "Tue, 24 Jun 2025 07:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Salesforce Bets Big on Agentforce: Can AI Agents Power Growth? - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHloLVBxZWUwTXNBT21MajAxSmNVSi13SVEzaWNjbHNHYm84YjBJbExZSHYydGgxeVlEQTVCT0dzX2FBQm1LcXJFR2FvdndaSTg2NHhIUjhsWE1KOE81UHZaZjVKanJleUNsTFpjX055d0VLd3JzdFZ2QTdqRzdjOUFWOGZyZw?oc=5",
+    "summary": "Salesforce Bets Big on Agentforce: Can AI Agents Power Growth?  Yahoo Finance Salesforce Bets Big on Agentforce: Can AI Agents Power Growth?  Yahoo Finance",
+    "published": "Thu, 17 Jul 2025 07:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Qrvey 9.1 Accelerates Embedded Analytics With Agentic AI and a Faster Path to Deployment - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1d1RE9uYUdqeGpqeGFVMFNDR1oyM1hIM3lyNTd4UEZmWG51MkhLTTFWQ2JjZ2ZuYjE0bE1DTHBpQWMyb1hhVmRTRWVoZ2hKRVZFbXF1VFJheU4zcXlGazhzMGJidE0tWUJ4U1IxWlBDbjJFczk0T3MwT2xTNE5JNjRn?oc=5",
+    "summary": "Qrvey 9.1 Accelerates Embedded Analytics With Agentic AI and a Faster Path to Deployment  Yahoo Finance Qrvey 9.1 Accelerates Embedded Analytics With Agentic AI and a Faster Path to Deployment  Yahoo Finance",
+    "published": "Tue, 29 Jul 2025 12:00:00 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025 - Australian Technology News",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUTNmOUgwN1VSUlBYSHRSM3BoSVJjTHlndnR5QkdmTS1EcTl3akJSX3N2R3ZKY2ZtOTVscy1nTHY1RnpTY2tEUHk2OEplc05PS2FNMklVRndOMnZ0cm9jTVV3S0pfQWJRSWZuYXVIVFl6X2NnNzBkaU03VmI0N2VnczVsOVg0eEJoUktfQi16Ri15VkR0ZElta3lUdXpRQUlWcm04LTh1ak42Q2tWcGtkOXZiMXdWWmxXb2V0TFctRnZfUzFqaHZnLXVpNWtUcFg4YU5HUA?oc=5",
+    "summary": "The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025  Australian Technology News The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025  Australian Technology News",
+    "published": "Sat, 02 Aug 2025 03:05:18 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Momba launches agentic AI solution to transform business analysis and project delivery - AiThority",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeExheFhKXzBBZTBfYkFmRE9KV1RIUVdZR1hyV0VEZ21PWGFWRDB0TGRxVE9zcFR1aS1XTmtZNS1iTzdaWGdEb0dQX29DdjczLXRJV0h1S0ZrYUU0SXFOMU9uQ3pHLVBrbTRUVjBkZkIxMTMxdmM5Tmw1azZjRlJwWjBjMVJGblhtRGdJTVpHOFhFU3psRERvSTZ4QTNRNTlmX2VRYXlrWmdUb1pON2hsQzRiSzdoTXVUUm1fOGJsQ1hJNVh2?oc=5",
+    "summary": "Momba launches agentic AI solution to transform business analysis and project delivery  AiThority Momba launches agentic AI solution to transform business analysis and project delivery  AiThority",
+    "published": "Wed, 30 Jul 2025 15:09:20 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "7 Data Analytics Careers That Are in High Demand, and How to Stand Out - Bentley University",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV085STI4NGI4RjdLa21GYWtjajI4XzNkcGZfSWx1VHBZQ29HM2NWTDdwSWQ5SVRROHRDek5wRF9rUVg5WTRieWZSU3BLbklXUHBFa3R5cmdWOW9MLXVEUFlhY1BSc2h2UjNxUWZTRHg3S3FveFFNODVJMVBUTEZWcXF5QlFNakZqdlU3R3BXNmk?oc=5",
+    "summary": "7 Data Analytics Careers That Are in High Demand, and How to Stand Out  Bentley University 7 Data Analytics Careers That Are in High Demand, and How to Stand Out  Bentley University",
+    "published": "Wed, 23 Jul 2025 13:23:52 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "10 Best AI Tools for Data Analysts (August 2025) - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SX0lBeUx4ZVdjUDJvcVR3S3lyZUJxYTFRQ2tIalJ1aFZONmVPcnphMFY4OFJtX04zTlU3a0E2X1RqeWNBV2NadktrU0tQaV9TTFlKbFdTYw?oc=5",
+    "summary": "10 Best AI Tools for Data Analysts (August 2025)  Unite.AI 10 Best AI Tools for Data Analysts (August 2025)  Unite.AI",
+    "published": "Sat, 02 Aug 2025 00:56:15 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More - solutionsreview.com",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlN1VzV4cnNSRl9SWGhZRVgyNmlzYzJNZ1VlYzhQeU5LRnFpV0hRR2dRakJHb0VDdkxHMVczZkppVjgzUVBxbmkxTDVUT1BTTGVkVlJVTXh2anllam5LcjFFZHpCcHB6TmU4TnRLXzBXcGtYb0Zvcmc5ZWp5SUkxMGY3UG1JY2staVhVQVRYQlFpVWxTSHg4RWFFc25OQ2dNZDBHNzJPbHN2TlR6S01CU0NXYzNYT2RyWmxxMGJqcURka1R1c0lYWUFaTFgwX1FOdTVGMHE1X1RrS1VaUnY4TGdHYXhEMHI5cFV3?oc=5",
+    "summary": "Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More  solutionsreview.com Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More  solutionsreview.com",
+    "published": "Fri, 01 Aug 2025 10:50:45 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric - Microsoft",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5c3k0SnJpWWpZQmVHdWhUaDljTTVZY3VjTWs3ZVRLTXZEbXhIaUN6X0ZOQzhDM3JXN1NmNUJ5akRLTWZyUkliT1czZ3ltNENNWjZTQUptaU16dXQzMXZsTG5VM1MtUjFBLWVTQ0tySHZaaEFJYXZtRlRyb2d0QQ?oc=5",
+    "summary": "Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric  Microsoft Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric  Microsoft",
+    "published": "Mon, 19 May 2025 07:00:00 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Agentic AI could be the Breakthrough Indian SMBs were Waiting For - sify.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGcwMkV4RnUtcVgwTDJ1NXd6RHFYV180Q0U0enVKRjlLOF9obk9uQkFQcnllMW9DWWFVLVlvcDFUb25iRDdFVF9Nc0lMdzktUV9WdmZRRk5adGxVZEFzbjZLMkJidnJXY3lDdHZwS2RTcTNxMm82cE9BYm1tQzEwVTRvRHQtMDlWMHRYZlFqc1NLRHJVMG91SVVsSVczY0loblE?oc=5",
+    "summary": "Agentic AI could be the Breakthrough Indian SMBs were Waiting For  sify.com Agentic AI could be the Breakthrough Indian SMBs were Waiting For  sify.com",
+    "published": "Mon, 04 Aug 2025 05:17:12 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Driving Business Value With Agentic AI - Harvard Business Review",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBOWtyNmdRMGpPMWlyNXBMaGNLLWhncm51cS12SWFZZzNvU2UzaEdmbExPbGlFTU45ZVl4bXlRczQxbEpxUWVPYVJIaFZpRGRQWkNGS1IyTTM4cVlYcTlZN0NqZ1BraXQyNjU0bzVsd3JRT0V4QllxdE5ta1Q?oc=5",
+    "summary": "Driving Business Value With Agentic AI  Harvard Business Review Driving Business Value With Agentic AI  Harvard Business Review",
+    "published": "Wed, 16 Jul 2025 07:00:00 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "Data Analytics, Technologies and Applications - Purdue Polytechnic",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3hweHhJd1VlVmJPNFFmYko3QmVVN1RsTDVNelFGRVlLMl91ZGpFT3FLbVZIc1lIRlhjc1I2RGVpQzhZTWw3ckdPRHlSS3MxVTZwX3A0WHZqbEkwdS15WEhrZy00RVNRejhFSEFEdVRnejY2S1ljWHpLeVFUdC15SHRKa2Z2YUZfcGZrTXln?oc=5",
+    "summary": "Data Analytics, Technologies and Applications  Purdue Polytechnic Data Analytics, Technologies and Applications  Purdue Polytechnic",
+    "published": "Wed, 16 Jul 2025 07:00:00 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
+  },
+  {
+    "title": "“I think of analysts as data wizards who help their product teams solve problems” - Towards Data Science",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjExeTM2NXlNa21vZ3I0SWVfS2hlWWJUZHZraHp2c1JvSzktOEdhR25pYVNvVlhkR2NaWE1CS2l5QUpVX1VpMXFpdXYwc0ZmWHlLd2JYcGFDM01YTVN3cWVfXzdtNGtNMjVzUEs1RDBMMW52dThWYmxwY0NZc19zZFVSdlhWNnVDaXpsVVhlU0pKQmlmR1g1Sk1JNU9OR3dtQUtram0yUlBzZDEyeHNiLQ?oc=5",
+    "summary": "“I think of analysts as data wizards who help their product teams solve problems”  Towards Data Science “I think of analysts as data wizards who help their product teams solve problems”  Towards Data Science",
+    "published": "Fri, 01 Aug 2025 14:39:53 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-08-04"
   },
   {
     "title": "What’s new in Power Apps: May 2025 Feature Update - Microsoft",
@@ -81,136 +299,10 @@
     "drawbacks": "Consider cost, adoption effort, and governance implications."
   },
   {
-    "title": "What’s new in Power Apps: March 2025 Feature Update - Microsoft",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWFZUllBam9sakxsamZ5TUdIVGlyY0dEUjFPVlFGRFRQSVltMTgxbEU1aWZ0Szd2NDRyY2Rza0JTWV85UnhBZmxIaDJvd3FIQnpmTnVrVnU4WGFFWFU3aW9WYnp1QWh4a0xNQ3pnYUVDU3haY012TVRaZjR4UElMcHNZZWVOMVBmVkRHVXhjd2p6cC1sWFdTY0hXSjVZLUY2dmo0RGQ3NlNaM1lhb3lQaHZVdw?oc=5",
-    "summary": "What’s new in Power Apps: March 2025 Feature Update  Microsoft What’s new in Power Apps: March 2025 Feature Update  Microsoft",
-    "published": "Fri, 04 Apr 2025 07:00:00 GMT",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately! - gbhackers.com",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2V0OFhvNzQ5Qm5LVV9TXzdFZUNLbHJHbVhaRG12bG45Uk5OS1dqMWh6LWxsa2VqZWtIN2dyMXhlUEpqM1BFT3NQMmZtWHJsUkxxWTU3b3RhMXdMQmhYdzNPUVBOSGZTUGFsX3JxWG1HeWdpQW1rTGdoUzdXSTZjcm530gGHAUFVX3lxTE43UVdmZFRzOEdQazgtUy00ejItX3R2dGRSNlRjbzZTZW41NUJuVXkzLTdzZFcwQm9nX0ZzY0NQU2s2Z2RCZWVwZ0tpVFNUeWdlNzQwaTR0VGtrUFRtci1hem5XM2tDNU5wcGR3TnpoQWxSVlgzRmtVZkxCY3NPZ2xCYVh0MFQ5OA?oc=5",
-    "summary": "Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately!  gbhackers.com Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately!  gbhackers.com",
-    "published": "Mon, 28 Jul 2025 04:56:24 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required - Cyber Press",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemdaa2RTVGZibW8zYzZaZ1QxOGx5TnVuMUFkVk83YnNHNkhXNF9tZFNmc1NLVGFpeERPODIya0ZhM1Z3MzdoYVcwNEhWWmlzdFlGbG1YSXkyOUQzM2dPTU9PM3AzZzdVZzZSa2w2SUprMC1hb1HSAXZBVV95cUxQR3pnWmtkU1RmYm1vM2M2WmdUMThseU51bjFBZFZPN2JzRzZIVzRfbWRTZnNTS1RhaXhETzgyMmtGYTNWdzM3aGFXMDRIVlppc3RZRmxtWEl5MjlEMzNnT01PTzNwM2c3VWc2UmtsNklKazAtYW9R?oc=5",
-    "summary": "Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required  Cyber Press Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required  Cyber Press",
-    "published": "Mon, 28 Jul 2025 07:11:47 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely - CyberSecurityNews",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQNWR0ZlMwT0ZEdXFabENDTmJITHNjSXpQN0lKRU9NTld1b2lCMndET1RFX0R4Uzc1b25jdks3aWY4YzExNTlGV2l6aVBsNTFKWGdldFJVYXpXOW1ISHhLLXd0TUI2dHpuVHl6X0FqYThjYknSAXhBVV95cUxQN05UTDNKa1A4ejB3YklWcnJoRjQ4M19MbDkxVmlkY2NuQWxRSHhQS0NicVVZTTBrNzZVTFZZWWE3SnBFdzVXYURYdTVTRVBuNmkzb0IzWDlUYWxfTkllVzdzbFNpbU9BanpxaUN5eVYzZTNtQ2dPcWY?oc=5",
-    "summary": "Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely  CyberSecurityNews Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely  CyberSecurityNews",
-    "published": "Mon, 28 Jul 2025 06:06:42 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "May raise security and compliance concerns."
-  },
-  {
-    "title": "Salesforce Unveils Tableau Next: 5 Big Talking Points - CX Today",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2s5NElSY1dxVU5Ma0lWWUpfUkRTN0trbExOOENCSWRkMXNBOGJRUzVGcmZfV1F6VWI1elRESWNmR2hLZEtwR2hCZHNVaUFGVGlSc1JRenB2dHd5amtiTF9sbjFVNWFRWHoxMVdhMmF6VVQxYmRvZXZsYmhXZFlBTTk2Q2V4R1g4VU04T1A3RXJ5UlVzX1ZjSllBczBld29PWXc?oc=5",
-    "summary": "Salesforce Unveils Tableau Next: 5 Big Talking Points  CX Today Salesforce Unveils Tableau Next: 5 Big Talking Points  CX Today",
-    "published": "Tue, 22 Apr 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "Salesforce Agentforce: What you need to know - MarTech",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVUJsbmhIeDdrYjJlZDJOa0hHSXB4U3hSUk5WTmRXTmVZalhvZGx4QjFJMUtEUDV4QWsyNTZjSTdiRE54MGt0TlFoQm5NZDVpN0NhZkVmd1FBN0VBbk9PM0lJS3RXUVRLcmZ2OGxCOW1SUQ?oc=5",
-    "summary": "Salesforce Agentforce: What you need to know  MarTech Salesforce Agentforce: What you need to know  MarTech",
-    "published": "Fri, 25 Jul 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "Salesforce: The Generational Buying Opportunity Is Here (Rating Upgrade) (NYSE:CRM) - Seeking Alpha",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fazVsQVBqVTlOWlZ3ZXVuS00tZ01SOXlkOE56cEZtRUdNSXFucW5xS1I3RUdER012NTBXaFAzSExFZkpzb29BenQtLURmaks4RHdEajNzTjB1cVFWcC1xa0R3VGdhRlM3aEstV0ZaamRKSFBYWVU5aFhB?oc=5",
-    "summary": "Salesforce: The Generational Buying Opportunity Is Here (Rating Upgrade) (NYSE:CRM)  Seeking Alpha Salesforce: The Generational Buying Opportunity Is Here (Rating Upgrade) (NYSE:CRM)  Seeking Alpha",
-    "published": "Sun, 03 Aug 2025 17:10:15 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "Is Salesforce's 30% Upside Potential a Generational Buy Opportunity in the AI-Driven CRM Sector? - AInvest",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2l5YkdEdjFzclEwdXp4Y3IxUlp5eXdsdXl0UkZsODhYeHphaWJ2MktOWVVzQkhfcUhrT0tWMzNWVjhOeERtRnM5YklnTUpFMTFGMXRwZW9iUk92R092OUxhUXR3V2RUUVJ5OHRkRHJZamFScGF0RTVRSmlQN3hCUXQyTDBmSE5IVTVXSnZTTi1jaVljVzItR25ac01ObHIxLU5mcU0xdVpUTWQzQ3U5VnhuZlowZw?oc=5",
-    "summary": "Is Salesforce's 30% Upside Potential a Generational Buy Opportunity in the AI-Driven CRM Sector?  AInvest Is Salesforce's 30% Upside Potential a Generational Buy Opportunity in the AI-Driven CRM Sector?  AInvest",
-    "published": "Sun, 03 Aug 2025 17:23:37 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight."
-  },
-  {
-    "title": "Salesforce Agentforce: What you need to know - MarTech",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVUJsbmhIeDdrYjJlZDJOa0hHSXB4U3hSUk5WTmRXTmVZalhvZGx4QjFJMUtEUDV4QWsyNTZjSTdiRE54MGt0TlFoQm5NZDVpN0NhZkVmd1FBN0VBbk9PM0lJS3RXUVRLcmZ2OGxCOW1SUQ?oc=5",
-    "summary": "Salesforce Agentforce: What you need to know  MarTech Salesforce Agentforce: What you need to know  MarTech",
-    "published": "Fri, 25 Jul 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "PepsiCo Leverages Salesforce's Agentforce to Advance AI Agenda - PR Newswire",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFRvSjVtdEJQYkk5d2N4UndudzlyTEdrYllPSVU3UHBHSHpCLTlUUmRoSG51S19DcGJqbFV1TGc1Rkd6UHlEUlJHM09kZ3gzeXJjTTI4OTVEanVfcHBmcTdfQXluX3V3WkY2NUl2WmhTUlVFMXZBUl83cy1NT2VvUzRPbnZjLS1SWGdyZmZZa1FJSmJnZG9sMWN2YnZFRGEwck5BSEg3ZmR2OS1OSVdaM21WbjBTR3FI?oc=5",
-    "summary": "PepsiCo Leverages Salesforce's Agentforce to Advance AI Agenda  PR Newswire PepsiCo Leverages Salesforce's Agentforce to Advance AI Agenda  PR Newswire",
-    "published": "Tue, 24 Jun 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight."
-  },
-  {
-    "title": "Salesforce Bets Big on Agentforce: Can AI Agents Power Growth? - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHloLVBxZWUwTXNBT21MajAxSmNVSi13SVEzaWNjbHNHYm84YjBJbExZSHYydGgxeVlEQTVCT0dzX2FBQm1LcXJFR2FvdndaSTg2NHhIUjhsWE1KOE81UHZaZjVKanJleUNsTFpjX055d0VLd3JzdFZ2QTdqRzdjOUFWOGZyZw?oc=5",
-    "summary": "Salesforce Bets Big on Agentforce: Can AI Agents Power Growth?  Yahoo Finance Salesforce Bets Big on Agentforce: Can AI Agents Power Growth?  Yahoo Finance",
-    "published": "Thu, 17 Jul 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight."
-  },
-  {
     "title": "ThoughtSpot Redefines AI Interoperability with Launch of ThoughtSpot Agentic MCP Server - GlobeNewswire",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa0JVdjIwbWM0M0VaX1NLTzBVcXpTOUpRVWNwNERHQkpTU1JFclBIQ282M1hCR2s2ZE43bXczal9CamVUZWJfQkdGc3dHaklLeWJ1RjMzcWJHZldIQjdMZlVyQ1dnTnJLX3MwUXVkbnBiZmxNOXE2azN6ZUJRNElLZ1pnZzQ0MkRKdlBOZUZXTDdpTTNYVVNWbzV4T1lodkVlakNaci14bjhRYUJ0cFVpeS1jTWIzMjNXbTRFVWQ1SG9OcEEtaDBSMnlJd19Jd1htbVRiZHhfRDN1UTczemRGTTJWcm9XSWVtcXN2WkxyUTM?oc=5",
     "summary": "ThoughtSpot Redefines AI Interoperability with Launch of ThoughtSpot Agentic MCP Server  GlobeNewswire ThoughtSpot Redefines AI Interoperability with Launch of ThoughtSpot Agentic MCP Server  GlobeNewswire",
     "published": "Tue, 29 Jul 2025 13:04:02 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
-    "drawbacks": "Could require significant compute resources and expert oversight."
-  },
-  {
-    "title": "Qrvey 9.1 Accelerates Embedded Analytics With Agentic AI and a Faster Path to Deployment - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1d1RE9uYUdqeGpqeGFVMFNDR1oyM1hIM3lyNTd4UEZmWG51MkhLTTFWQ2JjZ2ZuYjE0bE1DTHBpQWMyb1hhVmRTRWVoZ2hKRVZFbXF1VFJheU4zcXlGazhzMGJidE0tWUJ4U1IxWlBDbjJFczk0T3MwT2xTNE5JNjRn?oc=5",
-    "summary": "Qrvey 9.1 Accelerates Embedded Analytics With Agentic AI and a Faster Path to Deployment  Yahoo Finance Qrvey 9.1 Accelerates Embedded Analytics With Agentic AI and a Faster Path to Deployment  Yahoo Finance",
-    "published": "Tue, 29 Jul 2025 12:00:00 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
-    "drawbacks": "Could require significant compute resources and expert oversight."
-  },
-  {
-    "title": "The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025 - Australian Technology News",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUTNmOUgwN1VSUlBYSHRSM3BoSVJjTHlndnR5QkdmTS1EcTl3akJSX3N2R3ZKY2ZtOTVscy1nTHY1RnpTY2tEUHk2OEplc05PS2FNMklVRndOMnZ0cm9jTVV3S0pfQWJRSWZuYXVIVFl6X2NnNzBkaU03VmI0N2VnczVsOVg0eEJoUktfQi16Ri15VkR0ZElta3lUdXpRQUlWcm04LTh1ak42Q2tWcGtkOXZiMXdWWmxXb2V0TFctRnZfUzFqaHZnLXVpNWtUcFg4YU5HUA?oc=5",
-    "summary": "The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025  Australian Technology News The $196.6 Billion Agentic AI Revolution: Complete Market Analysis, Statistics & Growth Forecast 2025  Australian Technology News",
-    "published": "Sat, 02 Aug 2025 03:05:18 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
-    "drawbacks": "Could require significant compute resources and expert oversight."
-  },
-  {
-    "title": "Momba launches agentic AI solution to transform business analysis and project delivery - AiThority",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeExheFhKXzBBZTBfYkFmRE9KV1RIUVdZR1hyV0VEZ21PWGFWRDB0TGRxVE9zcFR1aS1XTmtZNS1iTzdaWGdEb0dQX29DdjczLXRJV0h1S0ZrYUU0SXFOMU9uQ3pHLVBrbTRUVjBkZkIxMTMxdmM5Tmw1azZjRlJwWjBjMVJGblhtRGdJTVpHOFhFU3psRERvSTZ4QTNRNTlmX2VRYXlrWmdUb1pON2hsQzRiSzdoTXVUUm1fOGJsQ1hJNVh2?oc=5",
-    "summary": "Momba launches agentic AI solution to transform business analysis and project delivery  AiThority Momba launches agentic AI solution to transform business analysis and project delivery  AiThority",
-    "published": "Wed, 30 Jul 2025 15:09:20 GMT",
     "source": "Agentic Analytics",
     "category": "industry",
     "drawbacks": "Could require significant compute resources and expert oversight."
@@ -234,37 +326,10 @@
     "drawbacks": "Could require significant compute resources and expert oversight."
   },
   {
-    "title": "7 Data Analytics Careers That Are in High Demand, and How to Stand Out - Bentley University",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV085STI4NGI4RjdLa21GYWtjajI4XzNkcGZfSWx1VHBZQ29HM2NWTDdwSWQ5SVRROHRDek5wRF9rUVg5WTRieWZSU3BLbklXUHBFa3R5cmdWOW9MLXVEUFlhY1BSc2h2UjNxUWZTRHg3S3FveFFNODVJMVBUTEZWcXF5QlFNakZqdlU3R3BXNmk?oc=5",
-    "summary": "7 Data Analytics Careers That Are in High Demand, and How to Stand Out  Bentley University 7 Data Analytics Careers That Are in High Demand, and How to Stand Out  Bentley University",
-    "published": "Wed, 23 Jul 2025 13:23:52 GMT",
-    "source": "Data Analytics",
-    "category": "industry",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "10 Best AI Tools for Data Analysts (August 2025) - Unite.AI",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SX0lBeUx4ZVdjUDJvcVR3S3lyZUJxYTFRQ2tIalJ1aFZONmVPcnphMFY4OFJtX04zTlU3a0E2X1RqeWNBV2NadktrU0tQaV9TTFlKbFdTYw?oc=5",
-    "summary": "10 Best AI Tools for Data Analysts (August 2025)  Unite.AI 10 Best AI Tools for Data Analysts (August 2025)  Unite.AI",
-    "published": "Sat, 02 Aug 2025 00:56:15 GMT",
-    "source": "Data Analytics",
-    "category": "industry",
-    "drawbacks": "Could require significant compute resources and expert oversight."
-  },
-  {
     "title": "Data Science Master's Degree - Elmhurst University",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnJSdkNpeGo5anFaX1lpSXF6Z3FuU095dm9MblA1c0kxVVlXcS1qVWF2ZjdsbGoyZ0lyTE01ZEJET1g4cWdqVEVOcUJmaWVJVHIyX1ZRa2txMGF2bk9oT0QwTjNBWjZKcFM4LVVlNWVSNVh1UHhFZFo4RzlXUl82SmNaM2NtWTNCSy1Sb0xILWRnbUtGb1RrNVRCM1pkTzg1M0xqZDBJSFU4TmdHSnE0?oc=5",
     "summary": "Data Science Master's Degree  Elmhurst University Data Science Master's Degree  Elmhurst University",
     "published": "Thu, 17 Jul 2025 07:00:00 GMT",
-    "source": "Data Analytics",
-    "category": "industry",
-    "drawbacks": "Consider cost, adoption effort, and governance implications."
-  },
-  {
-    "title": "Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More - solutionsreview.com",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlN1VzV4cnNSRl9SWGhZRVgyNmlzYzJNZ1VlYzhQeU5LRnFpV0hRR2dRakJHb0VDdkxHMVczZkppVjgzUVBxbmkxTDVUT1BTTGVkVlJVTXh2anllam5LcjFFZHpCcHB6TmU4TnRLXzBXcGtYb0Zvcmc5ZWp5SUkxMGY3UG1JY2staVhVQVRYQlFpVWxTSHg4RWFFc25OQ2dNZDBHNzJPbHN2TlR6S01CU0NXYzNYT2RyWmxxMGJqcURka1R1c0lYWUFaTFgwX1FOdTVGMHE1X1RrS1VaUnY4TGdHYXhEMHI5cFV3?oc=5",
-    "summary": "Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More  solutionsreview.com Analytics and Data Science News for the Week of August 1; Updates from Anaconda, Teradata, ThoughtSpot & More  solutionsreview.com",
-    "published": "Fri, 01 Aug 2025 10:50:45 GMT",
     "source": "Data Analytics",
     "category": "industry",
     "drawbacks": "Consider cost, adoption effort, and governance implications."

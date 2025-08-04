@@ -32,6 +32,10 @@ body {
   font-weight: 500;
 }
 
+.navbar nav a.active {
+  text-decoration: underline;
+}
+
 .navbar nav a:last-child {
   margin-right: 0;
 }

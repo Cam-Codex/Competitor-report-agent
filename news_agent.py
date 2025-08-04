@@ -23,6 +23,7 @@ import json
 import os
 import smtplib
 from dataclasses import dataclass, field
+from datetime import date
 from email.mime.text import MIMEText
 from pathlib import Path
 from typing import Dict, Iterable, List
@@ -149,22 +150,38 @@ def strip_html(text: str) -> str:
 
 
 def write_json(digest: Digest, output: Path) -> None:
-    data = []
+    """Merge new articles with existing JSON and tag fetch dates."""
+
+    today = date.today().isoformat()
+    existing: Dict[str, Dict] = {}
+
+    if output.exists():
+        try:
+            current = json.loads(output.read_text(encoding="utf-8"))
+            for item in current:
+                if item.get("link"):
+                    existing[item["link"]] = item
+        except json.JSONDecodeError:
+            pass
+
     for source, articles in digest.feeds.items():
         for art in articles:
-            data.append(
-                {
-                    "title": art.title,
-                    "link": art.link,
-                    "summary": art.summary,
-                    "published": art.published,
-                    "source": art.source,
-                    "category": art.category,
-                    "drawbacks": suggest_drawback(art.title, art.summary),
-                }
-            )
+            existing[art.link] = {
+                "title": art.title,
+                "link": art.link,
+                "summary": art.summary,
+                "published": art.published,
+                "source": art.source,
+                "category": art.category,
+                "drawbacks": suggest_drawback(art.title, art.summary),
+                "fetched": today,
+            }
+
+    merged = list(existing.values())
+    merged.sort(key=lambda x: x.get("fetched", ""), reverse=True)
+
     output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    output.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def render_html(digest: Digest, output: Path) -> None:

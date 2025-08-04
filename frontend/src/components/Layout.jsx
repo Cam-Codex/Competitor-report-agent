@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, Outlet } from 'react-router-dom';
+import { NavLink, Outlet } from 'react-router-dom';
 
 export default function Layout({ query, setQuery }) {
   return (
@@ -7,9 +7,12 @@ export default function Layout({ query, setQuery }) {
       <header className="navbar">
         <h1>Analytics News</h1>
         <nav>
-          <Link to="/">Home</Link>
-          <Link to="/vendors">Vendors</Link>
-          <Link to="/industry">Industry</Link>
+          <NavLink to="/" end>
+            Home
+          </NavLink>
+          <NavLink to="/vendors">Vendors</NavLink>
+          <NavLink to="/industry">Industry</NavLink>
+          <NavLink to="/older">Older</NavLink>
         </nav>
         <input
           className="search"
