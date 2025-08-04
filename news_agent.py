@@ -33,6 +33,12 @@ import jinja2
 import yaml
 import re
 from html import unescape
+from typing import Optional
+
+try:
+    import openai
+except Exception:  # pragma: no cover - openai is optional
+    openai = None
 
 
 @dataclass
@@ -75,7 +81,7 @@ class Digest:
                 if art.summary:
                     lines.append(f"  {art.summary}")
                 lines.append(
-                    f"  Potential drawback: {suggest_drawback(art.title, art.summary)}"
+                    f"  Potential drawback: {suggest_drawback(art.title, art.summary, art.source)}"
                 )
                 lines.append(f"  {art.link}")
                 lines.append("")
@@ -111,8 +117,25 @@ def build_digest(feeds: List[Feed]) -> Digest:
     return digest
 
 
-def suggest_drawback(title: str, summary: str | None = None) -> str:
-    """Return a heuristic drawback based on title/summary keywords."""
+VENDOR_WEAKNESSES = {
+    "Databricks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
+    "Snowflake": "Developer-focused Cortex tools can't match ThoughtSpot's self-service search.",
+    "Microsoft": "Power BI models are less agile than ThoughtSpot's search-first experience.",
+    "Salesforce": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
+    "Sigma Computing": "Offers fewer governed search capabilities than ThoughtSpot.",
+    "Qlik": "Script-heavy Qlik setup is harder than ThoughtSpot's intuitive search.",
+    "Looker": "Requires LookML modeling while ThoughtSpot works directly on the data.",
+    "Google": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
+}
+
+
+def suggest_drawback(
+    title: str, summary: str | None = None, source: str | None = None
+) -> str:
+    """Return drawback based on vendor or title/summary keywords."""
+    if source and source in VENDOR_WEAKNESSES:
+        return VENDOR_WEAKNESSES[source]
+
     text = f"{title} {summary or ''}".lower()
     if any(k in text for k in ["security", "breach", "privacy"]):
         return "May raise security and compliance concerns."
@@ -139,6 +162,9 @@ def extract_summary(entry: feedparser.FeedParserDict) -> str | None:
     if not parts:
         return None
     text = strip_html(" ".join(parts))
+    llm = llm_summarize(text)
+    if llm:
+        return llm
     sentences = re.split(r"(?<=[.!?]) +", text)
     return " ".join(sentences[:2]).strip()
 
@@ -147,6 +173,47 @@ def strip_html(text: str) -> str:
     """Remove HTML tags and unescape entities."""
     clean = re.sub(r"<[^>]+>", "", text)
     return unescape(clean).strip()
+
+
+def llm_summarize(text: str) -> Optional[str]:
+    """Use an LLM to generate a concise summary if an API key is configured."""
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key or openai is None:
+        return None
+    try:
+        # Support both openai v1 and legacy versions
+        if hasattr(openai, "OpenAI"):
+            client = openai.OpenAI(api_key=api_key)
+            resp = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "Summarize the following article in 2-3 sentences.",
+                    },
+                    {"role": "user", "content": text[:4000]},
+                ],
+                max_tokens=120,
+                temperature=0.5,
+            )
+            return resp.choices[0].message.content.strip()
+        else:  # legacy API
+            openai.api_key = api_key
+            resp = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "Summarize the following article in 2-3 sentences.",
+                    },
+                    {"role": "user", "content": text[:4000]},
+                ],
+                max_tokens=120,
+                temperature=0.5,
+            )
+            return resp["choices"][0]["message"]["content"].strip()
+    except Exception:
+        return None
 
 
 def write_json(digest: Digest, output: Path) -> None:
@@ -173,7 +240,7 @@ def write_json(digest: Digest, output: Path) -> None:
                 "published": art.published,
                 "source": art.source,
                 "category": art.category,
-                "drawbacks": suggest_drawback(art.title, art.summary),
+                "drawbacks": suggest_drawback(art.title, art.summary, art.source),
                 "fetched": today,
             }
 

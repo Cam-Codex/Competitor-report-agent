@@ -1,19 +1,19 @@
 :root {
-  --ts-blue: #0c2d48;
-  --ts-light: #f5f6f8;
-  --ts-dark: #0a1f44;
+  --ts-primary: #4e3289;
+  --ts-bg: #020202;
+  --ts-text: #ffffff;
 }
 
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, sans-serif;
-  background: var(--ts-light);
-  color: var(--ts-dark);
+  background: var(--ts-bg);
+  color: var(--ts-text);
 }
 
 .navbar {
-  background: var(--ts-blue);
-  color: #fff;
+  background: var(--ts-primary);
+  color: var(--ts-text);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -26,7 +26,7 @@ body {
 }
 
 .navbar nav a {
-  color: #fff;
+  color: var(--ts-text);
   margin-right: 1rem;
   text-decoration: none;
   font-weight: 500;
@@ -45,6 +45,8 @@ body {
   border: none;
   border-radius: 4px;
   min-width: 200px;
+  background: #fff;
+  color: #000;
 }
 
 .content {
@@ -58,20 +60,35 @@ body {
 }
 
 .section h2 {
-  border-bottom: 2px solid var(--ts-blue);
+  border-bottom: 2px solid var(--ts-primary);
   padding-bottom: 0.25rem;
   margin-bottom: 1rem;
 }
 
 .card {
-  background: #fff;
-  border: 1px solid #e0e0e0;
+  background: var(--ts-bg);
+  border: 1px solid var(--ts-primary);
   border-radius: 8px;
   padding: 1rem;
   margin-bottom: 1rem;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .card h3 {
   margin-top: 0;
+}
+
+a {
+  color: var(--ts-primary);
+}
+
+.vendor-folders summary {
+  cursor: pointer;
+  font-size: 1.25rem;
+  color: var(--ts-primary);
+  margin-bottom: 0.5rem;
+}
+
+.vendor-folders details {
+  margin-bottom: 1rem;
 }

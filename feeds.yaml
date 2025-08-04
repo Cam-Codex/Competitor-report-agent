@@ -7,6 +7,10 @@ feeds:
     url: https://news.google.com/rss/search?q=Microsoft+Power+BI
     max_items: 5
     category: vendor
+  - name: Microsoft
+    url: https://news.google.com/rss/search?q=Microsoft+Copilot+Power+BI
+    max_items: 5
+    category: vendor
   - name: Salesforce
     url: https://news.google.com/rss/search?q=Salesforce+Tableau
     max_items: 5
@@ -19,12 +23,32 @@ feeds:
     url: https://www.snowflake.com/feed/
     max_items: 5
     category: vendor
+  - name: Snowflake
+    url: https://news.google.com/rss/search?q=Snowflake+Cortex
+    max_items: 5
+    category: vendor
   - name: Databricks
     url: https://www.databricks.com/feed
     max_items: 5
     category: vendor
+  - name: Databricks
+    url: https://news.google.com/rss/search?q=Databricks+Genie
+    max_items: 5
+    category: vendor
   - name: Sigma Computing
     url: https://www.sigmacomputing.com/blog/feed/
+    max_items: 5
+    category: vendor
+  - name: Qlik
+    url: https://news.google.com/rss/search?q=Qlik+analytics
+    max_items: 5
+    category: vendor
+  - name: Google
+    url: https://news.google.com/rss/search?q=Google+Looker
+    max_items: 5
+    category: vendor
+  - name: Google
+    url: https://news.google.com/rss/search?q=Google+Gemini
     max_items: 5
     category: vendor
   - name: Agentic Analytics
@@ -33,5 +57,13 @@ feeds:
     category: industry
   - name: Data Analytics
     url: https://news.google.com/rss/search?q=data+analytics
+    max_items: 5
+    category: industry
+  - name: OpenAI
+    url: https://news.google.com/rss/search?q=OpenAI
+    max_items: 5
+    category: industry
+  - name: Anthropic
+    url: https://news.google.com/rss/search?q=Anthropic
     max_items: 5
     category: industry
