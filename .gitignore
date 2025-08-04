@@ -15,7 +15,6 @@ __pycache__/
 venv/
 # Ignore generated public folders except for frontend/public where the React
 # app expects static assets.
-public/
 !frontend/public/
 !frontend/public/**
 
