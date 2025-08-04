@@ -258,23 +258,22 @@ def render_html(digest: Digest, output: Path) -> None:
     <head>
       <meta charset="utf-8" />
       <title>Daily Analytics Digest</title>
-      <style>
-        body { font-family: Arial, sans-serif; margin: 2em; }
-        h2 { border-bottom: 1px solid #ccc; }
-        ul { list-style-type: none; padding-left: 0; }
-        li { margin-bottom: 0.5em; }
-      </style>
+      <link rel="stylesheet" href="../frontend/src/style.css" />
     </head>
     <body>
-    <h1>Daily Analytics Digest</h1>
-    {% for source, articles in digest.feeds.items() %}
-    <h2>{{ source }}</h2>
-    <ul>
-      {% for art in articles %}
-      <li><a href="{{ art.link }}">{{ art.title }}</a>{% if art.published %} - {{ art.published }}{% endif %}</li>
+    <div class="content vendor-folders">
+      <h1>Daily Analytics Digest</h1>
+      {% for source, articles in digest.feeds.items() %}
+      <details>
+        <summary>{{ source }}</summary>
+        <ul>
+          {% for art in articles %}
+          <li><a href="{{ art.link }}">{{ art.title }}</a>{% if art.published %} - {{ art.published }}{% endif %}</li>
+          {% endfor %}
+        </ul>
+      </details>
       {% endfor %}
-    </ul>
-    {% endfor %}
+    </div>
     </body>
     </html>
     """
