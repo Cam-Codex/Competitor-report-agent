@@ -14,8 +14,6 @@ Recent enhancements include:
 - Vendor weaknesses framed against ThoughtSpot's search-driven analytics.
 - A "Top News" section highlighting priority competitors.
 - Expanded feed coverage for OpenAI, Anthropic, Google Looker/Gemini, Qlik and more.
- - Home page capped to the 10 most relevant articles with vendor news first.
- - Vendor folders collapsed by default and a single gradient background matching ThoughtSpot's palette.
 
 ---
 

@@ -118,49 +118,34 @@ def build_digest(feeds: List[Feed]) -> Digest:
 
 
 VENDOR_WEAKNESSES = {
-    "Databricks": "Databricks Genie emphasizes data engineering but lacks ThoughtSpot's live search-driven analytics.",
-    "Snowflake": "Snowflake Cortex targets developers and misses ThoughtSpot's easy natural language queries.",
-    "Microsoft": "Power BI and Copilot tie insights to predefined models, unlike ThoughtSpot's flexible search-first UX.",
-    "Salesforce": "Tableau dashboards require curation whereas ThoughtSpot enables ad-hoc natural language exploration.",
-    "Sigma Computing": "Sigma delivers spreadsheet-style analytics but fewer governed search features than ThoughtSpot.",
-    "Qlik": "Qlik's script-heavy approach complicates setup compared to ThoughtSpot's intuitive search.",
-    "Looker": "Looker and Gemini depend on LookML modeling while ThoughtSpot queries data directly.",
-    "Google": "Google's BI stack is less search-centric than ThoughtSpot's AI-driven analytics.",
+    "Databricks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
+    "Snowflake": "Developer-focused Cortex tools can't match ThoughtSpot's self-service search.",
+    "Microsoft": "Power BI models are less agile than ThoughtSpot's search-first experience.",
+    "Salesforce": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
+    "Sigma Computing": "Offers fewer governed search capabilities than ThoughtSpot.",
+    "Qlik": "Script-heavy Qlik setup is harder than ThoughtSpot's intuitive search.",
+    "Looker": "Requires LookML modeling while ThoughtSpot works directly on the data.",
+    "Google": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
 }
 
 
 def suggest_drawback(
     title: str, summary: str | None = None, source: str | None = None
 ) -> str:
-    """Return drawback based on article context, using LLM when available."""
-    combined = f"{title} {summary or ''}".strip()
-    llm = llm_drawback(combined, source)
-    if llm:
-        return llm
-    hint = extract_drawback_hint(combined)
+    """Return drawback based on vendor or title/summary keywords."""
     if source and source in VENDOR_WEAKNESSES:
-        if hint:
-            return f"{VENDOR_WEAKNESSES[source]} {hint}"
         return VENDOR_WEAKNESSES[source]
-    if hint:
-        return hint
+
+    text = f"{title} {summary or ''}".lower()
+    if any(k in text for k in ["security", "breach", "privacy"]):
+        return "May raise security and compliance concerns."
+    if any(k in text for k in ["ai", "machine learning", "automation"]):
+        return "Could require significant compute resources and expert oversight."
+    if any(k in text for k in ["cloud", "saas"]):
+        return "Relies on external infrastructure and possible vendor lock-in."
+    if any(k in text for k in ["partnership", "integration"]):
+        return "Integration complexity and potential data silos."
     return "Consider cost, adoption effort, and governance implications."
-
-
-def extract_drawback_hint(text: str) -> Optional[str]:
-    """Derive a weakness clue from article text."""
-    lower = text.lower()
-    if any(k in lower for k in ["security", "breach", "privacy", "compliance"]):
-        return "Security and compliance risks remain, an area where ThoughtSpot stresses governance."
-    if any(k in lower for k in ["cost", "pricing", "expensive"]):
-        return "Pricing could be a concern compared with ThoughtSpot's consumption model."
-    if any(k in lower for k in ["complex", "complicated", "learning curve", "training"]):
-        return "Complexity may slow adoption versus ThoughtSpot's ease of use."
-    if any(k in lower for k in ["integration", "migration", "silo"]):
-        return "Integration effort could be higher than ThoughtSpot's straightforward connectivity."
-    if any(k in lower for k in ["performance", "latency", "slow"]):
-        return "Performance limitations might impede real-time insight, unlike ThoughtSpot's speed."
-    return None
 
 
 def extract_summary(entry: feedparser.FeedParserDict) -> str | None:
@@ -231,46 +216,6 @@ def llm_summarize(text: str) -> Optional[str]:
         return None
 
 
-def llm_drawback(text: str, source: str | None = None) -> Optional[str]:
-    """Use an LLM to highlight weaknesses in context of ThoughtSpot."""
-    api_key = os.environ.get("OPENAI_API_KEY")
-    if not api_key or openai is None:
-        return None
-    prompt = (
-        "You are an expert on analytics platforms. From the article text, "
-        "describe a concrete weakness or challenge for the vendor and, when "
-        "relevant, contrast it with ThoughtSpot's capabilities. Respond in 1-2 sentences."
-    )
-    user_text = f"Vendor: {source or 'Unknown'}\n\n{text[:4000]}"
-    try:
-        if hasattr(openai, "OpenAI"):
-            client = openai.OpenAI(api_key=api_key)
-            resp = client.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "system", "content": prompt},
-                    {"role": "user", "content": user_text},
-                ],
-                max_tokens=120,
-                temperature=0.5,
-            )
-            return resp.choices[0].message.content.strip()
-        else:
-            openai.api_key = api_key
-            resp = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "system", "content": prompt},
-                    {"role": "user", "content": user_text},
-                ],
-                max_tokens=120,
-                temperature=0.5,
-            )
-            return resp["choices"][0]["message"]["content"].strip()
-    except Exception:
-        return None
-
-
 def write_json(digest: Digest, output: Path) -> None:
     """Merge new articles with existing JSON and tag fetch dates."""
 
@@ -313,23 +258,22 @@ def render_html(digest: Digest, output: Path) -> None:
     <head>
       <meta charset="utf-8" />
       <title>Daily Analytics Digest</title>
-      <style>
-        body { font-family: Arial, sans-serif; margin: 2em; }
-        h2 { border-bottom: 1px solid #ccc; }
-        ul { list-style-type: none; padding-left: 0; }
-        li { margin-bottom: 0.5em; }
-      </style>
+      <link rel="stylesheet" href="../frontend/src/style.css" />
     </head>
     <body>
-    <h1>Daily Analytics Digest</h1>
-    {% for source, articles in digest.feeds.items() %}
-    <h2>{{ source }}</h2>
-    <ul>
-      {% for art in articles %}
-      <li><a href="{{ art.link }}">{{ art.title }}</a>{% if art.published %} - {{ art.published }}{% endif %}</li>
+    <div class="content vendor-folders">
+      <h1>Daily Analytics Digest</h1>
+      {% for source, articles in digest.feeds.items() %}
+      <details>
+        <summary>{{ source }}</summary>
+        <ul>
+          {% for art in articles %}
+          <li><a href="{{ art.link }}">{{ art.title }}</a>{% if art.published %} - {{ art.published }}{% endif %}</li>
+          {% endfor %}
+        </ul>
+      </details>
       {% endfor %}
-    </ul>
-    {% endfor %}
+    </div>
     </body>
     </html>
     """

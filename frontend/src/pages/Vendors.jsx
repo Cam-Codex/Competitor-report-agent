@@ -11,7 +11,7 @@ export default function Vendors({ articles }) {
   return (
     <div className="vendor-folders">
       {Object.entries(grouped).map(([vendor, arts]) => (
-        <details key={vendor}>
+        <details key={vendor} open>
           <summary>{vendor}</summary>
           <Section articles={arts} />
         </details>
