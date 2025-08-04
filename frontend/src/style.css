@@ -1,18 +1,22 @@
+/* ThoughtSpot-inspired palette and gradients */
 :root {
-  --ts-blue: #0c2d48;
-  --ts-light: #f5f6f8;
-  --ts-dark: #0a1f44;
+  --ts-primary: #4e3289;
+  --ts-secondary: #00b4d8;
+  --ts-bg: #ffffff;
+  --ts-surface: #f5f5f5;
+  --ts-text: #000000;
 }
 
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, sans-serif;
-  background: var(--ts-light);
-  color: var(--ts-dark);
+  background: var(--ts-bg);
+  min-height: 100vh;
+  color: var(--ts-text);
 }
 
 .navbar {
-  background: var(--ts-blue);
+  background: linear-gradient(90deg, var(--ts-primary) 0%, var(--ts-secondary) 100%);
   color: #fff;
   display: flex;
   align-items: center;
@@ -45,6 +49,8 @@ body {
   border: none;
   border-radius: 4px;
   min-width: 200px;
+  background: #fff;
+  color: #000;
 }
 
 .content {
@@ -54,24 +60,63 @@ body {
 }
 
 .section {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .section h2 {
-  border-bottom: 2px solid var(--ts-blue);
+  color: var(--ts-secondary);
+  border-bottom: 2px solid var(--ts-primary);
   padding-bottom: 0.25rem;
   margin-bottom: 1rem;
 }
 
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
 .card {
-  background: #fff;
-  border: 1px solid #e0e0e0;
+  background: var(--ts-surface);
+  border-left: 4px solid var(--ts-primary);
   border-radius: 8px;
   padding: 1rem;
-  margin-bottom: 1rem;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
 }
 
 .card h3 {
   margin-top: 0;
+}
+
+.card h3 a {
+  color: var(--ts-secondary);
+}
+
+a {
+  color: var(--ts-secondary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--ts-primary);
+}
+
+.vendor-folders summary {
+  cursor: pointer;
+  font-size: 1.25rem;
+  color: var(--ts-text);
+  background: var(--ts-surface);
+  padding: 0.5rem 1rem;
+  border-left: 4px solid var(--ts-primary);
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.vendor-folders details {
+  margin-bottom: 1rem;
+}
+
+.empty {
+  text-align: center;
+  margin-top: 2rem;
 }

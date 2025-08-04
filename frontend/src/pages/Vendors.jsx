@@ -9,9 +9,12 @@ export default function Vendors({ articles }) {
   }, {});
 
   return (
-    <div>
+    <div className="vendor-folders">
       {Object.entries(grouped).map(([vendor, arts]) => (
-        <Section key={vendor} title={vendor} articles={arts} />
+        <details key={vendor}>
+          <summary>{vendor}</summary>
+          <Section articles={arts} />
+        </details>
       ))}
     </div>
   );

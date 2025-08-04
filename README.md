@@ -6,7 +6,16 @@ This project tracks daily announcements from analytics vendors (Microsoft, Sales
 - **`frontend/public/articles.json`** – structured data used by a React app
 - **Optional email digest** summarising the links
 
-The React app uses React Router to provide a home page plus separate vendor and industry sections. A global search bar filters all pages, and styling mimics ThoughtSpot's clean enterprise look.
+The React app uses React Router to provide a home page plus separate vendor and industry sections. A global search bar filters all pages, and styling mirrors ThoughtSpot's dark theme.
+
+Recent enhancements include:
+
+- Optional LLM-powered summaries for richer article context.
+- Vendor weaknesses framed against ThoughtSpot's search-driven analytics.
+- A "Top News" section highlighting priority competitors.
+- Expanded feed coverage for OpenAI, Anthropic, Google Looker/Gemini, Qlik and more.
+ - Home page capped to the 10 most relevant articles with vendor news first.
+ - Vendor folders collapsed by default and a single gradient background matching ThoughtSpot's palette.
 
 ---
 

@@ -33,6 +33,12 @@ import jinja2
 import yaml
 import re
 from html import unescape
+from typing import Optional
+
+try:
+    import openai
+except Exception:  # pragma: no cover - openai is optional
+    openai = None
 
 
 @dataclass
@@ -75,7 +81,7 @@ class Digest:
                 if art.summary:
                     lines.append(f"  {art.summary}")
                 lines.append(
-                    f"  Potential drawback: {suggest_drawback(art.title, art.summary)}"
+                    f"  Potential drawback: {suggest_drawback(art.title, art.summary, art.source)}"
                 )
                 lines.append(f"  {art.link}")
                 lines.append("")
@@ -111,18 +117,50 @@ def build_digest(feeds: List[Feed]) -> Digest:
     return digest
 
 
-def suggest_drawback(title: str, summary: str | None = None) -> str:
-    """Return a heuristic drawback based on title/summary keywords."""
-    text = f"{title} {summary or ''}".lower()
-    if any(k in text for k in ["security", "breach", "privacy"]):
-        return "May raise security and compliance concerns."
-    if any(k in text for k in ["ai", "machine learning", "automation"]):
-        return "Could require significant compute resources and expert oversight."
-    if any(k in text for k in ["cloud", "saas"]):
-        return "Relies on external infrastructure and possible vendor lock-in."
-    if any(k in text for k in ["partnership", "integration"]):
-        return "Integration complexity and potential data silos."
+VENDOR_WEAKNESSES = {
+    "Databricks": "Databricks Genie emphasizes data engineering but lacks ThoughtSpot's live search-driven analytics.",
+    "Snowflake": "Snowflake Cortex targets developers and misses ThoughtSpot's easy natural language queries.",
+    "Microsoft": "Power BI and Copilot tie insights to predefined models, unlike ThoughtSpot's flexible search-first UX.",
+    "Salesforce": "Tableau dashboards require curation whereas ThoughtSpot enables ad-hoc natural language exploration.",
+    "Sigma Computing": "Sigma delivers spreadsheet-style analytics but fewer governed search features than ThoughtSpot.",
+    "Qlik": "Qlik's script-heavy approach complicates setup compared to ThoughtSpot's intuitive search.",
+    "Looker": "Looker and Gemini depend on LookML modeling while ThoughtSpot queries data directly.",
+    "Google": "Google's BI stack is less search-centric than ThoughtSpot's AI-driven analytics.",
+}
+
+
+def suggest_drawback(
+    title: str, summary: str | None = None, source: str | None = None
+) -> str:
+    """Return drawback based on article context, using LLM when available."""
+    combined = f"{title} {summary or ''}".strip()
+    llm = llm_drawback(combined, source)
+    if llm:
+        return llm
+    hint = extract_drawback_hint(combined)
+    if source and source in VENDOR_WEAKNESSES:
+        if hint:
+            return f"{VENDOR_WEAKNESSES[source]} {hint}"
+        return VENDOR_WEAKNESSES[source]
+    if hint:
+        return hint
     return "Consider cost, adoption effort, and governance implications."
+
+
+def extract_drawback_hint(text: str) -> Optional[str]:
+    """Derive a weakness clue from article text."""
+    lower = text.lower()
+    if any(k in lower for k in ["security", "breach", "privacy", "compliance"]):
+        return "Security and compliance risks remain, an area where ThoughtSpot stresses governance."
+    if any(k in lower for k in ["cost", "pricing", "expensive"]):
+        return "Pricing could be a concern compared with ThoughtSpot's consumption model."
+    if any(k in lower for k in ["complex", "complicated", "learning curve", "training"]):
+        return "Complexity may slow adoption versus ThoughtSpot's ease of use."
+    if any(k in lower for k in ["integration", "migration", "silo"]):
+        return "Integration effort could be higher than ThoughtSpot's straightforward connectivity."
+    if any(k in lower for k in ["performance", "latency", "slow"]):
+        return "Performance limitations might impede real-time insight, unlike ThoughtSpot's speed."
+    return None
 
 
 def extract_summary(entry: feedparser.FeedParserDict) -> str | None:
@@ -139,6 +177,9 @@ def extract_summary(entry: feedparser.FeedParserDict) -> str | None:
     if not parts:
         return None
     text = strip_html(" ".join(parts))
+    llm = llm_summarize(text)
+    if llm:
+        return llm
     sentences = re.split(r"(?<=[.!?]) +", text)
     return " ".join(sentences[:2]).strip()
 
@@ -147,6 +188,87 @@ def strip_html(text: str) -> str:
     """Remove HTML tags and unescape entities."""
     clean = re.sub(r"<[^>]+>", "", text)
     return unescape(clean).strip()
+
+
+def llm_summarize(text: str) -> Optional[str]:
+    """Use an LLM to generate a concise summary if an API key is configured."""
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key or openai is None:
+        return None
+    try:
+        # Support both openai v1 and legacy versions
+        if hasattr(openai, "OpenAI"):
+            client = openai.OpenAI(api_key=api_key)
+            resp = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "Summarize the following article in 2-3 sentences.",
+                    },
+                    {"role": "user", "content": text[:4000]},
+                ],
+                max_tokens=120,
+                temperature=0.5,
+            )
+            return resp.choices[0].message.content.strip()
+        else:  # legacy API
+            openai.api_key = api_key
+            resp = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "Summarize the following article in 2-3 sentences.",
+                    },
+                    {"role": "user", "content": text[:4000]},
+                ],
+                max_tokens=120,
+                temperature=0.5,
+            )
+            return resp["choices"][0]["message"]["content"].strip()
+    except Exception:
+        return None
+
+
+def llm_drawback(text: str, source: str | None = None) -> Optional[str]:
+    """Use an LLM to highlight weaknesses in context of ThoughtSpot."""
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key or openai is None:
+        return None
+    prompt = (
+        "You are an expert on analytics platforms. From the article text, "
+        "describe a concrete weakness or challenge for the vendor and, when "
+        "relevant, contrast it with ThoughtSpot's capabilities. Respond in 1-2 sentences."
+    )
+    user_text = f"Vendor: {source or 'Unknown'}\n\n{text[:4000]}"
+    try:
+        if hasattr(openai, "OpenAI"):
+            client = openai.OpenAI(api_key=api_key)
+            resp = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": prompt},
+                    {"role": "user", "content": user_text},
+                ],
+                max_tokens=120,
+                temperature=0.5,
+            )
+            return resp.choices[0].message.content.strip()
+        else:
+            openai.api_key = api_key
+            resp = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": prompt},
+                    {"role": "user", "content": user_text},
+                ],
+                max_tokens=120,
+                temperature=0.5,
+            )
+            return resp["choices"][0]["message"]["content"].strip()
+    except Exception:
+        return None
 
 
 def write_json(digest: Digest, output: Path) -> None:
@@ -173,7 +295,7 @@ def write_json(digest: Digest, output: Path) -> None:
                 "published": art.published,
                 "source": art.source,
                 "category": art.category,
-                "drawbacks": suggest_drawback(art.title, art.summary),
+                "drawbacks": suggest_drawback(art.title, art.summary, art.source),
                 "fetched": today,
             }
 

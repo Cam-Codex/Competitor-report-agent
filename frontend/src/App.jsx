@@ -24,12 +24,13 @@ export default function App() {
 
   const today = new Date().toISOString().slice(0, 10);
   const latest = filtered.filter((a) => a.fetched === today);
+  const homeArticles = latest.length ? latest : filtered;
   const older = filtered.filter((a) => a.fetched !== today);
 
   return (
     <Routes>
       <Route element={<Layout query={query} setQuery={setQuery} />}>
-        <Route index element={<Home articles={latest} />} />
+        <Route index element={<Home articles={homeArticles} />} />
         <Route path="vendors" element={<Vendors articles={filtered} />} />
         <Route path="industry" element={<Industry articles={filtered} />} />
         <Route path="older" element={<Older articles={older} />} />
