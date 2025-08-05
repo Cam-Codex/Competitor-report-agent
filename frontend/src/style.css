@@ -2,7 +2,7 @@
   --ts-primary: #4e3289;
   --ts-bg: #ffffff;
   --ts-text: #000000;
-  --ts-gradient: linear-gradient(90deg, var(--ts-primary), var(--ts-bg));
+  --ts-banner: #e8ecff;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 }
 
 .navbar {
-  background: var(--ts-gradient);
+  background: var(--ts-banner);
   color: var(--ts-text);
   display: flex;
   align-items: center;

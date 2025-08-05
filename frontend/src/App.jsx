@@ -24,7 +24,7 @@ export default function App() {
 
   const today = new Date().toISOString().slice(0, 10);
   const latest = filtered.filter((a) => a.fetched === today);
-  const homeArticles = latest.length ? latest : filtered;
+  const homeArticles = (latest.length ? latest : filtered).slice(0, 10);
   const older = filtered.filter((a) => a.fetched !== today);
 
   return (

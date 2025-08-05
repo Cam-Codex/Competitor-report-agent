@@ -132,7 +132,11 @@ VENDOR_WEAKNESSES = {
 def suggest_drawback(
     title: str, summary: str | None = None, source: str | None = None
 ) -> str:
-    """Return drawback based on vendor or title/summary keywords."""
+    """Return a drawback specific to the article content."""
+    llm = llm_drawback(title, summary)
+    if llm:
+        return llm
+
     if source and source in VENDOR_WEAKNESSES:
         return VENDOR_WEAKNESSES[source]
 
@@ -210,6 +214,39 @@ def llm_summarize(text: str) -> Optional[str]:
                 ],
                 max_tokens=120,
                 temperature=0.5,
+            )
+            return resp["choices"][0]["message"]["content"].strip()
+    except Exception:
+        return None
+
+
+def llm_drawback(title: str, summary: str | None = None) -> Optional[str]:
+    """Use an LLM to derive a detailed drawback from article details."""
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key or openai is None:
+        return None
+    prompt = (
+        "Provide a single-sentence potential weakness or risk highlighted by the "
+        "following article. Be specific and base it on the content.\n"
+        f"Title: {title}\nSummary: {summary or ''}"
+    )
+    try:
+        if hasattr(openai, "OpenAI"):
+            client = openai.OpenAI(api_key=api_key)
+            resp = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[{"role": "user", "content": prompt[:4000]}],
+                max_tokens=60,
+                temperature=0.7,
+            )
+            return resp.choices[0].message.content.strip()
+        else:
+            openai.api_key = api_key
+            resp = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[{"role": "user", "content": prompt[:4000]}],
+                max_tokens=60,
+                temperature=0.7,
             )
             return resp["choices"][0]["message"]["content"].strip()
     except Exception:
