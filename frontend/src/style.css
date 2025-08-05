@@ -1,7 +1,8 @@
 :root {
   --ts-primary: #4e3289;
-  --ts-bg: #020202;
-  --ts-text: #ffffff;
+  --ts-bg: #ffffff;
+  --ts-text: #000000;
+  --ts-gradient: linear-gradient(90deg, var(--ts-primary), var(--ts-bg));
 }
 
 body {
@@ -12,7 +13,7 @@ body {
 }
 
 .navbar {
-  background: var(--ts-primary);
+  background: var(--ts-gradient);
   color: var(--ts-text);
   display: flex;
   align-items: center;
@@ -42,11 +43,11 @@ body {
 
 .search {
   padding: 0.5rem 0.75rem;
-  border: none;
+  border: 1px solid var(--ts-primary);
   border-radius: 4px;
   min-width: 200px;
-  background: #fff;
-  color: #000;
+  background: var(--ts-bg);
+  color: var(--ts-text);
 }
 
 .content {
