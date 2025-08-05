@@ -2,7 +2,7 @@
   --ts-primary: #4e3289;
   --ts-bg: #020202;
   --ts-text: #ffffff;
-  --ts-gradient: linear-gradient(90deg, #4e3289, #020202);
+  --ts-gradient: linear-gradient(90deg, var(--ts-primary), var(--ts-bg));
 }
 
 body {
