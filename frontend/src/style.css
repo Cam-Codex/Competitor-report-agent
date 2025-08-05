@@ -1,7 +1,7 @@
 :root {
   --ts-primary: #4e3289;
-  --ts-bg: #020202;
-  --ts-text: #ffffff;
+  --ts-bg: #ffffff;
+  --ts-text: #000000;
   --ts-gradient: linear-gradient(90deg, var(--ts-primary), var(--ts-bg));
 }
 
