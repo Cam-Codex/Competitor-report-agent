@@ -1,5 +1,8 @@
 name: daily-news
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 7 * * *'
