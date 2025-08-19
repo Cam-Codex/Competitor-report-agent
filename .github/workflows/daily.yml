@@ -22,3 +22,4 @@ jobs:
         with:
           commit_message: "chore: update daily news data"
           file_pattern: public/index.html frontend/public/articles.json
+          token: ${{ secrets.PAT }}
