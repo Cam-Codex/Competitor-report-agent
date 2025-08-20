@@ -39,6 +39,14 @@ feeds:
     url: https://www.sigmacomputing.com/blog/feed/
     max_items: 5
     category: vendor
+  - name: Sigma Computing
+    url: https://news.google.com/rss/search?q=Sigma+Computing+analytics
+    max_items: 5
+    category: vendor
+  - name: Pyramid Analytics
+    url: https://news.google.com/rss/search?q=Pyramid+Analytics
+    max_items: 5
+    category: vendor
   - name: Qlik
     url: https://news.google.com/rss/search?q=Qlik+analytics
     max_items: 5
