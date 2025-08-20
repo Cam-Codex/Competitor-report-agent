@@ -13,12 +13,11 @@ export default function Home({ articles }) {
     'Google',
     'Pyramid Analytics',
   ];
-  const parseDate = (a) => new Date(a.published || a.fetched);
-  const latest = [...articles].sort((a, b) => parseDate(b) - parseDate(a));
-  const top = latest.filter((a) => priority.includes(a.source));
+  const top = articles.filter((a) => priority.includes(a.source));
+  const rest = articles.filter((a) => !priority.includes(a.source));
   const defaultTab = top.length > 0 ? 'top' : 'latest';
   const [tab, setTab] = useState(defaultTab);
-  const shown = tab === 'top' ? top : latest;
+  const shown = tab === 'top' ? top : rest;
 
   return (
     <div>
