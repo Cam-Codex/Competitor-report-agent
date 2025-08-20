@@ -12,7 +12,7 @@ Recent enhancements include:
 
 - Optional LLM-powered summaries for richer article context.
 - Vendor weaknesses framed against ThoughtSpot's search-driven analytics.
-- A "Top News" section highlighting priority competitors.
+- A "Top News" tab highlighting priority competitors and a "Latest News" tab showing cross-vendor and industry coverage from the last two days.
 - Expanded feed coverage for OpenAI, Anthropic, Google Looker/Gemini, Qlik and more.
 
 ---

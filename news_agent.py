@@ -126,6 +126,7 @@ VENDOR_WEAKNESSES = {
     "Qlik": "Script-heavy Qlik setup is harder than ThoughtSpot's intuitive search.",
     "Looker": "Requires LookML modeling while ThoughtSpot works directly on the data.",
     "Google": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
+    "Pyramid Analytics": "Depends on predefined workflows instead of ThoughtSpot's ad-hoc search.",
 }
 
 
@@ -137,9 +138,6 @@ def suggest_drawback(
     if llm:
         return llm
 
-    if source and source in VENDOR_WEAKNESSES:
-        return VENDOR_WEAKNESSES[source]
-
     text = f"{title} {summary or ''}".lower()
     if any(k in text for k in ["security", "breach", "privacy"]):
         return "May raise security and compliance concerns."
@@ -149,6 +147,16 @@ def suggest_drawback(
         return "Relies on external infrastructure and possible vendor lock-in."
     if any(k in text for k in ["partnership", "integration"]):
         return "Integration complexity and potential data silos."
+    if any(k in text for k in ["preview", "beta"]):
+        return "Feature may be unstable or lack full support."
+    if any(k in text for k in ["pricing", "cost", "expensive"]):
+        return "Could add unexpected licensing or operational costs."
+    if any(k in text for k in ["training", "certification"]):
+        return "May require specialized training to realize full value."
+    if any(k in text for k in ["complex", "overhead", "maintenance"]):
+        return "Implementation complexity could slow adoption."
+    if source and source in VENDOR_WEAKNESSES:
+        return VENDOR_WEAKNESSES[source]
     return "Consider cost, adoption effort, and governance implications."
 
 

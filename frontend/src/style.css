@@ -93,3 +93,26 @@ a {
 .vendor-folders details {
   margin-bottom: 1rem;
 }
+
+.tabs {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.tabs button {
+  flex: 1;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--ts-primary);
+  background: var(--ts-banner);
+  color: var(--ts-text);
+  cursor: pointer;
+}
+
+.tabs button.active {
+  background: var(--ts-primary);
+  color: var(--ts-bg);
+}
+
+.tabs button + button {
+  margin-left: 0.5rem;
+}
