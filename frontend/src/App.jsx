@@ -22,10 +22,22 @@ export default function App() {
     return text.includes(query.toLowerCase());
   });
 
-  const today = new Date().toISOString().slice(0, 10);
-  const latest = filtered.filter((a) => a.fetched === today);
-  const homeArticles = (latest.length ? latest : filtered).slice(0, 10);
-  const older = filtered.filter((a) => a.fetched !== today);
+  const parseDate = (a) => new Date(a.published || a.fetched);
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 2);
+
+  const recent = filtered
+    .filter((a) => {
+      const d = parseDate(a);
+      return !isNaN(d) && d >= cutoff;
+    })
+    .sort((a, b) => parseDate(b) - parseDate(a));
+
+  const homeArticles = (recent.length ? recent : filtered).slice(0, 10);
+  const older = filtered.filter((a) => {
+    const d = parseDate(a);
+    return isNaN(d) || d < cutoff;
+  });
 
   return (
     <Routes>
