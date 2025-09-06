@@ -7,7 +7,7 @@
     "source": "Microsoft",
     "category": "vendor",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "Recommitting to our why, what, and how",
@@ -17,7 +17,7 @@
     "source": "Microsoft",
     "category": "vendor",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "Announcing comprehensive sovereign solutions empowering European organizations",
@@ -27,7 +27,7 @@
     "source": "Microsoft",
     "category": "vendor",
     "drawbacks": "May raise security and compliance concerns.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "Microsoft Build 2025: The age of AI agents and building the open agentic web",
@@ -37,7 +37,7 @@
     "source": "Microsoft",
     "category": "vendor",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "Copilot, agents, and apps at the Power Platform Community Conference 2025 - Microsoft",
@@ -47,7 +47,7 @@
     "source": "Microsoft",
     "category": "vendor",
     "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "Powering the next AI frontier with Microsoft Fabric and the Azure data portfolio - Microsoft Azure",
@@ -57,7 +57,7 @@
     "source": "Microsoft",
     "category": "vendor",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "Databricks Unveils Databricks One: A New Experience to Bring Data and AI to Every Corner of the Business - PR Newswire",
@@ -67,7 +67,7 @@
     "source": "Databricks",
     "category": "vendor",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "AtScale Powers Databricks Genie with Semantic Layer Delivering Accurate and Trusted Natural Language Querying - Business Wire",
@@ -77,7 +77,7 @@
     "source": "Databricks",
     "category": "vendor",
     "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "My Experience Switching From Power BI to Looker (as a Senior Data Analyst) - Towards Data Science",
@@ -87,7 +87,7 @@
     "source": "Google",
     "category": "vendor",
     "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "Stack Overflow on Snowflake Cortex: Answers Without Attitude - The New Stack",
@@ -97,7 +97,7 @@
     "source": "Snowflake",
     "category": "vendor",
     "drawbacks": "Developer-focused Cortex tools can't match ThoughtSpot's self-service search.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
   },
   {
     "title": "Salesforce to Snap Up Waii, Boost Data Cloud & Tableau Next - CX Today",
@@ -107,7 +107,777 @@
     "source": "Salesforce",
     "category": "vendor",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric - Microsoft",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5c3k0SnJpWWpZQmVHdWhUaDljTTVZY3VjTWs3ZVRLTXZEbXhIaUN6X0ZOQzhDM3JXN1NmNUJ5akRLTWZyUkliT1czZ3ltNENNWjZTQUptaU16dXQzMXZsTG5VM1MtUjFBLWVTQ0tySHZaaEFJYXZtRlRyb2d0QQ?oc=5",
+    "summary": "Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric  Microsoft Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric  Microsoft",
+    "published": "Mon, 19 May 2025 07:00:00 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Pyramid Analytics Secures $50M in Financing from BlackRock - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWVNR054ZDVPeGlQcG1KTWNObjNRNmtjS3JQbGNzY0p1RUJGcXhwY09kU1c0X2FxU3dqYTIyMU83cFFobllfNTAzTVh5bmhDNlEwZ3NDdlZYUlBGTk1LcGxLRGJlUkluakc3c3MwM05kSU5PN1lxak5vWWsyaHZ5d2t6WVYxd1g0ZEpQNTRrQTd6Y1lKQU9Ea3VhaUE2a3Vjc2gwbDB0bEY5ZWZBSHZsaTNXRi1JQ25Q?oc=5",
+    "summary": "Pyramid Analytics Secures $50M in Financing from BlackRock  Business Wire Pyramid Analytics Secures $50M in Financing from BlackRock  Business Wire",
+    "published": "Mon, 25 Nov 2024 08:00:00 GMT",
+    "source": "Pyramid Analytics",
+    "category": "vendor",
+    "drawbacks": "Depends on predefined workflows instead of ThoughtSpot's ad-hoc search.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Pyramid Analytics - IBM",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YOTJkRlMwM0lZUjBYS044Ym5WUWZyOG9PclE5bUpweTdVOGVmSG9LejJXSVVvM09UZFZ4QUpNeS0xMjVSZHduWGJNM1h1QUR2WnBXOXIweGZJZVBKQVVV?oc=5",
+    "summary": "Pyramid Analytics  IBM Pyramid Analytics  IBM",
+    "published": "Fri, 20 Dec 2024 00:21:15 GMT",
+    "source": "Pyramid Analytics",
+    "category": "vendor",
+    "drawbacks": "Depends on predefined workflows instead of ThoughtSpot's ad-hoc search.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "AI analytics firm Pyramid Analytics secures $50 mln from BlackRock - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdVg3LVFvRHNWSWRuMEREWXhGeXlIMTJhVEQ1Y2w1QUk0RUFtdXI0QWxZNk9qbkdDVlh4VFRzNEtLQVVLY2ZOZkxUNzE1Vk94akpERUNHSndUZ1F6THRGSzJMaE4wMDVCZHYxU0puRGtScFBjZzUtYUZOV281ODYxTUN1S1dXTXN4S3J5UXg1YUFQZVFUYjB4YV9EZENOZzVuckRsdGNWQVNvQnM?oc=5",
+    "summary": "AI analytics firm Pyramid Analytics secures $50 mln from BlackRock  Reuters AI analytics firm Pyramid Analytics secures $50 mln from BlackRock  Reuters",
+    "published": "Mon, 25 Nov 2024 08:00:00 GMT",
+    "source": "Pyramid Analytics",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Pyramid Analytics secures $50M from BlackRock to drive AI business intelligence - CTech",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nRWlkd0NPQkRSNkdtblpqejNLdUZfd0RxcUN3d3V1MFRmWXR5ZW5ETzNSWkg0YnhvaXp1ZDV2N0lmaWFaTFktZ0o2RzkyMENUeUdmRlJWVTdnclZFR0xyNktaRXpvU3NT?oc=5",
+    "summary": "Pyramid Analytics secures $50M from BlackRock to drive AI business intelligence  CTech Pyramid Analytics secures $50M from BlackRock to drive AI business intelligence  CTech",
+    "published": "Mon, 25 Nov 2024 08:00:00 GMT",
+    "source": "Pyramid Analytics",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "The 5 Best Pyramid Analytics Training and Online Courses for 2025 - solutionsreview.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjRtVjV2bkgyYlBHd2VNQXNQcmtub2p4OTZoYmZQeEJUQkVhd2NIOXZRSEVHNVhKSW5NLXhZWmdLS0JCUW9BWXE4WmdaVnlpVFRZVTl6elJuYjZXc21YVTM5dWlyTng1bFpCazhwNVZxRVpsYXNEdndDd0tETGZ4T29IZjNSOGVFLWlfM29DdnhSNHBodktBOGVQWDlVLW9uME1CWC1xdzA?oc=5",
+    "summary": "The 5 Best Pyramid Analytics Training and Online Courses for 2025  solutionsreview.com The 5 Best Pyramid Analytics Training and Online Courses for 2025  solutionsreview.com",
+    "published": "Wed, 01 Jan 2025 08:00:00 GMT",
+    "source": "Pyramid Analytics",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Google lets AI agents do the data work in BigQuery and Looker - Techzine Global",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHptb0NtcF9rZ2xuT05TZ0NfYkQ4OG4tcGZTb2VBNW1TUkpWNm15LTU1MG9VUXFxT21zcGFOMjhySzRSOUxtbThES1FCZF92U2xBTVhYVGdGWkR6S0MwYXJ6NTdES01XMUtkb29nS2pTY3RKVmJES3o2Qk5oVG9Wb1V0NGlvQmpKSEFYS3NWWmlFb3R4VU0zM2ZnbFg3RUJVelJEc3ZaWWhUNHR0?oc=5",
+    "summary": "Google lets AI agents do the data work in BigQuery and Looker  Techzine Global Google lets AI agents do the data work in BigQuery and Looker  Techzine Global",
+    "published": "Wed, 09 Apr 2025 07:00:00 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Snowflake’s Cortex AISQL aims to simplify unstructured data analysis - InfoWorld",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3c3M3JZeFpwV29QTXdWOTJzcEp2V1lvcDk3TEhPdTBIajNfa2M0TE5val9oMTVTS2Ffb1VrQ192WUJIQlhDTzMtT2Y3UF9LZHJtYWVmQWpFTDZ5aE1uaTdDazdtLVhkVld5aTUxMVRpMUJlTHhmc2lBbDR0WUxpYmJJdzBQSUE5RTZ1ODctUk93aS1SemxnSkZHRUpraTVuNk5pSG9nMVJ4endtZHhrVGpGUHI?oc=5",
+    "summary": "Snowflake’s Cortex AISQL aims to simplify unstructured data analysis  InfoWorld Snowflake’s Cortex AISQL aims to simplify unstructured data analysis  InfoWorld",
+    "published": "Tue, 03 Jun 2025 07:00:00 GMT",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Databricks kicks off an initiative to make AI agents easier to build and manage - SiliconANGLE",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHJ4OW5ZNEdxc1BFRzUtcHBrMG1vLU9YOENZSXVNZXJnbjR2cy1DSUFIZnpwZVhKNkFqaEtxMTNielVnUzM2aWdqdENaM0doYkU4eWZ5MDU1eS1CU0Y0M0hGWEJXaDdFUmtGZHUtQVlfUzA2cGt4OEYyemltVEd4T01kRWxWejRTRzcxdkFuMWlhNEs5SjFuSnBOajB2ZXJNMmVSZWJB?oc=5",
+    "summary": "Databricks kicks off an initiative to make AI agents easier to build and manage  SiliconANGLE Databricks kicks off an initiative to make AI agents easier to build and manage  SiliconANGLE",
+    "published": "Mon, 10 Mar 2025 07:00:00 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Google’s BigQuery and Looker get agents to simplify analytics tasks - InfoWorld",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU9Jd1pKMTdXU3BBd2RjWUs3Mlhta2w3enI1Wlp0dENyWWxZdVk0SXNGMTFzdHZRZ3ZKUU9SUTBtR3NKX0h1MnE3MnUtVmdYZ3NrblQ0aGhXVXkyM3VTYURUZW1EbEFVYVFEa2Q2cTRsaEpDM2drUnpxOTQ3RnJITklBdlJLS2JOWlNTM2lnZGpIZzNHQlUySUgxM3RtRTZLZjE0VGJra2tEQ1hsSklqSnc0SQ?oc=5",
+    "summary": "Google’s BigQuery and Looker get agents to simplify analytics tasks  InfoWorld Google’s BigQuery and Looker get agents to simplify analytics tasks  InfoWorld",
+    "published": "Thu, 10 Apr 2025 07:00:00 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely - CybersecurityNews",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQNWR0ZlMwT0ZEdXFabENDTmJITHNjSXpQN0lKRU9NTld1b2lCMndET1RFX0R4Uzc1b25jdks3aWY4YzExNTlGV2l6aVBsNTFKWGdldFJVYXpXOW1ISHhLLXd0TUI2dHpuVHl6X0FqYThjYknSAXhBVV95cUxQN05UTDNKa1A4ejB3YklWcnJoRjQ4M19MbDkxVmlkY2NuQWxRSHhQS0NicVVZTTBrNzZVTFZZWWE3SnBFdzVXYURYdTVTRVBuNmkzb0IzWDlUYWxfTkllVzdzbFNpbU9BanpxaUN5eVYzZTNtQ2dPcWY?oc=5",
+    "summary": "Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely  CybersecurityNews Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely  CybersecurityNews",
+    "published": "Mon, 28 Jul 2025 07:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "May raise security and compliance concerns.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Snowflake continues to add AI, boost Cortex capabilities - TechTarget",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX1ViV1lBb0hyQ0FfU3ZPMHRJMzl1cFRnckpBNXNtc1dKOW55WTNXT1J6eS1DeVZnV0J1bWU1OGpmR1ZvVGtLb2wxSHlyVi1zWnNZR3luZ0lQdmFsRzZXTGJHTmRCXzBOVm5ya2luOWFvclNUOUo1al9HNHhFVWo5RWRSUFVJaG90OVZBTTI4dWNMX3V0Z0VJYnp6UnNqUXFpdHU3Tm5wLWlPM29aNzNrR2cxMHViaUhJLXc?oc=5",
+    "summary": "Snowflake continues to add AI, boost Cortex capabilities  TechTarget Snowflake continues to add AI, boost Cortex capabilities  TechTarget",
+    "published": "Wed, 04 Jun 2025 07:00:00 GMT",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "A Beginner's Guide to Learning Power BI the Right Way - Simplilearn.com",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtOWx6RE1nRzhEQnI2QjRtNFhNR0lsdjA1UXpJRWNqOFgwY1MxbVBOMnZqU0wtb2RTMThMcnJTWHN2S0RYUUhFbHJYTHVBUFRER2xIb3BQckFqNHRKQ1Rj?oc=5",
+    "summary": "A Beginner's Guide to Learning Power BI the Right Way  Simplilearn.com A Beginner's Guide to Learning Power BI the Right Way  Simplilearn.com",
+    "published": "Sat, 23 Aug 2025 07:00:00 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Agentic Management Requires More Than Vibes",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-management-best-practices",
+    "summary": "Discover how to manage agentic AI by aligning incentives, mitigating risks and applying proven best practices for responsible generative AI adoption. Discover how to manage agentic AI by aligning incentives, mitigating risks and applying proven best practices for responsible generative AI adoption.",
+    "published": "Mon, 25 Aug 2025 15:51:00 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Google is looking to acquire Looker, a data analytics startup for $2.6 billion even as antitrust concerns arise in Washington - Packt",
+    "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQdzRVOGxNaUtSelhWLW55VFhKbmMzMHNack82RmR4Si16MDZDYWJrTjdiNllfdmdydUNwVG95Uy1yZzlsUkNuZEc4aE82WGhzYUU4RTRxdVdwa0Q4Zm1xMkQzVWxHS1V0dXh5ZzRnbERDQzdnVGlNUDc3ZmtDQ1BReDJwMmY1RXlTQk1HSll5eDFZRGo5ZEROTlhScU00RFg0T3VRdndEN21wUE1xRklic3F5OWw0eDFZYm1CNEVZQ1hEaVVpMnBjaW9MLXJsbGNTdHJCQ3lkbzl3ZHplX3NUdzA3YmZxRmQ2T0p3VmZlczJBNS1IS1VjcFM4UDJVcG9ZMm5EcVB6NzRVQ3BqQTdmYmp1d0lBLVBLcjdGcU5heHV0a2hsMjFmbkJpUklkd0tvYmllQS1Bem9YU09PQnNQb3o1SWI3QWJ6d25zdHo0Z3hDdkZUOHRUSU94VmFWOGhVS1FnbkJqa08ydURiRkZWZGtpMHBtamE0NGtNdjNDM0tLaVgtVnRpb1IzZ1RYSC1nV0xwMW9aM1lmWDhjWTdJR0prQnpGeTRhaktOXzNxTV9VOXpEeHpQVjZRT2oxX0FoaEJwZ1NMM2VZWmtUeTVWR2hBS0xqWVFLRGZBcDcwREI1TjNTMjBNVzlUNTk?oc=5",
+    "summary": "Google is looking to acquire Looker, a data analytics startup for $2.6 billion even as antitrust concerns arise in Washington  Packt Google is looking to acquire Looker, a data analytics startup for $2.6 billion even as antitrust concerns arise in Washington  Packt",
+    "published": "Wed, 27 Aug 2025 02:46:11 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required - Cyber Press",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemdaa2RTVGZibW8zYzZaZ1QxOGx5TnVuMUFkVk83YnNHNkhXNF9tZFNmc1NLVGFpeERPODIya0ZhM1Z3MzdoYVcwNEhWWmlzdFlGbG1YSXkyOUQzM2dPTU9PM3AzZzdVZzZSa2w2SUprMC1hb1E?oc=5",
+    "summary": "Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required  Cyber Press Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required  Cyber Press",
+    "published": "Mon, 28 Jul 2025 07:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Empowering Enterprises with the Convergence of 5G and AI Data Cloud Platforms",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ericsson-5g-ai-data-collaboration-insights",
+    "summary": "Snowflake and Ericsson are transforming industries by combining 5G, AI, and data collaboration to rapidly turn complex data into real-time, actionable insights. Snowflake and Ericsson are transforming industries by combining 5G, AI, and data collaboration to rapidly turn complex data into real-time, actionable insights.",
+    "published": "Wed, 27 Aug 2025 14:53:00 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "How Microsoft Power BI Elevated My Data Analysis and Visualization Workflow - Towards Data Science",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjRQSWk0QWdWN2hvMkFwdWpIemdVYWtvUkdwWGVLOWc4Yk9oNFc1eWMya1dGRGNBMmsyTUtSSXZGdDZJTFJoU1R1OGJSREN6VmNYbkxXS2x2UFJVd2REeUFKQXMtUjFpU0R1ajRDSzBLSEhsa2xFRG94SjlULVpvUnBUVWJwVDlBd3RUT1I4bjdOQ2VXRFFDZXUwdHdrVkFWYUtKMkRDYW5kdm8?oc=5",
+    "summary": "How Microsoft Power BI Elevated My Data Analysis and Visualization Workflow  Towards Data Science How Microsoft Power BI Elevated My Data Analysis and Visualization Workflow  Towards Data Science",
+    "published": "Tue, 27 May 2025 07:00:00 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "The end of dashboards? GenAI and agentic workflows transform business intelligence - cio.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTVCMUx4YUZubTRMX2o1XzBUNnplZzhpWWRPZU1iUjFlV1QtZURGRUtnWUtEbDJXQk40VGp4S2ZRZ2tGZGFJTkVTOG9NVkhCZmFYU0lqMmQwT0xJOXpDMVZPc0drYm5WX21ET3RVMkl6MFhsWjZEY2NZckN4Vk5wbVFwRUVpTXEzVGNsZHAtQXA4UW9YZWFlUV81SDdBMTJhY2J4M215cEtmcXFOajhUVnd0VUxRWmJBR3dnTm5YMA?oc=5",
+    "summary": "The end of dashboards? GenAI and agentic workflows transform business intelligence  cio.com The end of dashboards?",
+    "published": "Thu, 28 Aug 2025 11:46:27 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Sigma Computing launches Data Apps to boost analytics - TechTarget",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG5jRWVIczhyZXVQcm5OMkltaUxIeWpnZmdXWmRIV3NmUmJ6NkpwT0FaMzFOQlp5U1hpby0xSklfcURlLXZmcGVTdVZ5VFl2c1o1Z0YyRGZtU2hILWozdVhnY3I1YUdhdUU5ZUhsNkhJUU1aVmVFWHU1ZzhTRnJ1VGtBQ1JhbDRMUUl6bURmMlhOQTdpWFM4cmJHdC1jZmJZMENLZHZ2a3Rzck9xcDcteDV3Q0VLUEFsZS13?oc=5",
+    "summary": "Sigma Computing launches Data Apps to boost analytics  TechTarget Sigma Computing launches Data Apps to boost analytics  TechTarget",
+    "published": "Fri, 14 Mar 2025 07:00:00 GMT",
+    "source": "Sigma Computing",
+    "category": "vendor",
+    "drawbacks": "Offers fewer governed search capabilities than ThoughtSpot.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Sigma is building a suite of collaborative data analytics tools - TechCrunch",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTV3bnk0NDdxZ0g0aWlZSndNb3UtRnNFcVFIUFFIVVRhNThQVkVBWldtSTkyQUhfNFFXUk1hcHNXaFhvM3Jaa3FoRWlMVzFReVJEbmxZRlNqeTFTVGVSNFI4akZjQnhmeWhkM2JvSDlKajRVMTFaZlRETFpNTjhzbDh0YkFocFZDN2c0X3JLQmR2amwxeDJpMHhySFpzbEU?oc=5",
+    "summary": "Sigma is building a suite of collaborative data analytics tools  TechCrunch Sigma is building a suite of collaborative data analytics tools  TechCrunch",
+    "published": "Thu, 16 May 2024 07:00:00 GMT",
+    "source": "Sigma Computing",
+    "category": "vendor",
+    "drawbacks": "Offers fewer governed search capabilities than ThoughtSpot.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Sigma Unveils Data Apps to Unify Business Workflows Directly on the Cloud Data Platform - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTUhtZjZ4WVZkYVJndU1jTm9QR2ZjZGk4NmRIVDAybURkbkVGeEJEeEt4VFdTeXVQNFNVSFdSYVlfb3Z3Y1FuaTg4ZEVqQjFXOEJzQkh5Q1E0R1hUYXVyTHoyZXBYNDNXOXluV3g3TUIxSnU3OFRZT2pqTjBDU2psUllEb180UER5S01iVklWVy1lRXhzcFFrY3ZyNnU4ZUdIc1NGY3JjT3hsN1c0MGxKWXNBYjVlTmlZcnIyZEpla2FlOW12bFhDTkR0WHoxVC1RRWl6RDU2eGVzMnhj?oc=5",
+    "summary": "Sigma Unveils Data Apps to Unify Business Workflows Directly on the Cloud Data Platform  Business Wire Sigma Unveils Data Apps to Unify Business Workflows Directly on the Cloud Data Platform  Business Wire",
+    "published": "Thu, 13 Mar 2025 07:00:00 GMT",
+    "source": "Sigma Computing",
+    "category": "vendor",
+    "drawbacks": "Relies on external infrastructure and possible vendor lock-in.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Cloud Analytics Leader: Sigma Computing’s Mike Palmer - GrowthCap",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT2tVcW93T2hmV3hWZE9GLTRCSGFhUTdwU0o3d1NNYkhQckU2d1hvMExOVXNBMW9GX09aSUM2ak96REx0eTZoUXJfTVEzWmJ3cklUWkhGamlObnNLSWNJdTRrREZTNzRSUXJqNVdCaS1ackVlbGJzYUEyTnZOTFluNHAtTWZlTlRKQVE?oc=5",
+    "summary": "Cloud Analytics Leader: Sigma Computing’s Mike Palmer  GrowthCap Cloud Analytics Leader: Sigma Computing’s Mike Palmer  GrowthCap",
+    "published": "Wed, 30 Aug 2023 07:00:00 GMT",
+    "source": "Sigma Computing",
+    "category": "vendor",
+    "drawbacks": "Relies on external infrastructure and possible vendor lock-in.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Qlik Answers Drives AI Adoption from Pilot to Operations - Technology Magazine",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlFOcURTb1FzQW8yZlFLajJPZnVVdWdCRl9mczQ0VVREN0VQSGhRelVnOUw5NTBZazJDZTg5OEFfMENrbUt5emJLTTA0TkJZaHhTdm1TbWxpS3lyQngtajBGZ1VlblRPU3p0dmt2V0tWY2NfalBRLWh1Z09SSXNBOWNnV213OGN2YkRaNGNzanhQWEw5MzE0?oc=5",
+    "summary": "Qlik Answers Drives AI Adoption from Pilot to Operations  Technology Magazine Qlik Answers Drives AI Adoption from Pilot to Operations  Technology Magazine",
+    "published": "Wed, 20 Aug 2025 07:00:00 GMT",
+    "source": "Qlik",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Qlik Accelerates Move to Cloud with New Analytics Migration Tool - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEIwUm95dlA5aHFiemYyMC1FUm9uaDJPNE9VaGdMREtnbDJsQ3d6N0ozTW52M282UzBHbGVnZ3JSSm9vY2RvVkNXTlN6XzhFcWk5cll3cWlWcnFla0dZWkF4aXVFY19Va205SE5iVHJnUkVvblp6dXNrM2g3OUtzeUlqWEx5Y1lQQnNYa3Y3dTFpX0ctWTlsSHJkM21zNWVEZHE0YkZTZXR3UzZlaGtCQm1WUV93eVh0RWpFN2tR?oc=5",
+    "summary": "Qlik Accelerates Move to Cloud with New Analytics Migration Tool  Business Wire Qlik Accelerates Move to Cloud with New Analytics Migration Tool  Business Wire",
+    "published": "Tue, 06 May 2025 07:00:00 GMT",
+    "source": "Qlik",
+    "category": "vendor",
+    "drawbacks": "Relies on external infrastructure and possible vendor lock-in.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately! - gbhackers.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2V0OFhvNzQ5Qm5LVV9TXzdFZUNLbHJHbVhaRG12bG45Uk5OS1dqMWh6LWxsa2VqZWtIN2dyMXhlUEpqM1BFT3NQMmZtWHJsUkxxWTU3b3RhMXdMQmhYdzNPUVBOSGZTUGFsX3JxWG1HeWdpQW1rTGdoUzdXSTZjcm530gGHAUFVX3lxTE43UVdmZFRzOEdQazgtUy00ejItX3R2dGRSNlRjbzZTZW41NUJuVXkzLTdzZFcwQm9nX0ZzY0NQU2s2Z2RCZWVwZ0tpVFNUeWdlNzQwaTR0VGtrUFRtci1hem5XM2tDNU5wcGR3TnpoQWxSVlgzRmtVZkxCY3NPZ2xCYVh0MFQ5OA?oc=5",
+    "summary": "Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately!  gbhackers.com Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately!  gbhackers.com",
+    "published": "Mon, 28 Jul 2025 07:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Upskill your team on Azure Databricks with an on-demand webinar and Microsoft Learn - Microsoft Azure",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlg1V3FocmdEWEIwOW9KeTJTMVJHaUxHbFVNZWNXM0tFd0ROMUFMV09adDh1d0l1SmpEQTQ1aXB6RUJSZVZUbVhhWnFuWGZTa25jWDJNVDBwOU9rQUg5Y1FEZ05RN1RzSUsyMzRwMHNTMDN1XzNjcDNvQVpXLWNrTTNGUlA5MHR5QllMWnAwdGNrSVRCVF9nNG1LdWdVZUZ6RTdPc2JyRzhXbnR4MHBncWNTQ3dCc3VjWk56LUlzOWs?oc=5",
+    "summary": "Upskill your team on Azure Databricks with an on-demand webinar and Microsoft Learn  Microsoft Azure Upskill your team on Azure Databricks with an on-demand webinar and Microsoft Learn  Microsoft Azure",
+    "published": "Thu, 17 Apr 2025 07:00:00 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "What’s new in Power Apps: March 2025 Feature Update - Microsoft",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWFZUllBam9sakxsamZ5TUdIVGlyY0dEUjFPVlFGRFRQSVltMTgxbEU1aWZ0Szd2NDRyY2Rza0JTWV85UnhBZmxIaDJvd3FIQnpmTnVrVnU4WGFFWFU3aW9WYnp1QWh4a0xNQ3pnYUVDU3haY012TVRaZjR4UElMcHNZZWVOMVBmVkRHVXhjd2p6cC1sWFdTY0hXSjVZLUY2dmo0RGQ3NlNaM1lhb3lQaHZVdw?oc=5",
+    "summary": "What’s new in Power Apps: March 2025 Feature Update  Microsoft What’s new in Power Apps: March 2025 Feature Update  Microsoft",
+    "published": "Fri, 04 Apr 2025 07:00:00 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Google acknowledges Looker Studio sharing privacy bug - PPC Land",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zQXJCdWRUX18xVVpWamdJOC16QloyYWttN0I4ckpHR0xaeDV3aVpIc0g3V1JzT1RNdENwU3pZaGVpOFFPeWRGZGc5WEdnTVBWMU55VmV0b2ljcnJ4dTJMeDdSYnZMOEl4cTQ1S0VZay00LVU5b29ydDl2RQ?oc=5",
+    "summary": "Google acknowledges Looker Studio sharing privacy bug  PPC Land Google acknowledges Looker Studio sharing privacy bug  PPC Land",
+    "published": "Thu, 07 Aug 2025 07:00:00 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "May raise security and compliance concerns.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Simplifying Multimodal Data Analysis with Snowflake Cortex AI - Snowflake",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzY2Z3bnNFZEg4ZkRROVJVZmxZV2pocnV3c3pTQVdWWGxuakVWYkNpbWxheVNaSWRHTkFJbTNWS1g5Q3FRYzRlZWRSZ25ocVIwTW5kRl9ZaTlZZ1FPbHVnZDBvTF9nNmFSd2VOUlZRVjRlQ3l1Y3h4QQ?oc=5",
+    "summary": "Simplifying Multimodal Data Analysis with Snowflake Cortex AI  Snowflake Simplifying Multimodal Data Analysis with Snowflake Cortex AI  Snowflake",
+    "published": "Wed, 16 Apr 2025 07:00:00 GMT",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Accelerating AI adoption for the US government",
+    "link": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
+    "summary": "Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance...\nThe post Accelerating AI adoption for the US government appeared first on The Official Microsoft Blog. Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance...\nThe post Accelerating AI adoption for the US government appeared first on The Official Microsoft Blog.",
+    "published": "Tue, 02 Sep 2025 13:06:22 +0000",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Unlock Actionable Insights from Your Most Complex Documents with Snowflake Document AI",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/document-ai-intelligent-document-processing",
+    "summary": "Unlock insights from complex documents with Snowflake Document AI, enabling accurate, scalable, and automated intelligent document processing. Unlock insights from complex documents with Snowflake Document AI, enabling accurate, scalable, and automated intelligent document processing.",
+    "published": "Tue, 02 Sep 2025 10:34:13 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Architecting a High-Concurrency, Low-Latency Data Warehouse on Databricks That Scales",
+    "link": "https://www.databricks.com/blog/architecting-high-concurrency-low-latency-data-warehouse-databricks-scales",
+    "summary": "Implementing Production-Grade Analytics on a Databricks Data WarehouseHigh-concurrency... Implementing Production-Grade Analytics on a Databricks Data WarehouseHigh-concurrency...",
+    "published": "Tue, 02 Sep 2025 07:28:59 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Salesforce lays off 93 employees in Washington state as Benioff touts AI-driven efficiencies - GeekWire",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGNYS3lmdzV0NE5PenJ4SU85RFZnV3E0MnNBTGNYTmx3amVLemZiZk0tOWlOb3ByaVpPM3U4dXhwUjRxMjE2MGtWekI1SEdnZ1ZjZTQzNXVFbUw1a2NoR0RNSU9ScGtwOE9WOTBRS0ZoVUtzR19wb3FBaW0xb1dFbm5vNkc5VWxxTjh4b2dwb19DXzMzVGtfcXJlX29ZcjNSYmtlLVNVRWxjZ2tTMFNQd3dOTUp5NTBFSjBmUVpRRkc?oc=5",
+    "summary": "Salesforce lays off 93 employees in Washington state as Benioff touts AI-driven efficiencies  GeekWire Salesforce lays off 93 employees in Washington state as Benioff touts AI-driven efficiencies  GeekWire",
+    "published": "Thu, 04 Sep 2025 03:56:15 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Key Security Must-Haves for Safely Integrating Your Data with LLMs",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/security-must-haves-data-integration-llms",
+    "summary": "Snowflake Cortex AI addresses essential security measures, freeing developers to build with AI models from Anthropic, OpenAI (coming soon), Mistral, DeepSeek and Meta. Snowflake Cortex AI addresses essential security measures, freeing developers to build with AI models from Anthropic, OpenAI (coming soon), Mistral, DeepSeek and Meta.",
+    "published": "Wed, 03 Sep 2025 13:38:13 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "May raise security and compliance concerns.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "5 Ways Data Helps Retail and CPG Navigate Tariff Uncertainty",
+    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/retail-cpg-data-tariff-uncertainty",
+    "summary": "Discover how retail and CPG companies can use Snowflake and AI-driven data insights to manage tariff volatility, cut costs, and predict consumer behavior. Discover how retail and CPG companies can use Snowflake and AI-driven data insights to manage tariff volatility, cut costs, and predict consumer behavior.",
+    "published": "Wed, 03 Sep 2025 11:30:00 -0700",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Now GA: Share Materialized Views and Streaming Tables with Delta Sharing",
+    "link": "https://www.databricks.com/blog/now-ga-share-materialized-views-and-streaming-tables-delta-sharing",
+    "summary": "We are excited to announce the General Availability (GA) of Materialized View & Streaming Table (MV/ST) Delta Sharing... We are excited to announce the General Availability (GA) of Materialized View & Streaming Table (MV/ST) Delta Sharing...",
+    "published": "Wed, 03 Sep 2025 16:00:00 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Introducing Databricks Assistant Data Science Agent",
+    "link": "https://www.databricks.com/blog/introducing-databricks-assistant-data-science-agent",
+    "summary": "Since its launch two years ago, the Databricks Assistant has become an indispensable... Since its launch two years ago, the Databricks Assistant has become an indispensable...",
+    "published": "Wed, 03 Sep 2025 12:06:39 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTg5ZFJfZFR6bjFrVU91U1RmNExqVlZhSU1jSzFReUMtQjZzWm1DNF9EbHJMeTh5dzdGVmcyd19Ja3RtbUtYVVBzXzRDZnV0cndJV0FDcmJOYmJWWDhnQ2ttUXg5UnZ0Y0JwMnVLTVU4bkdxT3J1dXBBX0xtTERiMkFIbkJSS3V6aWtIdnRZMUNQM2h0V3pwMWFPbERyd1dz?oc=5",
+    "summary": "Apple’s Siri upgrade could reportedly be powered by Google Gemini  TechCrunch Apple’s Siri upgrade could reportedly be powered by Google Gemini  TechCrunch",
+    "published": "Wed, 03 Sep 2025 20:50:38 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Apple’s rumored AI search tool for Siri could rely on Google - The Verge",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVZpeEV3Z2VGUUdzRGJZZHZfWkdPTjFQRHhGY1pCSTlndHMxVjY3TlhMWGJaOVRNa1E5OU9mQU01dGZuWTE2WW81WExIb011ZElibkEwTFFZTXFQSUhDcWJfeW5SbVJhV2dQVmJYUTRQZnBaYWUyRnBWRkh3Q2tzSDZ3?oc=5",
+    "summary": "Apple’s rumored AI search tool for Siri could rely on Google  The Verge Apple’s rumored AI search tool for Siri could rely on Google  The Verge",
+    "published": "Wed, 03 Sep 2025 20:47:46 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Evaluating Graph Retrieval in MCP Agentic Systems - Neo4j",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWkFzQXdLQkloeHJ1WERfekNIVHlMazY0TG9IZnRheUFPcU9Ba3hUeml0eFFnRk9HZ2VteGJYZ2ZUS1ZsOW13ZUNUSUpFX055VXJFcU51di00YmxGeE1waXRvWGFicGVDQjVEUmtXclJQMkVHN2VQR1psWGRpZlM5RC1FQ1ZzU3d6WVZr?oc=5",
+    "summary": "Evaluating Graph Retrieval in MCP Agentic Systems  Neo4j Evaluating Graph Retrieval in MCP Agentic Systems  Neo4j",
+    "published": "Tue, 02 Sep 2025 16:31:35 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Moveworks Partners with Databricks to Bring AI/BI Genie Agents to the Moveworks AI Agent Marketplace - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3ZaVVRmeGpINDU2RmdSblltZXlfMG9CeWtyS1dkWi1XNHFBdVIyV05jeWlibkkwR0hwR0QyVWRNY1VpU0lCMlpCdV9JNkNJQVIzd28yYmQzeU1WcG40SGFWUnd0dkZNVTVCLU1Ld0dTQW5waTV6X3pQd1c5d2dMRG9JMHFTaTAzcHdCaA?oc=5",
+    "summary": "Moveworks Partners with Databricks to Bring AI/BI Genie Agents to the Moveworks AI Agent Marketplace  Yahoo Finance Moveworks Partners with Databricks to Bring AI/BI Genie Agents to the Moveworks AI Agent Marketplace  Yahoo Finance",
+    "published": "Tue, 15 Apr 2025 07:00:00 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Analytics and Data Science News for the Week of May 23; Updates from Databricks, Microsoft, Sigma & More - solutionsreview.com",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORVhRVnJtUTFjQUNmZ0ZFWlJTSXVUTGdsMkZXSVlvVG9oM0JlYXh2YmRKdlF4dU1QTnFSQmhUcHMwUU11Nk1HaUxUUDQxdTBMNmlWRTF0ZGdOc0ZRRGZpS0pKUkJnWHZXOVF3TzJsc201c3pycnFRNS05RFROa0dCQktwNmhEQldtSTFzN1hvZm1QTkdDdW52bzdlSWREZDJPX2Rib1ZjWG1nODBLUkdOSllmV01WUm1WOHFTaVdFMmZfYmVhWEZpZzhKV1dvckQtei0xdmRFVlFxYUYxNWRpM0d5RzA?oc=5",
+    "summary": "Analytics and Data Science News for the Week of May 23; Updates from Databricks, Microsoft, Sigma & More  solutionsreview.com Analytics and Data Science News for the Week of May 23; Updates from Databricks, Microsoft, Sigma & More  solutionsreview.com",
+    "published": "Fri, 23 May 2025 07:00:00 GMT",
+    "source": "Sigma Computing",
+    "category": "vendor",
+    "drawbacks": "Offers fewer governed search capabilities than ThoughtSpot.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "City of Montréal supports citizens with a virtual agent built using Microsoft Copilot Studio - Microsoft",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSXQ1ZFROSWJTd2NuNXhYRFRLMEo3a0VSOHBkYm1vWnQwb21tMHpjaFRxdHJ5ZURIYTZpRFM4WVJQYnQzb2llXzV5UldfMzlWbzR1SlVIa2pYWFFud0JDWVY5UDA4ZnJOQmNRN3hLTFYxX3A5LXpYdnptb2RobTQ?oc=5",
+    "summary": "City of Montréal supports citizens with a virtual agent built using Microsoft Copilot Studio  Microsoft City of Montréal supports citizens with a virtual agent built using Microsoft Copilot Studio  Microsoft",
+    "published": "Thu, 04 Sep 2025 07:26:48 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Leading AI Innovator Smarsh Leverages Salesforce’s Agentforce, Deploys AI Customer Service Agents for Financial Services Support - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcjJjcnBDZ2FSUU5vZlN5TDJxQ3pQbml4Z2ZHVzAxQVBhVmkxMDJPS19aOHF0bVlBMnoxRHFwSUFTaTB4bS1xOVlGNUdqcVZuSnMtY1hZazZDZXZtRXdxNnZyN1N6UjdUVDNvenNFSURNVzQyX3B1TFh6TUJSYy1rQWRVMjFwaExONmprNkNpSHk5YmRSdmVqM2xzTmVlbWNZc3pzNXlSX2NaMWVoSkJHZjRfTEVHWnc1R09KRzBoVGZjeGdOajFRVWpDR1BvSTBMc1VqZXBwSzNfZXY4bWJQRmRJeHFyZlo0cXZhdFZYS20zejAxVU1PMmFpSXJXMS1adGEzVlliNDRZUDk0RW9MSg?oc=5",
+    "summary": "Leading AI Innovator Smarsh Leverages Salesforce’s Agentforce, Deploys AI Customer Service Agents for Financial Services Support  Business Wire Leading AI Innovator Smarsh Leverages Salesforce’s Agentforce, Deploys AI Customer Service Agents for Financial Services Support  Business Wire",
+    "published": "Thu, 04 Sep 2025 12:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "SupportLogic Launches Chatbot SX to Bring Guardrails to Salesforce Agentforce - Grit Daily News",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUm1YZFJaUGRyWEVWQ3JPY09sSUNyeGNpQWNDRlpqaGl2TmFSNFdaekxyT0l0X3JxaDNRVXhWV09FRDJyNnpDOXM5dHFRZDZrd1RIM0xRZTBFWDZ5ZWV2NGd4aEozcTRVcXBGVDlqVHRtc3B3X0Jz?oc=5",
+    "summary": "SupportLogic Launches Chatbot SX to Bring Guardrails to Salesforce Agentforce  Grit Daily News SupportLogic Launches Chatbot SX to Bring Guardrails to Salesforce Agentforce  Grit Daily News",
+    "published": "Thu, 04 Sep 2025 13:19:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "From Search to Sale: How AI Is Redefining Customer Engagement and Loyalty in Retail",
+    "link": "https://www.databricks.com/blog/search-sale-how-ai-redefining-customer-engagement-and-loyalty-retail",
+    "summary": "A shopper goes onto your e-commerce site during the holiday season and types:“Find... A shopper goes onto your e-commerce site during the holiday season and types:“Find...",
+    "published": "Thu, 04 Sep 2025 20:30:00 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "How Kythera Labs, a Databricks Built-On Partner, saves $2M+/year using Delta Sharing",
+    "link": "https://www.databricks.com/blog/how-kythera-labs-databricks-built-partner-saves-year-using-delta-sharing",
+    "summary": "Healthcare systems generate enormous amounts of sensitive data, but moving, sharing,... Healthcare systems generate enormous amounts of sensitive data, but moving, sharing,...",
+    "published": "Thu, 04 Sep 2025 16:00:00 GMT",
+    "source": "Databricks",
+    "category": "vendor",
+    "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Apple AI, Google's Gemini advantage, Nvidia in China: 3 things - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlBjRUgxUE0wVVJVdEdFbmc1WHVvNl9vaWxhSU1OTkZhRTRMN0pPNWUyN0N2ZTdwckZPQzJ1X1hBX1RnMVlmTU0zMFFCeU1qOWhWcnlRMXlWM3dDcl9nVXJXM1h1MG5oSEJwSGN2RUJibVBMUGlDX1czRWUyTXVuazE5dzgxSFE?oc=5",
+    "summary": "Apple AI, Google's Gemini advantage, Nvidia in China: 3 things  Yahoo Finance Apple AI, Google's Gemini advantage, Nvidia in China: 3 things  Yahoo Finance",
+    "published": "Thu, 04 Sep 2025 12:40:33 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Visa Launches MCP Server and Agent Toolkit to Advance Agentic Commerce - Analytics India Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVluSHJZTTIxTnZxVUhBeWNHN2xJNEZQX2tLQWtEajM0eldhR0QwLVVuN3NaNklxN0xtSG1GUUlKenVuQkJ2elR4c1VBd3F2MzAzalVMc2xILVVGRllWUFotdXZCeWFKYi1FaW5NSEQ2SW84Q0lDWDZzR2dLWVdrX1hHWU9KalM2VHdpbGpOOG9fOEpNdHM0QkxycVg1RmIwLWNyeGozOVpMY3M1UUtLeWpGMXBqX25L?oc=5",
+    "summary": "Visa Launches MCP Server and Agent Toolkit to Advance Agentic Commerce  Analytics India Magazine Visa Launches MCP Server and Agent Toolkit to Advance Agentic Commerce  Analytics India Magazine",
+    "published": "Thu, 04 Sep 2025 13:07:18 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Creating tools that ‘do wonders’: Data analytics alum uses the power of tech - Penn State University",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkNEeV9RU1BZQ1lIVFgxa3RvZ2RyWC1SUHlGb0VydWxkZDU3WTRhTTB5TC1oUEtHamMxUUFKS0FIWXdyN0dtQWxLTmlFLXlPY2JkdVc2UHNOUHdQbzJmN2ZzRHQ3SU1fMkJROU5uV21JaExtNGhpNHhmM3FranlCc29heC0wWEpvQ0xvZEdYN2gtWVQ3TVRWRWVzSVFlQWY1V05UOFpWR28?oc=5",
+    "summary": "Creating tools that ‘do wonders’: Data analytics alum uses the power of tech  Penn State University Creating tools that ‘do wonders’: Data analytics alum uses the power of tech  Penn State University",
+    "published": "Thu, 04 Sep 2025 20:37:30 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Anthropic to stop selling AI services to majority Chinese-owned groups - Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NTlFqNFF5b2ltZVctY012XzVqT2h0ajl5T2I5LVBjS1lxTldOb0tyOTBDVXJILWpFMEw0RlplZGRNbFYtdklub1JsLWN4aHFzOHRkTDJwbERpb1gzZ010NEZFOER2ZUdpRlFKY3ozRVI?oc=5",
+    "summary": "Anthropic to stop selling AI services to majority Chinese-owned groups  Financial Times Anthropic to stop selling AI services to majority Chinese-owned groups  Financial Times",
+    "published": "Thu, 04 Sep 2025 21:05:47 GMT",
+    "source": "Anthropic",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "New innovations in Microsoft Purview for protected, AI-ready data - Microsoft",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGxDQ2tnLVpHQzRwOHVrZ0tvekl3clJ3eElnTXoyeDZwYk9pMHc3SEoxTHhWTEptY25FYzdWTW5KNU9JbERxR0FfWHVKTHZ1TTlUTmg5VmRrbXhRMGYtZ3JfYnpvZG5hY3NKTHl0NElYMTBXSzFqOFpGbU0yc1lSZEdUVE9mV21DZU5jWXZxc3lEcEYxV1I2X2FLbHhKdEpIb3oyLUZyeDBES0V4TERrdjh1UmJhU0oyeHNzWUJFTQ?oc=5",
+    "summary": "New innovations in Microsoft Purview for protected, AI-ready data  Microsoft New innovations in Microsoft Purview for protected, AI-ready data  Microsoft",
+    "published": "Mon, 31 Mar 2025 07:00:00 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Salesforce Agentforce: What you need to know - MarTech",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVUJsbmhIeDdrYjJlZDJOa0hHSXB4U3hSUk5WTmRXTmVZalhvZGx4QjFJMUtEUDV4QWsyNTZjSTdiRE54MGt0TlFoQm5NZDVpN0NhZkVmd1FBN0VBbk9PM0lJS3RXUVRLcmZ2OGxCOW1SUQ?oc=5",
+    "summary": "Salesforce Agentforce: What you need to know  MarTech Salesforce Agentforce: What you need to know  MarTech",
+    "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Unlocking Trust in Enterprise AI with AI Observability and Evaluations in Snowflake Cortex AI - Snowflake",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRDQ5bk5MQVhmaUV1ZVowMzdoNTdJenphMnNlWHppMVh6RXVfeC02UXktNDB6MGI1STdtTnpRRk5jN0x1bDY2TWpXRzdfMUpsODAyaTlSNnh6U0RwRTN4WDRDS2VLUFA5eDVJUHRaMTBSX3d0VERpancxbk9ZVzREcA?oc=5",
+    "summary": "Unlocking Trust in Enterprise AI with AI Observability and Evaluations in Snowflake Cortex AI  Snowflake Unlocking Trust in Enterprise AI with AI Observability and Evaluations in Snowflake Cortex AI  Snowflake",
+    "published": "Fri, 01 Aug 2025 07:00:00 GMT",
+    "source": "Snowflake",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Why Anthropic’s Coding Prediction Hasn’t Panned Out - The Information",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2x3ZXc5NzJleEFyLWtRSDBlRG9uT1Z4UUNfdk96MkcwWUg5dG9hSzF1VjVYbDBsNVNQRzV5aDFWcF9TTlJIVUFnN0Fka2RvXzF5ZGNBbTZzcncwLWZlWUdWa09iVV9hNWQ5NlZXQlJtRkNncldUR3MtVnhWSGxFcA?oc=5",
+    "summary": "Why Anthropic’s Coding Prediction Hasn’t Panned Out  The Information Why Anthropic’s Coding Prediction Hasn’t Panned Out  The Information",
+    "published": "Wed, 03 Sep 2025 14:02:00 GMT",
+    "source": "Anthropic",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Decimal Point Analytics Launches DocuAgentIQ - Agentic AI - GlobeNewswire",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNTWNiYjcyc1lzOTUwbWdvWnhkYjZzQ1BsaDFuN0pNZ2pJSjFPVzJ2YV9PelJvcWdUN2JGN3JvMHUxWnZRSnNZY2tjMURTOW5XRHZJQTUyY2tERmszQk1uYkt1Zk9BUzVPSVJtTmtVeDdTaXNBNDRla2RuSmZBTWladWhvVHV1Z3dOcDF2MGNpTlZEb0hrWnk2M1ZmY0NxcnNZM25hZGJaMS1CcGRhSl9SeEE2QWZwWnZ5YlBZNGROeVZOWnpBZm5yNHYtQUt4am95dThvcmZpUlNJdHNYYVh2UUo2dDYxSWYtMG5sOTJXX2J4b1RzTk44eWw0Zmh3bUNHZi1qOUZpT1RwZy1aWWRSNWxKVDJNUQ?oc=5",
+    "summary": "Decimal Point Analytics Launches DocuAgentIQ - Agentic AI  GlobeNewswire Decimal Point Analytics Launches DocuAgentIQ - Agentic AI  GlobeNewswire",
+    "published": "Sat, 23 Aug 2025 07:00:00 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "What’s new in Power Apps: April 2025 Feature Update - Microsoft",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHVDQzBIODNhdFM3bld2U1QyM2RhRXBiZE1uVE9xQnFXN2h6N3ZJNXVkc25vVUJOZHNicjFKRXNHbE02UFZuNW9DaVRhMzl6TFY5MVFQZS1Lcl9MUWk1MUdBdVlwNnZVQVM3cVRDQUVxblF6dGhPSVVWNHduMjBvZnpvN0szV0NPWGRfRkFmcTNRQ2M2Wnc5bS1VZEtzMXZ3bHdmYmNxR2tpby04T0lDU1JEMA?oc=5",
+    "summary": "What’s new in Power Apps: April 2025 Feature Update  Microsoft What’s new in Power Apps: April 2025 Feature Update  Microsoft",
+    "published": "Fri, 09 May 2025 07:00:00 GMT",
+    "source": "Microsoft",
+    "category": "vendor",
+    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Salesforce (CRM) Declares US$0.42 Dividend; Smarsh Enhances AI Services With Agentforce - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURNUnM3eHdWeTRjRDg5czhtTmxQeElFN0JCeENpeXhaRmtlaTk2RTAtUXNfWE9LZmRvSmxKaDRSajFLV19xY1hkbTFmcHZManpQdTFOaEZZUUZFN2ZRZGNwLVlmSjJrY3Y1WGZuenlMdTdRLWVBVUk3YnJZTUFNMS0weHpNTUJRRDJ3U09yUkpnbzJqSk5QY1IxTGxST1VTYTNwV0NJQUp5T2tTNmtlbnNOTFBpMC00Tk9rYjVNZV9Md2VW0gHKAUFVX3lxTFB4S1dodDd0LXBreFNkZFhqME1QUmpBeDNkRWt0NjJpN18xUVZsVkR5OWxIcDJwNnlvUERjVm5YMUVEYnB1X2pHRktmR1NVQ0dic1ladE1MMFVvbjBEWkM4bTRwNGlKUzJRNExTVEwyOHY2Rm1nVXR1c0FvQWlYbmFpZVdJN3AwSTVHZ0dQeFlOLXFVV1hIWnk3RkNpNW9KRGVZdjEzY2tRWlAwT0F5bDFhQk10aXNJeWpWMjV4VlBJYmJ3bXltczZmZHc?oc=5",
+    "summary": "Salesforce (CRM) Declares US$0.42 Dividend; Smarsh Enhances AI Services With Agentforce  simplywall.st Salesforce (CRM) Declares US$0.42 Dividend; Smarsh Enhances AI Services With Agentforce  simplywall.st",
+    "published": "Fri, 05 Sep 2025 17:27:04 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Smarsh Deploys Salesforce's Agentforce Product - - Insurance Edge",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHNVRTRUN3hONHp3eVIxZjU5MHhSN1RiZ1dOS1A2eTZMUnlZSWRGRmV0enFnWFNEZC1qNndoOVZVS3NFc1hkQXpFREVBM2FzNFM2Q0huOU4zQVNvS1RKNzNnM1ZpLXM4T1BqdE9hMGFZMjN4Y2ZJeXdGOVlNVWpPbE02SjBieDk5cVZkTg?oc=5",
+    "summary": "Smarsh Deploys Salesforce's Agentforce Product -  Insurance Edge Smarsh Deploys Salesforce's Agentforce Product -  Insurance Edge",
+    "published": "Fri, 05 Sep 2025 09:00:42 GMT",
+    "source": "Salesforce",
+    "category": "vendor",
+    "drawbacks": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Analytics and Data Science News for the Week of September 5; Updates from Databricks, Qlik, WisdomAI & More - solutionsreview.com",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3I0dmZmR0s5OGhRdFhKZm9aMy1Md1JSZmFvWHpHT2M2enNGLTlKaktJTFRRMmNxbXJER01GWXVnWTB1ZGdsRWF5eEVDOTBwS0lNUlVOUW9aRmtGbjAxVkRndnFsa0xnQUt2WlRvMzMyeXZGZ2ZVNFpadnBVM3pYeXFzU3RvSV9LYVdmenBpMzVsSmU1dll5RF9WN3V0RjNUNHdGdmtLamQ1XzRzdjFLUTdVZndJbDZ5ZVAzOXdGRzdrV0RtRmtBRU1sM2c0d3N5N0E0dFFYQnlpdV9WOW9hQ09NUVBXRGpF?oc=5",
+    "summary": "Analytics and Data Science News for the Week of September 5; Updates from Databricks, Qlik, WisdomAI & More  solutionsreview.com Analytics and Data Science News for the Week of September 5; Updates from Databricks, Qlik, WisdomAI & More  solutionsreview.com",
+    "published": "Fri, 05 Sep 2025 18:22:30 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Qlik Recognized with AWS Generative AI Competency for Data Solutions - SMEStreet",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzd5UURmbng0NlJXYV9LV1M0UV9oelRJc2lFQ1RRaE1qRC1TM1IzaWJlMVZ5Nkk5Ykd2TmhpbTFxU3QtbUtqRktxUldPOW1UdGNwZTJPQVJsUy1uTGdBaFFwSkZaWGdTRU4xejdGQnV6Z1dEdFMtM0MwVEY3cXN4TkdkVzViZWdSQ1ZTTVhOcXBFNHRJcVFoenZ6RmQ4bm5fNm80SjA5ZVl5TWNxQ0E?oc=5",
+    "summary": "Qlik Recognized with AWS Generative AI Competency for Data Solutions  SMEStreet Qlik Recognized with AWS Generative AI Competency for Data Solutions  SMEStreet",
+    "published": "Sat, 06 Sep 2025 05:50:30 GMT",
+    "source": "Qlik",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Qlik Achieves AWS Competency in Gen AI - Destination CRM",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS2hiTjdHRkpoaXBlZU5CZEFfVHZ3V1lUVTJDWGlOajdXcWJFQVp6NWhCdU1pYldhMk9DcWZ0SHJ4MTNjUUpvSW1tdGtadXVhWDZxemxBdjl4M01VNHI0OXRfRTd0TzdTbjZxb1VKdkJCMUpKYTJSblJNUkUzem5icjlha2s1YVdVMkhjTDh1VWVjTE1IOWJ4Tm1laU1ENDVuWmgxeXVwOXJsbFdITzExa1FBU3J6Ni1mRFpr?oc=5",
+    "summary": "Qlik Achieves AWS Competency in Gen AI  Destination CRM Qlik Achieves AWS Competency in Gen AI  Destination CRM",
+    "published": "Fri, 05 Sep 2025 04:00:36 GMT",
+    "source": "Qlik",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment - TechCrunch",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWVmUVZ3cWpvb1RwMzF0aFhHVWVxbk1hZVkwUmV0bFcwSi16Q0M1OWhSWkpyX25EVjQ1TXAtTWNYaUwzRjU4VmdONWMtVXVLMWduQWR1SFE0bTh0RkJ6cmtfeGMzUFl3c200S0lodFpIZFE2bGw4di0wWWFzYThYcGdxaU02NDZmOTBCMWpHVkpYUGk5X1ZaNzlLNXRnSVZHLVFQT0tib2ItdlIzNmc?oc=5",
+    "summary": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment  TechCrunch Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment  TechCrunch",
+    "published": "Fri, 05 Sep 2025 19:09:12 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Google Assistant is being replaced on Google Home devices starting October 1 — here's what you need to know - Tom's Guide",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSERuMXp6cXEwQVN5WWtLdnhzS3ZMR2FMSUdod3V3SHAzWVZPVzVOUnFMX1B5Z0duQVkxYk92a1hvOWlCbWpFUy1VdGhSV2lXeDcyeDk2cEJVNl82ZDFIcVlGNmlMUmItUTZ1TWN6X2Y0bWtxWWdLcGd5VVZrRmtrS1FZZGZmZXpGaHVSTURCMVpBYTV6N2dJcFZ2MFY1TFBfblRZcVJqQ3FCMlVTNm5Wc2c5emQ4RmhPVVZJczBmZzVEWmhPbjJEZkFvZFRCZHc?oc=5",
+    "summary": "Google Assistant is being replaced on Google Home devices starting October 1 — here's what you need to know  Tom's GuideGoogle Is Bringing Gemini AI to Its Smart Home Lineup, Starting Oct. 1  CNETGoogle will reveal more Gemini smart home plans and devices on October 1  Engadget Google Assistant is being replaced on Google Home devices starting October 1 — here's what you need to know  Tom's GuideGoogle Is Bringing Gemini AI to Its Smart Home Lineup, Starting Oct.",
+    "published": "Wed, 03 Sep 2025 10:47:12 GMT",
+    "source": "Google",
+    "category": "vendor",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Banks accelerate AI deployments as agentic tools gain traction - CIO Dive",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTk5JVVFMYnB0Um5PdFI2OGFEd1phWWo5T29FVERoWXcwckYxRU1nRFA1dWFMNWh0NXhtbnNkZUpQTG04eXpJTmNhMjJKUjYtamlWZWRlTUxkeHNLSWJCUEpzeWwyREVjVVNGd185cHVMUUdQTE1uWTUzemNNbE1aWGFFVWRhNVNSXzNPRW1FLUFfQzVpSl9RMHdDQTNZREpucVNR?oc=5",
+    "summary": "Banks accelerate AI deployments as agentic tools gain traction  CIO Dive Banks accelerate AI deployments as agentic tools gain traction  CIO Dive",
+    "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+    "source": "Agentic Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Databricks adds Data Science Agent to automate analytics tasks - InfoWorld",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDFTUkVKcmdhanZsQ1oyQzFTM0V2b2h3c2E1TjkxOWpxOHJuSnk5TjI1N3dsTjA1d1lxd2MwbFZMbGktYnFfQXVaYS1XekpQd1gzWWxZVXZUeTI3MmJlQ0d3MUNXcXdVbkZwTFJHZTRxbnU0Z04wcU1wb3VJM0NmTGtLN1ptNXBWZFU2UzVZUWJNRWhVZzdwb1BqZVdPOE1DaXVGanpXeTBYcWo3cXc?oc=5",
+    "summary": "Databricks adds Data Science Agent to automate analytics tasks  InfoWorld Databricks adds Data Science Agent to automate analytics tasks  InfoWorld",
+    "published": "Fri, 05 Sep 2025 19:30:00 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "The Dimensions API: a domain specific language for scientometrics research - Frontiers",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDJET2hBRkkwd3RIZWcwSjJvUUx2RC0tMzFiVGd5MjRHdmFteHJpNFNEVlRLcWtjNFVtZ0prRW5NLU41akJ6eGpXLThtTERkY1dzdDE2cXd4ZnB2ZnFOOF9DZVo3WHluaUtyNVBRdTl5MHNKcXhSeVFWREZDSkdHREs2ajRMWExVb3phR09yczBoU2M3SHgwTVV6cjRieEJmOGZMWEtzT1YtZ2c?oc=5",
+    "summary": "The Dimensions API: a domain specific language for scientometrics research  Frontiers The Dimensions API: a domain specific language for scientometrics research  Frontiers",
+    "published": "Sat, 06 Sep 2025 00:28:56 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "UVA Wins $16M DOE Award to Launch Simulation Center for Predictive Science - The University of Virginia",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNclRXaGhqbzBLMXJRWThvaHRpckd4bTlreHUtanlFTzgybUtMbndlNzNNTDF1WmtBLV96a3RiaGphVktJTjlSOWFwT18yNmxyb21zdnZKdmJSWm5PdFR1NVZqYVBCTFM1bUZseUJKMGQwR1pOSmxnd3JMcHEwQzI1cWhUOG84Z0RpMHBDdS1waUN3eXNFYXFKZzRHcEZ0bzNFRXVTaU94b0hCaVoyb3ZKZjlKUjRwQlk?oc=5",
+    "summary": "UVA Wins $16M DOE Award to Launch Simulation Center for Predictive Science  The University of Virginia UVA Wins $16M DOE Award to Launch Simulation Center for Predictive Science  The University of Virginia",
+    "published": "Fri, 05 Sep 2025 20:09:01 GMT",
+    "source": "Data Analytics",
+    "category": "industry",
+    "drawbacks": "Consider cost, adoption effort, and governance implications.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Broadcom stock jumps 9% on new $10 billion customer that analysts say is OpenAI - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNQnJBS29XMDUwU3JacThHaU81NEFCLU5LN2RWUFJlc05NOGFLS1hqVXI4bkZpZ3FXVTE1UHpzemF1TkxDRzU3YldBOHpTcVdjaFFTandHcTJZYlBNS0pjV0FNSkNjdHByem1JenZXM0FDQklpenNlak1Pa0XSAYIBQVVfeXFMT1VpT1Z0RGJqV3lodGFVOWFTbWNDdzdDSDhId1lOVGFBclZTVDUwYkVvSmJxNktEcmJyUEd5dHYwV3NnNzh1TjE1QWw1Q0ZxOWRTRUR3OHJzVEdZTUtsMjdPanU0T2NTdGU0WlV6Y1FFS1RveERuZkJyV0FuNUMyS2dhdw?oc=5",
+    "summary": "Broadcom stock jumps 9% on new $10 billion customer that analysts say is OpenAI  CNBCOpenAI to launch its first AI chip in 2026 with Broadcom, FT reports  ReutersOpenAI set to start mass production of its own AI chips with Broadcom  Financial Times Broadcom stock jumps 9% on new $10 billion customer that analysts say is OpenAI  CNBCOpenAI to launch its first AI chip in 2026 with Broadcom, FT reports  ReutersOpenAI set to start mass production of its own AI chips with Broadcom  Financial Times",
+    "published": "Fri, 05 Sep 2025 13:31:43 GMT",
+    "source": "OpenAI",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "OpenAI Says Its Business Will Burn $115 Billion Through 2029 - The Information",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVV9aRnhnY3A1Vm9iWjNqU0NZSnhHTkt4U1dwTkM4LUx3UGdNQ1FXdkFKSDkwLWJhMmg0VC1rWFBxcnFYcThDYXpjUUlBOFZvSzE4VDRzRVcxSE03SmpqbDhZNVhNOHZkd1pZcm94M24zbTBZYzhXLVEtY3FKakVLU0ZPc24xaXh6SlV5Y1ltS0o?oc=5",
+    "summary": "OpenAI Says Its Business Will Burn $115 Billion Through 2029  The Information OpenAI Says Its Business Will Burn $115 Billion Through 2029  The Information",
+    "published": "Sat, 06 Sep 2025 01:32:00 GMT",
+    "source": "OpenAI",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "OpenAI Says Spending to Rise to $115B Through 2029: Information - Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1dyVmU5X1oxaE52TkZzZ0gzbFVLX0NlRUxSdFg4QWRHbWF1NXZ6NENGMFgzVkMxMGR4azlCRUhsQnFOZmltVEp5cGxlTWNhNHA5YTRGZ1FxRVhhano2TXBIa1JqYmhoTnhnTzBxbTE5ZU1wWUV0SHNaaHpLQWNjRnVMRjZkZ2k5bXBzWE5xY0wzY0ZjY1Izd1kzYzZqemFfaUV1MXdybEY4TFlNdl8zTC1R?oc=5",
+    "summary": "OpenAI Says Spending to Rise to $115B Through 2029: Information  Bloomberg OpenAI Says Spending to Rise to $115B Through 2029: Information  Bloomberg",
+    "published": "Sat, 06 Sep 2025 02:34:00 GMT",
+    "source": "OpenAI",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "OpenAI expects business to burn $115 billion through 2029, The Information reports - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjZzMXpVc1c3LUtLdFBpTDBSM0p3dGpDYVY5SUhROHROVUM0R0thY1dDcngxcU9HQ2dsbTFfWlRXQlB3QmZaV0NaYmY5SEVNeW9vRWVsT0ZVT3d2Mkg3ZXdlZWlZVTl6eGFMeEZwVktyY1FEQWhoQnJBbkdWZnp6eWd0ZXk?oc=5",
+    "summary": "OpenAI expects business to burn $115 billion through 2029, The Information reports  Yahoo Finance OpenAI expects business to burn $115 billion through 2029, The Information reports  Yahoo Finance",
+    "published": "Sat, 06 Sep 2025 02:25:18 GMT",
+    "source": "OpenAI",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "OpenAI announces AI-powered hiring platform to take on LinkedIn - TechCrunch",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDZFNElEZHREVERtQWhYek1HLWZoUEVueTB5QThlXzh3bjhydGtpSkpLcHdvVlNjQk9KUFZWLVMzbWthbUJ6b0w2UThhb0p0bGd4Xy05Zm85c09KUi1IVldaTDl5enNBaHAxVTBuSWF3TnAyc1Q1TlVYT0xfUXBlYnh6d0pDMVpLbFJSMjNRR0xjLUFYQ2dMSU1RcDQyN1U?oc=5",
+    "summary": "OpenAI announces AI-powered hiring platform to take on LinkedIn  TechCrunchOpenAI is building an AI jobs platform that could challenge Microsoft’s LinkedIn  CNBCOpenAI teams up with Walmart to train millions of workers in artificial intelligence  Fox Business OpenAI announces AI-powered hiring platform to take on LinkedIn  TechCrunchOpenAI is building an AI jobs platform that could challenge Microsoft’s LinkedIn  CNBCOpenAI teams up with Walmart to train millions of workers in artificial intelligence  Fox Business",
+    "published": "Thu, 04 Sep 2025 19:19:46 GMT",
+    "source": "OpenAI",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1h1cjgtX1pXMWMzOUJxUmluU3VwRVVPVFduSkRWX3AyOTlDOHpKamFSOTJ3STJjUmtzTXVzdHhGSmE4OFV0RVVhNl9DUmlxZXFVRjBSYmtWcHdsb3ltNUQ5Y3BZd05UaVRLbHNjV0NYS0cyaDhPNlg3NEsxTU1wX2UtVUo4R1Fld1NTcQ?oc=5",
+    "summary": "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors  The New York TimesAnthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit  NPRAnthropic tells US judge it will pay $1.5 billion to settle author class action  CNN Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors  The New York TimesAnthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit  NPRAnthropic tells US judge it will pay $1.5 billion to settle author class action  CNN",
+    "published": "Fri, 05 Sep 2025 19:00:06 GMT",
+    "source": "Anthropic",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Anthropic Clamps Down on AI Services for Chinese-Owned Firms - Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQk5mckJWVE50Zlg4anNIVDNnLXlCbnVPUy1kSUJfOWZlaEtMN3FPWnR3SDFIRlVpN0lXcHVLb1o1Tm1zTmV4aGQySThOTmZKRktzcjdMME85OFFXdklaQklxX2NQRWxlbEJidjB4RDJhZU02UXFZWGFlMWtxbmx3bVd0ZndGbEs1TUF6Rm5EaGk3Y1pqYndFZ2dVUGJjQVhNRnEzYV90TXRGcTZCMEppYQ?oc=5",
+    "summary": "Anthropic Clamps Down on AI Services for Chinese-Owned Firms  Bloomberg Anthropic Clamps Down on AI Services for Chinese-Owned Firms  Bloomberg",
+    "published": "Fri, 05 Sep 2025 05:06:00 GMT",
+    "source": "Anthropic",
+    "category": "industry",
+    "drawbacks": "Could require significant compute resources and expert oversight.",
+    "fetched": "2025-09-06"
+  },
+  {
+    "title": "Anthropic blocks Chinese-controlled firms from Claude AI — cites 'legal, regulatory, and security risks' - Tom's Hardware",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOW1vQmFaTEdXNUtuQW1QTDZKRGxlMVpScWhSQUpibVBueDZfeGlreG1IWTdLS1NWbHRsN2NxalVfMTVYSXB5UVNvOEFGUEFzTmFxOVlKOGVKam5oQjF0R3MwV19USHlGMTRqeHlCVHhBZ0xJczFIeHd5SklEdkpqc3Nna3IwaUc4OGFyblZn?oc=5",
+    "summary": "Anthropic blocks Chinese-controlled firms from Claude AI — cites 'legal, regulatory, and security risks'  Tom's Hardware Anthropic blocks Chinese-controlled firms from Claude AI — cites 'legal, regulatory, and security risks'  Tom's Hardware",
+    "published": "Fri, 05 Sep 2025 19:26:32 GMT",
+    "source": "Anthropic",
+    "category": "industry",
+    "drawbacks": "May raise security and compliance concerns.",
+    "fetched": "2025-09-06"
   },
   {
     "title": "Grupo Dalton saves more than $450K with Microsoft Dynamics 365 and Microsoft Azure - Microsoft",
@@ -120,252 +890,12 @@
     "fetched": "2025-09-05"
   },
   {
-    "title": "Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric - Microsoft",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5c3k0SnJpWWpZQmVHdWhUaDljTTVZY3VjTWs3ZVRLTXZEbXhIaUN6X0ZOQzhDM3JXN1NmNUJ5akRLTWZyUkliT1czZ3ltNENNWjZTQUptaU16dXQzMXZsTG5VM1MtUjFBLWVTQ0tySHZaaEFJYXZtRlRyb2d0QQ?oc=5",
-    "summary": "Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric  Microsoft Lumen unifies data, gains near real-time insights, saves 10,000 hours with Fabric  Microsoft",
-    "published": "Mon, 19 May 2025 07:00:00 GMT",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Pyramid Analytics Secures $50M in Financing from BlackRock - Business Wire",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWVNR054ZDVPeGlQcG1KTWNObjNRNmtjS3JQbGNzY0p1RUJGcXhwY09kU1c0X2FxU3dqYTIyMU83cFFobllfNTAzTVh5bmhDNlEwZ3NDdlZYUlBGTk1LcGxLRGJlUkluakc3c3MwM05kSU5PN1lxak5vWWsyaHZ5d2t6WVYxd1g0ZEpQNTRrQTd6Y1lKQU9Ea3VhaUE2a3Vjc2gwbDB0bEY5ZWZBSHZsaTNXRi1JQ25Q?oc=5",
-    "summary": "Pyramid Analytics Secures $50M in Financing from BlackRock  Business Wire Pyramid Analytics Secures $50M in Financing from BlackRock  Business Wire",
-    "published": "Mon, 25 Nov 2024 08:00:00 GMT",
-    "source": "Pyramid Analytics",
-    "category": "vendor",
-    "drawbacks": "Depends on predefined workflows instead of ThoughtSpot's ad-hoc search.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Pyramid Analytics - IBM",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YOTJkRlMwM0lZUjBYS044Ym5WUWZyOG9PclE5bUpweTdVOGVmSG9LejJXSVVvM09UZFZ4QUpNeS0xMjVSZHduWGJNM1h1QUR2WnBXOXIweGZJZVBKQVVV?oc=5",
-    "summary": "Pyramid Analytics  IBM Pyramid Analytics  IBM",
-    "published": "Fri, 20 Dec 2024 00:21:15 GMT",
-    "source": "Pyramid Analytics",
-    "category": "vendor",
-    "drawbacks": "Depends on predefined workflows instead of ThoughtSpot's ad-hoc search.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "AI analytics firm Pyramid Analytics secures $50 mln from BlackRock - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdVg3LVFvRHNWSWRuMEREWXhGeXlIMTJhVEQ1Y2w1QUk0RUFtdXI0QWxZNk9qbkdDVlh4VFRzNEtLQVVLY2ZOZkxUNzE1Vk94akpERUNHSndUZ1F6THRGSzJMaE4wMDVCZHYxU0puRGtScFBjZzUtYUZOV281ODYxTUN1S1dXTXN4S3J5UXg1YUFQZVFUYjB4YV9EZENOZzVuckRsdGNWQVNvQnM?oc=5",
-    "summary": "AI analytics firm Pyramid Analytics secures $50 mln from BlackRock  Reuters AI analytics firm Pyramid Analytics secures $50 mln from BlackRock  Reuters",
-    "published": "Mon, 25 Nov 2024 08:00:00 GMT",
-    "source": "Pyramid Analytics",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Pyramid Analytics secures $50M from BlackRock to drive AI business intelligence - CTech",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nRWlkd0NPQkRSNkdtblpqejNLdUZfd0RxcUN3d3V1MFRmWXR5ZW5ETzNSWkg0YnhvaXp1ZDV2N0lmaWFaTFktZ0o2RzkyMENUeUdmRlJWVTdnclZFR0xyNktaRXpvU3NT?oc=5",
-    "summary": "Pyramid Analytics secures $50M from BlackRock to drive AI business intelligence  CTech Pyramid Analytics secures $50M from BlackRock to drive AI business intelligence  CTech",
-    "published": "Mon, 25 Nov 2024 08:00:00 GMT",
-    "source": "Pyramid Analytics",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "The 5 Best Pyramid Analytics Training and Online Courses for 2025 - solutionsreview.com",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjRtVjV2bkgyYlBHd2VNQXNQcmtub2p4OTZoYmZQeEJUQkVhd2NIOXZRSEVHNVhKSW5NLXhZWmdLS0JCUW9BWXE4WmdaVnlpVFRZVTl6elJuYjZXc21YVTM5dWlyTng1bFpCazhwNVZxRVpsYXNEdndDd0tETGZ4T29IZjNSOGVFLWlfM29DdnhSNHBodktBOGVQWDlVLW9uME1CWC1xdzA?oc=5",
-    "summary": "The 5 Best Pyramid Analytics Training and Online Courses for 2025  solutionsreview.com The 5 Best Pyramid Analytics Training and Online Courses for 2025  solutionsreview.com",
-    "published": "Wed, 01 Jan 2025 08:00:00 GMT",
-    "source": "Pyramid Analytics",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Google lets AI agents do the data work in BigQuery and Looker - Techzine Global",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHptb0NtcF9rZ2xuT05TZ0NfYkQ4OG4tcGZTb2VBNW1TUkpWNm15LTU1MG9VUXFxT21zcGFOMjhySzRSOUxtbThES1FCZF92U2xBTVhYVGdGWkR6S0MwYXJ6NTdES01XMUtkb29nS2pTY3RKVmJES3o2Qk5oVG9Wb1V0NGlvQmpKSEFYS3NWWmlFb3R4VU0zM2ZnbFg3RUJVelJEc3ZaWWhUNHR0?oc=5",
-    "summary": "Google lets AI agents do the data work in BigQuery and Looker  Techzine Global Google lets AI agents do the data work in BigQuery and Looker  Techzine Global",
-    "published": "Wed, 09 Apr 2025 07:00:00 GMT",
-    "source": "Google",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Snowflake’s Cortex AISQL aims to simplify unstructured data analysis - InfoWorld",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3c3M3JZeFpwV29QTXdWOTJzcEp2V1lvcDk3TEhPdTBIajNfa2M0TE5val9oMTVTS2Ffb1VrQ192WUJIQlhDTzMtT2Y3UF9LZHJtYWVmQWpFTDZ5aE1uaTdDazdtLVhkVld5aTUxMVRpMUJlTHhmc2lBbDR0WUxpYmJJdzBQSUE5RTZ1ODctUk93aS1SemxnSkZHRUpraTVuNk5pSG9nMVJ4endtZHhrVGpGUHI?oc=5",
-    "summary": "Snowflake’s Cortex AISQL aims to simplify unstructured data analysis  InfoWorld Snowflake’s Cortex AISQL aims to simplify unstructured data analysis  InfoWorld",
-    "published": "Tue, 03 Jun 2025 07:00:00 GMT",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Databricks kicks off an initiative to make AI agents easier to build and manage - SiliconANGLE",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHJ4OW5ZNEdxc1BFRzUtcHBrMG1vLU9YOENZSXVNZXJnbjR2cy1DSUFIZnpwZVhKNkFqaEtxMTNielVnUzM2aWdqdENaM0doYkU4eWZ5MDU1eS1CU0Y0M0hGWEJXaDdFUmtGZHUtQVlfUzA2cGt4OEYyemltVEd4T01kRWxWejRTRzcxdkFuMWlhNEs5SjFuSnBOajB2ZXJNMmVSZWJB?oc=5",
-    "summary": "Databricks kicks off an initiative to make AI agents easier to build and manage  SiliconANGLE Databricks kicks off an initiative to make AI agents easier to build and manage  SiliconANGLE",
-    "published": "Mon, 10 Mar 2025 07:00:00 GMT",
-    "source": "Databricks",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Google’s BigQuery and Looker get agents to simplify analytics tasks - InfoWorld",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU9Jd1pKMTdXU3BBd2RjWUs3Mlhta2w3enI1Wlp0dENyWWxZdVk0SXNGMTFzdHZRZ3ZKUU9SUTBtR3NKX0h1MnE3MnUtVmdYZ3NrblQ0aGhXVXkyM3VTYURUZW1EbEFVYVFEa2Q2cTRsaEpDM2drUnpxOTQ3RnJITklBdlJLS2JOWlNTM2lnZGpIZzNHQlUySUgxM3RtRTZLZjE0VGJra2tEQ1hsSklqSnc0SQ?oc=5",
-    "summary": "Google’s BigQuery and Looker get agents to simplify analytics tasks  InfoWorld Google’s BigQuery and Looker get agents to simplify analytics tasks  InfoWorld",
-    "published": "Thu, 10 Apr 2025 07:00:00 GMT",
-    "source": "Google",
-    "category": "vendor",
-    "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely - CybersecurityNews",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQNWR0ZlMwT0ZEdXFabENDTmJITHNjSXpQN0lKRU9NTld1b2lCMndET1RFX0R4Uzc1b25jdks3aWY4YzExNTlGV2l6aVBsNTFKWGdldFJVYXpXOW1ISHhLLXd0TUI2dHpuVHl6X0FqYThjYknSAXhBVV95cUxQN05UTDNKa1A4ejB3YklWcnJoRjQ4M19MbDkxVmlkY2NuQWxRSHhQS0NicVVZTTBrNzZVTFZZWWE3SnBFdzVXYURYdTVTRVBuNmkzb0IzWDlUYWxfTkllVzdzbFNpbU9BanpxaUN5eVYzZTNtQ2dPcWY?oc=5",
-    "summary": "Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely  CybersecurityNews Critical Salesforce Tableau Vulnerabilities Let Attackers Execute Code Remotely  CybersecurityNews",
-    "published": "Mon, 28 Jul 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "May raise security and compliance concerns.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Snowflake continues to add AI, boost Cortex capabilities - TechTarget",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX1ViV1lBb0hyQ0FfU3ZPMHRJMzl1cFRnckpBNXNtc1dKOW55WTNXT1J6eS1DeVZnV0J1bWU1OGpmR1ZvVGtLb2wxSHlyVi1zWnNZR3luZ0lQdmFsRzZXTGJHTmRCXzBOVm5ya2luOWFvclNUOUo1al9HNHhFVWo5RWRSUFVJaG90OVZBTTI4dWNMX3V0Z0VJYnp6UnNqUXFpdHU3Tm5wLWlPM29aNzNrR2cxMHViaUhJLXc?oc=5",
-    "summary": "Snowflake continues to add AI, boost Cortex capabilities  TechTarget Snowflake continues to add AI, boost Cortex capabilities  TechTarget",
-    "published": "Wed, 04 Jun 2025 07:00:00 GMT",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "A Beginner's Guide to Learning Power BI the Right Way - Simplilearn.com",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtOWx6RE1nRzhEQnI2QjRtNFhNR0lsdjA1UXpJRWNqOFgwY1MxbVBOMnZqU0wtb2RTMThMcnJTWHN2S0RYUUhFbHJYTHVBUFRER2xIb3BQckFqNHRKQ1Rj?oc=5",
-    "summary": "A Beginner's Guide to Learning Power BI the Right Way  Simplilearn.com A Beginner's Guide to Learning Power BI the Right Way  Simplilearn.com",
-    "published": "Sat, 23 Aug 2025 07:00:00 GMT",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Agentic Management Requires More Than Vibes",
-    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-management-best-practices",
-    "summary": "Discover how to manage agentic AI by aligning incentives, mitigating risks and applying proven best practices for responsible generative AI adoption. Discover how to manage agentic AI by aligning incentives, mitigating risks and applying proven best practices for responsible generative AI adoption.",
-    "published": "Mon, 25 Aug 2025 15:51:00 -0700",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Google is looking to acquire Looker, a data analytics startup for $2.6 billion even as antitrust concerns arise in Washington - Packt",
-    "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQdzRVOGxNaUtSelhWLW55VFhKbmMzMHNack82RmR4Si16MDZDYWJrTjdiNllfdmdydUNwVG95Uy1yZzlsUkNuZEc4aE82WGhzYUU4RTRxdVdwa0Q4Zm1xMkQzVWxHS1V0dXh5ZzRnbERDQzdnVGlNUDc3ZmtDQ1BReDJwMmY1RXlTQk1HSll5eDFZRGo5ZEROTlhScU00RFg0T3VRdndEN21wUE1xRklic3F5OWw0eDFZYm1CNEVZQ1hEaVVpMnBjaW9MLXJsbGNTdHJCQ3lkbzl3ZHplX3NUdzA3YmZxRmQ2T0p3VmZlczJBNS1IS1VjcFM4UDJVcG9ZMm5EcVB6NzRVQ3BqQTdmYmp1d0lBLVBLcjdGcU5heHV0a2hsMjFmbkJpUklkd0tvYmllQS1Bem9YU09PQnNQb3o1SWI3QWJ6d25zdHo0Z3hDdkZUOHRUSU94VmFWOGhVS1FnbkJqa08ydURiRkZWZGtpMHBtamE0NGtNdjNDM0tLaVgtVnRpb1IzZ1RYSC1nV0xwMW9aM1lmWDhjWTdJR0prQnpGeTRhaktOXzNxTV9VOXpEeHpQVjZRT2oxX0FoaEJwZ1NMM2VZWmtUeTVWR2hBS0xqWVFLRGZBcDcwREI1TjNTMjBNVzlUNTk?oc=5",
-    "summary": "Google is looking to acquire Looker, a data analytics startup for $2.6 billion even as antitrust concerns arise in Washington  Packt Google is looking to acquire Looker, a data analytics startup for $2.6 billion even as antitrust concerns arise in Washington  Packt",
-    "published": "Wed, 27 Aug 2025 02:46:11 GMT",
-    "source": "Google",
-    "category": "vendor",
-    "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
-    "fetched": "2025-09-05"
-  },
-  {
     "title": "Beyond Correlation: Finding Root-Causes using a network digital twin graph and agentic AI - Amazon Web Services",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWJkZV82dUU1TFRwdWZOWUtqUzlVN1VveXFOVGRILVUxcmMxbkVWQ2VtQ05XQkhoN0lEM2NEbEJSU1F6ZGFDVlN1eWYxLXFCZ0R3aDhyOGJfVnNFVFJjMEdBYWZGZzNTUkJUSFg2cm1aNjMtNlAxUG52LW5NUG0ycWxDaE10ZUpWVWpjdDlRRk9lb2ZsZHp2Zl9YcHRzcDlES1Ffd2dLVmVNbG8zeUFCTTVmRndWVTVXX2NDVVl4RzVVOGRwRWc?oc=5",
     "summary": "Beyond Correlation: Finding Root-Causes using a network digital twin graph and agentic AI  Amazon Web Services Beyond Correlation: Finding Root-Causes using a network digital twin graph and agentic AI  Amazon Web Services",
     "published": "Mon, 18 Aug 2025 07:00:00 GMT",
     "source": "Agentic Analytics",
     "category": "industry",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required - cyberpress.org",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemdaa2RTVGZibW8zYzZaZ1QxOGx5TnVuMUFkVk83YnNHNkhXNF9tZFNmc1NLVGFpeERPODIya0ZhM1Z3MzdoYVcwNEhWWmlzdFlGbG1YSXkyOUQzM2dPTU9PM3AzZzdVZzZSa2w2SUprMC1hb1E?oc=5",
-    "summary": "Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required  cyberpress.org Severe Salesforce Tableau Vulnerabilities Enable Remote Code Execution – Urgent Patch Required  cyberpress.org",
-    "published": "Mon, 28 Jul 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Empowering Enterprises with the Convergence of 5G and AI Data Cloud Platforms",
-    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ericsson-5g-ai-data-collaboration-insights",
-    "summary": "Snowflake and Ericsson are transforming industries by combining 5G, AI, and data collaboration to rapidly turn complex data into real-time, actionable insights. Snowflake and Ericsson are transforming industries by combining 5G, AI, and data collaboration to rapidly turn complex data into real-time, actionable insights.",
-    "published": "Wed, 27 Aug 2025 14:53:00 -0700",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "How Microsoft Power BI Elevated My Data Analysis and Visualization Workflow - Towards Data Science",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjRQSWk0QWdWN2hvMkFwdWpIemdVYWtvUkdwWGVLOWc4Yk9oNFc1eWMya1dGRGNBMmsyTUtSSXZGdDZJTFJoU1R1OGJSREN6VmNYbkxXS2x2UFJVd2REeUFKQXMtUjFpU0R1ajRDSzBLSEhsa2xFRG94SjlULVpvUnBUVWJwVDlBd3RUT1I4bjdOQ2VXRFFDZXUwdHdrVkFWYUtKMkRDYW5kdm8?oc=5",
-    "summary": "How Microsoft Power BI Elevated My Data Analysis and Visualization Workflow  Towards Data Science How Microsoft Power BI Elevated My Data Analysis and Visualization Workflow  Towards Data Science",
-    "published": "Tue, 27 May 2025 07:00:00 GMT",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "The end of dashboards? GenAI and agentic workflows transform business intelligence - cio.com",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTVCMUx4YUZubTRMX2o1XzBUNnplZzhpWWRPZU1iUjFlV1QtZURGRUtnWUtEbDJXQk40VGp4S2ZRZ2tGZGFJTkVTOG9NVkhCZmFYU0lqMmQwT0xJOXpDMVZPc0drYm5WX21ET3RVMkl6MFhsWjZEY2NZckN4Vk5wbVFwRUVpTXEzVGNsZHAtQXA4UW9YZWFlUV81SDdBMTJhY2J4M215cEtmcXFOajhUVnd0VUxRWmJBR3dnTm5YMA?oc=5",
-    "summary": "The end of dashboards? GenAI and agentic workflows transform business intelligence  cio.com The end of dashboards?",
-    "published": "Thu, 28 Aug 2025 11:46:27 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Sigma Computing launches Data Apps to boost analytics - TechTarget",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG5jRWVIczhyZXVQcm5OMkltaUxIeWpnZmdXWmRIV3NmUmJ6NkpwT0FaMzFOQlp5U1hpby0xSklfcURlLXZmcGVTdVZ5VFl2c1o1Z0YyRGZtU2hILWozdVhnY3I1YUdhdUU5ZUhsNkhJUU1aVmVFWHU1ZzhTRnJ1VGtBQ1JhbDRMUUl6bURmMlhOQTdpWFM4cmJHdC1jZmJZMENLZHZ2a3Rzck9xcDcteDV3Q0VLUEFsZS13?oc=5",
-    "summary": "Sigma Computing launches Data Apps to boost analytics  TechTarget Sigma Computing launches Data Apps to boost analytics  TechTarget",
-    "published": "Fri, 14 Mar 2025 07:00:00 GMT",
-    "source": "Sigma Computing",
-    "category": "vendor",
-    "drawbacks": "Offers fewer governed search capabilities than ThoughtSpot.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Sigma is building a suite of collaborative data analytics tools - TechCrunch",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTV3bnk0NDdxZ0g0aWlZSndNb3UtRnNFcVFIUFFIVVRhNThQVkVBWldtSTkyQUhfNFFXUk1hcHNXaFhvM3Jaa3FoRWlMVzFReVJEbmxZRlNqeTFTVGVSNFI4akZjQnhmeWhkM2JvSDlKajRVMTFaZlRETFpNTjhzbDh0YkFocFZDN2c0X3JLQmR2amwxeDJpMHhySFpzbEU?oc=5",
-    "summary": "Sigma is building a suite of collaborative data analytics tools  TechCrunch Sigma is building a suite of collaborative data analytics tools  TechCrunch",
-    "published": "Thu, 16 May 2024 07:00:00 GMT",
-    "source": "Sigma Computing",
-    "category": "vendor",
-    "drawbacks": "Offers fewer governed search capabilities than ThoughtSpot.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Sigma Unveils Data Apps to Unify Business Workflows Directly on the Cloud Data Platform - Business Wire",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTUhtZjZ4WVZkYVJndU1jTm9QR2ZjZGk4NmRIVDAybURkbkVGeEJEeEt4VFdTeXVQNFNVSFdSYVlfb3Z3Y1FuaTg4ZEVqQjFXOEJzQkh5Q1E0R1hUYXVyTHoyZXBYNDNXOXluV3g3TUIxSnU3OFRZT2pqTjBDU2psUllEb180UER5S01iVklWVy1lRXhzcFFrY3ZyNnU4ZUdIc1NGY3JjT3hsN1c0MGxKWXNBYjVlTmlZcnIyZEpla2FlOW12bFhDTkR0WHoxVC1RRWl6RDU2eGVzMnhj?oc=5",
-    "summary": "Sigma Unveils Data Apps to Unify Business Workflows Directly on the Cloud Data Platform  Business Wire Sigma Unveils Data Apps to Unify Business Workflows Directly on the Cloud Data Platform  Business Wire",
-    "published": "Thu, 13 Mar 2025 07:00:00 GMT",
-    "source": "Sigma Computing",
-    "category": "vendor",
-    "drawbacks": "Relies on external infrastructure and possible vendor lock-in.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Cloud Analytics Leader: Sigma Computing’s Mike Palmer - GrowthCap",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT2tVcW93T2hmV3hWZE9GLTRCSGFhUTdwU0o3d1NNYkhQckU2d1hvMExOVXNBMW9GX09aSUM2ak96REx0eTZoUXJfTVEzWmJ3cklUWkhGamlObnNLSWNJdTRrREZTNzRSUXJqNVdCaS1ackVlbGJzYUEyTnZOTFluNHAtTWZlTlRKQVE?oc=5",
-    "summary": "Cloud Analytics Leader: Sigma Computing’s Mike Palmer  GrowthCap Cloud Analytics Leader: Sigma Computing’s Mike Palmer  GrowthCap",
-    "published": "Wed, 30 Aug 2023 07:00:00 GMT",
-    "source": "Sigma Computing",
-    "category": "vendor",
-    "drawbacks": "Relies on external infrastructure and possible vendor lock-in.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Qlik Answers Drives AI Adoption from Pilot to Operations - Technology Magazine",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlFOcURTb1FzQW8yZlFLajJPZnVVdWdCRl9mczQ0VVREN0VQSGhRelVnOUw5NTBZazJDZTg5OEFfMENrbUt5emJLTTA0TkJZaHhTdm1TbWxpS3lyQngtajBGZ1VlblRPU3p0dmt2V0tWY2NfalBRLWh1Z09SSXNBOWNnV213OGN2YkRaNGNzanhQWEw5MzE0?oc=5",
-    "summary": "Qlik Answers Drives AI Adoption from Pilot to Operations  Technology Magazine Qlik Answers Drives AI Adoption from Pilot to Operations  Technology Magazine",
-    "published": "Wed, 20 Aug 2025 07:00:00 GMT",
-    "source": "Qlik",
-    "category": "vendor",
     "drawbacks": "Could require significant compute resources and expert oversight.",
     "fetched": "2025-09-05"
   },
@@ -380,36 +910,6 @@
     "fetched": "2025-09-05"
   },
   {
-    "title": "Qlik Accelerates Move to Cloud with New Analytics Migration Tool - Business Wire",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEIwUm95dlA5aHFiemYyMC1FUm9uaDJPNE9VaGdMREtnbDJsQ3d6N0ozTW52M282UzBHbGVnZ3JSSm9vY2RvVkNXTlN6XzhFcWk5cll3cWlWcnFla0dZWkF4aXVFY19Va205SE5iVHJnUkVvblp6dXNrM2g3OUtzeUlqWEx5Y1lQQnNYa3Y3dTFpX0ctWTlsSHJkM21zNWVEZHE0YkZTZXR3UzZlaGtCQm1WUV93eVh0RWpFN2tR?oc=5",
-    "summary": "Qlik Accelerates Move to Cloud with New Analytics Migration Tool  Business Wire Qlik Accelerates Move to Cloud with New Analytics Migration Tool  Business Wire",
-    "published": "Tue, 06 May 2025 07:00:00 GMT",
-    "source": "Qlik",
-    "category": "vendor",
-    "drawbacks": "Relies on external infrastructure and possible vendor lock-in.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately! - gbhackers.com",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2V0OFhvNzQ5Qm5LVV9TXzdFZUNLbHJHbVhaRG12bG45Uk5OS1dqMWh6LWxsa2VqZWtIN2dyMXhlUEpqM1BFT3NQMmZtWHJsUkxxWTU3b3RhMXdMQmhYdzNPUVBOSGZTUGFsX3JxWG1HeWdpQW1rTGdoUzdXSTZjcm530gGHAUFVX3lxTE43UVdmZFRzOEdQazgtUy00ejItX3R2dGRSNlRjbzZTZW41NUJuVXkzLTdzZFcwQm9nX0ZzY0NQU2s2Z2RCZWVwZ0tpVFNUeWdlNzQwaTR0VGtrUFRtci1hem5XM2tDNU5wcGR3TnpoQWxSVlgzRmtVZkxCY3NPZ2xCYVh0MFQ5OA?oc=5",
-    "summary": "Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately!  gbhackers.com Critical Salesforce Tableau Flaws Allow Remote Code Execution – Patch Immediately!  gbhackers.com",
-    "published": "Mon, 28 Jul 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Upskill your team on Azure Databricks with an on-demand webinar and Microsoft Learn - Microsoft Azure",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlg1V3FocmdEWEIwOW9KeTJTMVJHaUxHbFVNZWNXM0tFd0ROMUFMV09adDh1d0l1SmpEQTQ1aXB6RUJSZVZUbVhhWnFuWGZTa25jWDJNVDBwOU9rQUg5Y1FEZ05RN1RzSUsyMzRwMHNTMDN1XzNjcDNvQVpXLWNrTTNGUlA5MHR5QllMWnAwdGNrSVRCVF9nNG1LdWdVZUZ6RTdPc2JyRzhXbnR4MHBncWNTQ3dCc3VjWk56LUlzOWs?oc=5",
-    "summary": "Upskill your team on Azure Databricks with an on-demand webinar and Microsoft Learn  Microsoft Azure Upskill your team on Azure Databricks with an on-demand webinar and Microsoft Learn  Microsoft Azure",
-    "published": "Thu, 17 Apr 2025 07:00:00 GMT",
-    "source": "Databricks",
-    "category": "vendor",
-    "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
-    "fetched": "2025-09-05"
-  },
-  {
     "title": "Introducing Gemini 2.5 Flash Image, our state-of-the-art image model - Google for Developers Blog",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSjZxbV9XRm9kbVRqWV9RZ29OWHZNQ0ZDSThQTjNLaEJ6RzhhaXZLbnRxcU51R2pkc1NRVVpJN3d2RVBwSHpkSVlEci05Z0pnZDJudjNmYmpUY2hEZ3lnU292U1dIS2hRMVc5VWxzS1lVVWlqQjduMzVIdkM?oc=5",
     "summary": "Introducing Gemini 2.5 Flash Image, our state-of-the-art image model  Google for Developers Blog Introducing Gemini 2.5 Flash Image, our state-of-the-art image model  Google for Developers Blog",
@@ -417,36 +917,6 @@
     "source": "Google",
     "category": "vendor",
     "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "What’s new in Power Apps: March 2025 Feature Update - Microsoft",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWFZUllBam9sakxsamZ5TUdIVGlyY0dEUjFPVlFGRFRQSVltMTgxbEU1aWZ0Szd2NDRyY2Rza0JTWV85UnhBZmxIaDJvd3FIQnpmTnVrVnU4WGFFWFU3aW9WYnp1QWh4a0xNQ3pnYUVDU3haY012TVRaZjR4UElMcHNZZWVOMVBmVkRHVXhjd2p6cC1sWFdTY0hXSjVZLUY2dmo0RGQ3NlNaM1lhb3lQaHZVdw?oc=5",
-    "summary": "What’s new in Power Apps: March 2025 Feature Update  Microsoft What’s new in Power Apps: March 2025 Feature Update  Microsoft",
-    "published": "Fri, 04 Apr 2025 07:00:00 GMT",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Google acknowledges Looker Studio sharing privacy bug - PPC Land",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zQXJCdWRUX18xVVpWamdJOC16QloyYWttN0I4ckpHR0xaeDV3aVpIc0g3V1JzT1RNdENwU3pZaGVpOFFPeWRGZGc5WEdnTVBWMU55VmV0b2ljcnJ4dTJMeDdSYnZMOEl4cTQ1S0VZay00LVU5b29ydDl2RQ?oc=5",
-    "summary": "Google acknowledges Looker Studio sharing privacy bug  PPC Land Google acknowledges Looker Studio sharing privacy bug  PPC Land",
-    "published": "Thu, 07 Aug 2025 07:00:00 GMT",
-    "source": "Google",
-    "category": "vendor",
-    "drawbacks": "May raise security and compliance concerns.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Simplifying Multimodal Data Analysis with Snowflake Cortex AI - Snowflake",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzY2Z3bnNFZEg4ZkRROVJVZmxZV2pocnV3c3pTQVdWWGxuakVWYkNpbWxheVNaSWRHTkFJbTNWS1g5Q3FRYzRlZWRSZ25ocVIwTW5kRl9ZaTlZZ1FPbHVnZDBvTF9nNmFSd2VOUlZRVjRlQ3l1Y3h4QQ?oc=5",
-    "summary": "Simplifying Multimodal Data Analysis with Snowflake Cortex AI  Snowflake Simplifying Multimodal Data Analysis with Snowflake Cortex AI  Snowflake",
-    "published": "Wed, 16 Apr 2025 07:00:00 GMT",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
     "fetched": "2025-09-05"
   },
   {
@@ -460,36 +930,6 @@
     "fetched": "2025-09-05"
   },
   {
-    "title": "Accelerating AI adoption for the US government",
-    "link": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
-    "summary": "Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance...\nThe post Accelerating AI adoption for the US government appeared first on The Official Microsoft Blog. Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance...\nThe post Accelerating AI adoption for the US government appeared first on The Official Microsoft Blog.",
-    "published": "Tue, 02 Sep 2025 13:06:22 +0000",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Unlock Actionable Insights from Your Most Complex Documents with Snowflake Document AI",
-    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/document-ai-intelligent-document-processing",
-    "summary": "Unlock insights from complex documents with Snowflake Document AI, enabling accurate, scalable, and automated intelligent document processing. Unlock insights from complex documents with Snowflake Document AI, enabling accurate, scalable, and automated intelligent document processing.",
-    "published": "Tue, 02 Sep 2025 10:34:13 -0700",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Architecting a High-Concurrency, Low-Latency Data Warehouse on Databricks That Scales",
-    "link": "https://www.databricks.com/blog/architecting-high-concurrency-low-latency-data-warehouse-databricks-scales",
-    "summary": "Implementing Production-Grade Analytics on a Databricks Data WarehouseHigh-concurrency... Implementing Production-Grade Analytics on a Databricks Data WarehouseHigh-concurrency...",
-    "published": "Tue, 02 Sep 2025 07:28:59 GMT",
-    "source": "Databricks",
-    "category": "vendor",
-    "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
-    "fetched": "2025-09-05"
-  },
-  {
     "title": "Authors, Publishers Await Answers as Anthropic Hearing Approaches - Publishers Weekly",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTzNBTFllVl84MUpMLW1WWUlGWFNXT3pwaWM2N0tjbGJZWlZKWDJSakJWOU1tZnc3UFlYSllQOHNZNXZWM1UxTjEtb2ticy0waE5oemRhb0hqMGJ1YWh3NWVxS2xIYklPQzBDV1ZKQTBlUUhpZHJHdGV0UUowTzNBMC0xS01idXdtbUxiV3U4cUlzLTYwNUtTWWYwLTk0d1c2eXVJNy1JUExMWjJybW1LalBEUHM1UE82c25kSkdaSVhSajRRc09neDNKcmMtUHBuT0FXbXBERzZLc3BPbHkw?oc=5",
     "summary": "Authors, Publishers Await Answers as Anthropic Hearing Approaches  Publishers Weekly Authors, Publishers Await Answers as Anthropic Hearing Approaches  Publishers Weekly",
@@ -497,86 +937,6 @@
     "source": "Anthropic",
     "category": "industry",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Salesforce lays off 93 employees in Washington state as Benioff touts AI-driven efficiencies - GeekWire",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGNYS3lmdzV0NE5PenJ4SU85RFZnV3E0MnNBTGNYTmx3amVLemZiZk0tOWlOb3ByaVpPM3U4dXhwUjRxMjE2MGtWekI1SEdnZ1ZjZTQzNXVFbUw1a2NoR0RNSU9ScGtwOE9WOTBRS0ZoVUtzR19wb3FBaW0xb1dFbm5vNkc5VWxxTjh4b2dwb19DXzMzVGtfcXJlX29ZcjNSYmtlLVNVRWxjZ2tTMFNQd3dOTUp5NTBFSjBmUVpRRkc?oc=5",
-    "summary": "Salesforce lays off 93 employees in Washington state as Benioff touts AI-driven efficiencies  GeekWire Salesforce lays off 93 employees in Washington state as Benioff touts AI-driven efficiencies  GeekWire",
-    "published": "Thu, 04 Sep 2025 03:56:15 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Key Security Must-Haves for Safely Integrating Your Data with LLMs",
-    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/security-must-haves-data-integration-llms",
-    "summary": "Snowflake Cortex AI addresses essential security measures, freeing developers to build with AI models from Anthropic, OpenAI (coming soon), Mistral, DeepSeek and Meta. Snowflake Cortex AI addresses essential security measures, freeing developers to build with AI models from Anthropic, OpenAI (coming soon), Mistral, DeepSeek and Meta.",
-    "published": "Wed, 03 Sep 2025 13:38:13 -0700",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "May raise security and compliance concerns.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "5 Ways Data Helps Retail and CPG Navigate Tariff Uncertainty",
-    "link": "https://www.snowflake.com/content/snowflake-site/global/en/blog/retail-cpg-data-tariff-uncertainty",
-    "summary": "Discover how retail and CPG companies can use Snowflake and AI-driven data insights to manage tariff volatility, cut costs, and predict consumer behavior. Discover how retail and CPG companies can use Snowflake and AI-driven data insights to manage tariff volatility, cut costs, and predict consumer behavior.",
-    "published": "Wed, 03 Sep 2025 11:30:00 -0700",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Now GA: Share Materialized Views and Streaming Tables with Delta Sharing",
-    "link": "https://www.databricks.com/blog/now-ga-share-materialized-views-and-streaming-tables-delta-sharing",
-    "summary": "We are excited to announce the General Availability (GA) of Materialized View & Streaming Table (MV/ST) Delta Sharing... We are excited to announce the General Availability (GA) of Materialized View & Streaming Table (MV/ST) Delta Sharing...",
-    "published": "Wed, 03 Sep 2025 16:00:00 GMT",
-    "source": "Databricks",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Introducing Databricks Assistant Data Science Agent",
-    "link": "https://www.databricks.com/blog/introducing-databricks-assistant-data-science-agent",
-    "summary": "Since its launch two years ago, the Databricks Assistant has become an indispensable... Since its launch two years ago, the Databricks Assistant has become an indispensable...",
-    "published": "Wed, 03 Sep 2025 12:06:39 GMT",
-    "source": "Databricks",
-    "category": "vendor",
-    "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTg5ZFJfZFR6bjFrVU91U1RmNExqVlZhSU1jSzFReUMtQjZzWm1DNF9EbHJMeTh5dzdGVmcyd19Ja3RtbUtYVVBzXzRDZnV0cndJV0FDcmJOYmJWWDhnQ2ttUXg5UnZ0Y0JwMnVLTVU4bkdxT3J1dXBBX0xtTERiMkFIbkJSS3V6aWtIdnRZMUNQM2h0V3pwMWFPbERyd1dz?oc=5",
-    "summary": "Apple’s Siri upgrade could reportedly be powered by Google Gemini  TechCrunch Apple’s Siri upgrade could reportedly be powered by Google Gemini  TechCrunch",
-    "published": "Wed, 03 Sep 2025 20:50:38 GMT",
-    "source": "Google",
-    "category": "vendor",
-    "drawbacks": "ThoughtSpot's search-driven analytics is more intuitive than Looker/Gemini.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Apple’s rumored AI search tool for Siri could rely on Google - The Verge",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVZpeEV3Z2VGUUdzRGJZZHZfWkdPTjFQRHhGY1pCSTlndHMxVjY3TlhMWGJaOVRNa1E5OU9mQU01dGZuWTE2WW81WExIb011ZElibkEwTFFZTXFQSUhDcWJfeW5SbVJhV2dQVmJYUTRQZnBaYWUyRnBWRkh3Q2tzSDZ3?oc=5",
-    "summary": "Apple’s rumored AI search tool for Siri could rely on Google  The Verge Apple’s rumored AI search tool for Siri could rely on Google  The Verge",
-    "published": "Wed, 03 Sep 2025 20:47:46 GMT",
-    "source": "Google",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Evaluating Graph Retrieval in MCP Agentic Systems - Neo4j",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWkFzQXdLQkloeHJ1WERfekNIVHlMazY0TG9IZnRheUFPcU9Ba3hUeml0eFFnRk9HZ2VteGJYZ2ZUS1ZsOW13ZUNUSUpFX055VXJFcU51di00YmxGeE1waXRvWGFicGVDQjVEUmtXclJQMkVHN2VQR1psWGRpZlM5RC1FQ1ZzU3d6WVZr?oc=5",
-    "summary": "Evaluating Graph Retrieval in MCP Agentic Systems  Neo4j Evaluating Graph Retrieval in MCP Agentic Systems  Neo4j",
-    "published": "Tue, 02 Sep 2025 16:31:35 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
-    "drawbacks": "Consider cost, adoption effort, and governance implications.",
     "fetched": "2025-09-05"
   },
   {
@@ -620,16 +980,6 @@
     "fetched": "2025-09-05"
   },
   {
-    "title": "Moveworks Partners with Databricks to Bring AI/BI Genie Agents to the Moveworks AI Agent Marketplace - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3ZaVVRmeGpINDU2RmdSblltZXlfMG9CeWtyS1dkWi1XNHFBdVIyV05jeWlibkkwR0hwR0QyVWRNY1VpU0lCMlpCdV9JNkNJQVIzd28yYmQzeU1WcG40SGFWUnd0dkZNVTVCLU1Ld0dTQW5waTV6X3pQd1c5d2dMRG9JMHFTaTAzcHdCaA?oc=5",
-    "summary": "Moveworks Partners with Databricks to Bring AI/BI Genie Agents to the Moveworks AI Agent Marketplace  Yahoo Finance Moveworks Partners with Databricks to Bring AI/BI Genie Agents to the Moveworks AI Agent Marketplace  Yahoo Finance",
-    "published": "Tue, 15 Apr 2025 07:00:00 GMT",
-    "source": "Databricks",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
     "title": "Decimal Point Analytics Launches DocuAgentIQ - Agentic AI Platform Transforming Document Workflows in SBA & CRE Lending - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzU3YXB2bHlwOXd1MktFeURrcEJSdGowQzdvLWNmS2haQWFyTjZwUEtMU2VtNW1OV0FFYWhpZFcyQUhmamktM3I3R2d6Ry1kNFZJeW9tMkJaU25Mb2tySEVIRWhPcVJ0cmFleGFFbmZGOC1SVGdVTFl6aXFnQlhBSjE1bjlISGhOSEk3bE4zMlBhYjg1?oc=5",
     "summary": "Decimal Point Analytics Launches DocuAgentIQ - Agentic AI Platform Transforming Document Workflows in SBA & CRE Lending  Yahoo Finance Decimal Point Analytics Launches DocuAgentIQ - Agentic AI Platform Transforming Document Workflows in SBA & CRE Lending  Yahoo Finance",
@@ -637,16 +987,6 @@
     "source": "Agentic Analytics",
     "category": "industry",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Analytics and Data Science News for the Week of May 23; Updates from Databricks, Microsoft, Sigma & More - solutionsreview.com",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORVhRVnJtUTFjQUNmZ0ZFWlJTSXVUTGdsMkZXSVlvVG9oM0JlYXh2YmRKdlF4dU1QTnFSQmhUcHMwUU11Nk1HaUxUUDQxdTBMNmlWRTF0ZGdOc0ZRRGZpS0pKUkJnWHZXOVF3TzJsc201c3pycnFRNS05RFROa0dCQktwNmhEQldtSTFzN1hvZm1QTkdDdW52bzdlSWREZDJPX2Rib1ZjWG1nODBLUkdOSllmV01WUm1WOHFTaVdFMmZfYmVhWEZpZzhKV1dvckQtei0xdmRFVlFxYUYxNWRpM0d5RzA?oc=5",
-    "summary": "Analytics and Data Science News for the Week of May 23; Updates from Databricks, Microsoft, Sigma & More  solutionsreview.com Analytics and Data Science News for the Week of May 23; Updates from Databricks, Microsoft, Sigma & More  solutionsreview.com",
-    "published": "Fri, 23 May 2025 07:00:00 GMT",
-    "source": "Sigma Computing",
-    "category": "vendor",
-    "drawbacks": "Offers fewer governed search capabilities than ThoughtSpot.",
     "fetched": "2025-09-05"
   },
   {
@@ -664,16 +1004,6 @@
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUFhaFFOTDdLTHVEQjZSU01mZmZQb21qZk44YlRCVUJVSDJFczZoazc5RDFUN0ZyWThpN0xDY3FoZHdsZk0wUFpkc0VWNHB0azItUVZDVlNWWWxBTlNDeXlaT1lEa2doZzlaTjh6NnR4UUUxcmJpTzFEb3ZoZWs1QUY5WF9JQkpXWFE?oc=5",
     "summary": "Bear Analytics partners with Microsoft Power BI to accelerate decision-making for event organizers  Microsoft Bear Analytics partners with Microsoft Power BI to accelerate decision-making for event organizers  Microsoft",
     "published": "Mon, 10 Mar 2025 07:00:00 GMT",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "City of Montréal supports citizens with a virtual agent built using Microsoft Copilot Studio - Microsoft",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSXQ1ZFROSWJTd2NuNXhYRFRLMEo3a0VSOHBkYm1vWnQwb21tMHpjaFRxdHJ5ZURIYTZpRFM4WVJQYnQzb2llXzV5UldfMzlWbzR1SlVIa2pYWFFud0JDWVY5UDA4ZnJOQmNRN3hLTFYxX3A5LXpYdnptb2RobTQ?oc=5",
-    "summary": "City of Montréal supports citizens with a virtual agent built using Microsoft Copilot Studio  Microsoft City of Montréal supports citizens with a virtual agent built using Microsoft Copilot Studio  Microsoft",
-    "published": "Thu, 04 Sep 2025 07:26:48 GMT",
     "source": "Microsoft",
     "category": "vendor",
     "drawbacks": "Power BI models are less agile than ThoughtSpot's search-first experience.",
@@ -700,26 +1030,6 @@
     "fetched": "2025-09-05"
   },
   {
-    "title": "Leading AI Innovator Smarsh Leverages Salesforce’s Agentforce, Deploys AI Customer Service Agents for Financial Services Support - Business Wire",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcjJjcnBDZ2FSUU5vZlN5TDJxQ3pQbml4Z2ZHVzAxQVBhVmkxMDJPS19aOHF0bVlBMnoxRHFwSUFTaTB4bS1xOVlGNUdqcVZuSnMtY1hZazZDZXZtRXdxNnZyN1N6UjdUVDNvenNFSURNVzQyX3B1TFh6TUJSYy1rQWRVMjFwaExONmprNkNpSHk5YmRSdmVqM2xzTmVlbWNZc3pzNXlSX2NaMWVoSkJHZjRfTEVHWnc1R09KRzBoVGZjeGdOajFRVWpDR1BvSTBMc1VqZXBwSzNfZXY4bWJQRmRJeHFyZlo0cXZhdFZYS20zejAxVU1PMmFpSXJXMS1adGEzVlliNDRZUDk0RW9MSg?oc=5",
-    "summary": "Leading AI Innovator Smarsh Leverages Salesforce’s Agentforce, Deploys AI Customer Service Agents for Financial Services Support  Business Wire Leading AI Innovator Smarsh Leverages Salesforce’s Agentforce, Deploys AI Customer Service Agents for Financial Services Support  Business Wire",
-    "published": "Thu, 04 Sep 2025 12:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "SupportLogic Launches Chatbot SX to Bring Guardrails to Salesforce Agentforce - Grit Daily News",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUm1YZFJaUGRyWEVWQ3JPY09sSUNyeGNpQWNDRlpqaGl2TmFSNFdaekxyT0l0X3JxaDNRVXhWV09FRDJyNnpDOXM5dHFRZDZrd1RIM0xRZTBFWDZ5ZWV2NGd4aEozcTRVcXBGVDlqVHRtc3B3X0Jz?oc=5",
-    "summary": "SupportLogic Launches Chatbot SX to Bring Guardrails to Salesforce Agentforce  Grit Daily News SupportLogic Launches Chatbot SX to Bring Guardrails to Salesforce Agentforce  Grit Daily News",
-    "published": "Thu, 04 Sep 2025 13:19:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
     "title": "Salesforce's AI Momentum vs. Stagnant Revenue Outlook: A Disconnect for Investors? - AInvest",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeHBCeDFyZjA2YUtFamluTUFacFk4cGtMbVhSS0NQNDVJc1h3ZHpzZ1ZUMGFWWWFYY1ByQ19HbE5oVHRyWk9QZ1ZOeWhhSHBZXzBQazdVNDJkRlkzRmtjYVlLTEdFNVUtWm5EQ2tlM250LUxKdXpjY1dfU0lPMjJ3eWFURUlTMDBETnpkY2RhOEVISkZmSlZ5YW5XNmF3elBvUjVaQnZ3?oc=5",
     "summary": "Salesforce's AI Momentum vs. Stagnant Revenue Outlook: A Disconnect for Investors?  AInvest Salesforce's AI Momentum vs.",
@@ -727,56 +1037,6 @@
     "source": "Salesforce",
     "category": "vendor",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "From Search to Sale: How AI Is Redefining Customer Engagement and Loyalty in Retail",
-    "link": "https://www.databricks.com/blog/search-sale-how-ai-redefining-customer-engagement-and-loyalty-retail",
-    "summary": "A shopper goes onto your e-commerce site during the holiday season and types:“Find... A shopper goes onto your e-commerce site during the holiday season and types:“Find...",
-    "published": "Thu, 04 Sep 2025 20:30:00 GMT",
-    "source": "Databricks",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "How Kythera Labs, a Databricks Built-On Partner, saves $2M+/year using Delta Sharing",
-    "link": "https://www.databricks.com/blog/how-kythera-labs-databricks-built-partner-saves-year-using-delta-sharing",
-    "summary": "Healthcare systems generate enormous amounts of sensitive data, but moving, sharing,... Healthcare systems generate enormous amounts of sensitive data, but moving, sharing,...",
-    "published": "Thu, 04 Sep 2025 16:00:00 GMT",
-    "source": "Databricks",
-    "category": "vendor",
-    "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Apple AI, Google's Gemini advantage, Nvidia in China: 3 things - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlBjRUgxUE0wVVJVdEdFbmc1WHVvNl9vaWxhSU1OTkZhRTRMN0pPNWUyN0N2ZTdwckZPQzJ1X1hBX1RnMVlmTU0zMFFCeU1qOWhWcnlRMXlWM3dDcl9nVXJXM1h1MG5oSEJwSGN2RUJibVBMUGlDX1czRWUyTXVuazE5dzgxSFE?oc=5",
-    "summary": "Apple AI, Google's Gemini advantage, Nvidia in China: 3 things  Yahoo Finance Apple AI, Google's Gemini advantage, Nvidia in China: 3 things  Yahoo Finance",
-    "published": "Thu, 04 Sep 2025 12:40:33 GMT",
-    "source": "Google",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Visa Launches MCP Server and Agent Toolkit to Advance Agentic Commerce - Analytics India Magazine",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVluSHJZTTIxTnZxVUhBeWNHN2xJNEZQX2tLQWtEajM0eldhR0QwLVVuN3NaNklxN0xtSG1GUUlKenVuQkJ2elR4c1VBd3F2MzAzalVMc2xILVVGRllWUFotdXZCeWFKYi1FaW5NSEQ2SW84Q0lDWDZzR2dLWVdrX1hHWU9KalM2VHdpbGpOOG9fOEpNdHM0QkxycVg1RmIwLWNyeGozOVpMY3M1UUtLeWpGMXBqX25L?oc=5",
-    "summary": "Visa Launches MCP Server and Agent Toolkit to Advance Agentic Commerce  Analytics India Magazine Visa Launches MCP Server and Agent Toolkit to Advance Agentic Commerce  Analytics India Magazine",
-    "published": "Thu, 04 Sep 2025 13:07:18 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
-    "drawbacks": "Consider cost, adoption effort, and governance implications.",
-    "fetched": "2025-09-05"
-  },
-  {
-    "title": "Creating tools that ‘do wonders’: Data analytics alum uses the power of tech - Penn State University",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkNEeV9RU1BZQ1lIVFgxa3RvZ2RyWC1SUHlGb0VydWxkZDU3WTRhTTB5TC1oUEtHamMxUUFKS0FIWXdyN0dtQWxLTmlFLXlPY2JkdVc2UHNOUHdQbzJmN2ZzRHQ3SU1fMkJROU5uV21JaExtNGhpNHhmM3FranlCc29heC0wWEpvQ0xvZEdYN2gtWVQ3TVRWRWVzSVFlQWY1V05UOFpWR28?oc=5",
-    "summary": "Creating tools that ‘do wonders’: Data analytics alum uses the power of tech  Penn State University Creating tools that ‘do wonders’: Data analytics alum uses the power of tech  Penn State University",
-    "published": "Thu, 04 Sep 2025 20:37:30 GMT",
-    "source": "Data Analytics",
-    "category": "industry",
-    "drawbacks": "Consider cost, adoption effort, and governance implications.",
     "fetched": "2025-09-05"
   },
   {
@@ -870,16 +1130,6 @@
     "fetched": "2025-09-05"
   },
   {
-    "title": "Anthropic to stop selling AI services to majority Chinese-owned groups - Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NTlFqNFF5b2ltZVctY012XzVqT2h0ajl5T2I5LVBjS1lxTldOb0tyOTBDVXJILWpFMEw0RlplZGRNbFYtdklub1JsLWN4aHFzOHRkTDJwbERpb1gzZ010NEZFOER2ZUdpRlFKY3ozRVI?oc=5",
-    "summary": "Anthropic to stop selling AI services to majority Chinese-owned groups  Financial Times Anthropic to stop selling AI services to majority Chinese-owned groups  Financial Times",
-    "published": "Thu, 04 Sep 2025 21:05:47 GMT",
-    "source": "Anthropic",
-    "category": "industry",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-05"
-  },
-  {
     "title": "Inside Anthropic’s ‘Red Team’—ensuring Claude is safe, and that Anthropic is heard in the corridors of power - Fortune",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPejMxdEdyVFhtNHd4VzNMbXpRZXA3UWRUOGNnUVJpalNoX0hTdURQb3lLSHRTQ2plTWVoWVdySUJkOC1tcVNVLUs2aVZtdHhhZzEzd0ZPVU1BX082bmp6dG5jajdfUFh0S0VUZlBXQkpxaVBzeXZWdkUtU09fWERWa0RrTHpVLTQyeUk2aVNvLXFjUFhObnRZNnVoY0l0YXJtWnRueGE1TmFzTEp4ZEpVRGkwVWV5S192ZHVoUVFKNmJ3OEx1OU5LdDBNTHJaZw?oc=5",
     "summary": "Inside Anthropic’s ‘Red Team’—ensuring Claude is safe, and that Anthropic is heard in the corridors of power  Fortune Inside Anthropic’s ‘Red Team’—ensuring Claude is safe, and that Anthropic is heard in the corridors of power  Fortune",
@@ -930,16 +1180,6 @@
     "fetched": "2025-09-04"
   },
   {
-    "title": "New innovations in Microsoft Purview for protected, AI-ready data - Microsoft",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGxDQ2tnLVpHQzRwOHVrZ0tvekl3clJ3eElnTXoyeDZwYk9pMHc3SEoxTHhWTEptY25FYzdWTW5KNU9JbERxR0FfWHVKTHZ1TTlUTmg5VmRrbXhRMGYtZ3JfYnpvZG5hY3NKTHl0NElYMTBXSzFqOFpGbU0yc1lSZEdUVE9mV21DZU5jWXZxc3lEcEYxV1I2X2FLbHhKdEpIb3oyLUZyeDBES0V4TERrdjh1UmJhU0oyeHNzWUJFTQ?oc=5",
-    "summary": "New innovations in Microsoft Purview for protected, AI-ready data  Microsoft New innovations in Microsoft Purview for protected, AI-ready data  Microsoft",
-    "published": "Mon, 31 Mar 2025 07:00:00 GMT",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-04"
-  },
-  {
     "title": "Databricks One mirrors Microsoft Copilot strategy to transform enterprise data access - InfoWorld",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPclhBbXlGT1lZbnRMbm16SG9WWkFJOFE2NGRZWVBTREhQTTludHV1WGd0WjVRUTZqNlU1VkhWalVzVlRVaVJWeTUtVnNKQnhEc1VLeXBmb3J6ZjFiazJCSWZ0cVdQTHRXMGtLNmpabWJKdkVEOWZ0REdRRUE1Xy1ZTTY5bHNxUXNNV2ltWm5fbjNYVWhNaEhnaF9qUXQ0WmszY0NhRmhYVk0tZlpfYTdvM184OFJlZGRJSGF1QmVLc0toTkNGc2pIWjY4dGo?oc=5",
     "summary": "Databricks One mirrors Microsoft Copilot strategy to transform enterprise data access  InfoWorld Databricks One mirrors Microsoft Copilot strategy to transform enterprise data access  InfoWorld",
@@ -947,16 +1187,6 @@
     "source": "Databricks",
     "category": "vendor",
     "drawbacks": "Lacks ThoughtSpot's search-driven analytics and natural language exploration.",
-    "fetched": "2025-09-04"
-  },
-  {
-    "title": "Salesforce Agentforce: What you need to know - MarTech",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVUJsbmhIeDdrYjJlZDJOa0hHSXB4U3hSUk5WTmRXTmVZalhvZGx4QjFJMUtEUDV4QWsyNTZjSTdiRE54MGt0TlFoQm5NZDVpN0NhZkVmd1FBN0VBbk9PM0lJS3RXUVRLcmZ2OGxCOW1SUQ?oc=5",
-    "summary": "Salesforce Agentforce: What you need to know  MarTech Salesforce Agentforce: What you need to know  MarTech",
-    "published": "Thu, 21 Aug 2025 07:00:00 GMT",
-    "source": "Salesforce",
-    "category": "vendor",
-    "drawbacks": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
     "fetched": "2025-09-04"
   },
   {
@@ -1017,16 +1247,6 @@
     "source": "Salesforce",
     "category": "vendor",
     "drawbacks": "Tableau dashboards need manual curation versus ThoughtSpot's ad-hoc search.",
-    "fetched": "2025-09-04"
-  },
-  {
-    "title": "Unlocking Trust in Enterprise AI with AI Observability and Evaluations in Snowflake Cortex AI - Snowflake",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRDQ5bk5MQVhmaUV1ZVowMzdoNTdJenphMnNlWHppMVh6RXVfeC02UXktNDB6MGI1STdtTnpRRk5jN0x1bDY2TWpXRzdfMUpsODAyaTlSNnh6U0RwRTN4WDRDS2VLUFA5eDVJUHRaMTBSX3d0VERpancxbk9ZVzREcA?oc=5",
-    "summary": "Unlocking Trust in Enterprise AI with AI Observability and Evaluations in Snowflake Cortex AI  Snowflake Unlocking Trust in Enterprise AI with AI Observability and Evaluations in Snowflake Cortex AI  Snowflake",
-    "published": "Fri, 01 Aug 2025 07:00:00 GMT",
-    "source": "Snowflake",
-    "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
     "fetched": "2025-09-04"
   },
   {
@@ -1167,16 +1387,6 @@
     "source": "OpenAI",
     "category": "industry",
     "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-09-04"
-  },
-  {
-    "title": "Why Anthropic’s Coding Prediction Hasn’t Panned Out - The Information",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2x3ZXc5NzJleEFyLWtRSDBlRG9uT1Z4UUNfdk96MkcwWUg5dG9hSzF1VjVYbDBsNVNQRzV5aDFWcF9TTlJIVUFnN0Fka2RvXzF5ZGNBbTZzcncwLWZlWUdWa09iVV9hNWQ5NlZXQlJtRkNncldUR3MtVnhWSGxFcA?oc=5",
-    "summary": "Why Anthropic’s Coding Prediction Hasn’t Panned Out  The Information Why Anthropic’s Coding Prediction Hasn’t Panned Out  The Information",
-    "published": "Wed, 03 Sep 2025 14:02:00 GMT",
-    "source": "Anthropic",
-    "category": "industry",
-    "drawbacks": "Consider cost, adoption effort, and governance implications.",
     "fetched": "2025-09-04"
   },
   {
@@ -2416,16 +2626,6 @@
     "published": "Tue, 19 Aug 2025 12:30:00 GMT",
     "source": "Qlik",
     "category": "vendor",
-    "drawbacks": "Could require significant compute resources and expert oversight.",
-    "fetched": "2025-08-28"
-  },
-  {
-    "title": "Decimal Point Analytics Launches DocuAgentIQ - Agentic AI - GlobeNewswire",
-    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNTWNiYjcyc1lzOTUwbWdvWnhkYjZzQ1BsaDFuN0pNZ2pJSjFPVzJ2YV9PelJvcWdUN2JGN3JvMHUxWnZRSnNZY2tjMURTOW5XRHZJQTUyY2tERmszQk1uYkt1Zk9BUzVPSVJtTmtVeDdTaXNBNDRla2RuSmZBTWladWhvVHV1Z3dOcDF2MGNpTlZEb0hrWnk2M1ZmY0NxcnNZM25hZGJaMS1CcGRhSl9SeEE2QWZwWnZ5YlBZNGROeVZOWnpBZm5yNHYtQUt4am95dThvcmZpUlNJdHNYYVh2UUo2dDYxSWYtMG5sOTJXX2J4b1RzTk44eWw0Zmh3bUNHZi1qOUZpT1RwZy1aWWRSNWxKVDJNUQ?oc=5",
-    "summary": "Decimal Point Analytics Launches DocuAgentIQ - Agentic AI  GlobeNewswire Decimal Point Analytics Launches DocuAgentIQ - Agentic AI  GlobeNewswire",
-    "published": "Sat, 23 Aug 2025 12:38:45 GMT",
-    "source": "Agentic Analytics",
-    "category": "industry",
     "drawbacks": "Could require significant compute resources and expert oversight.",
     "fetched": "2025-08-28"
   },
@@ -6394,16 +6594,6 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkVoRWJkTldBV0pWVmZIZUdYeldNbnRVLWZabWtqdWlrS0MyN0FING9SanRkOEQyUTE2R0piMThVdHVwZmNCMmE0YzR5QUNGNS1lbVl2M2xpTWtkaTFqZkY0dExrU2luU2Q0aGc3X1g2RHZZNVN5dGhZeEptN2dqb05hRV80ZS1HbVdMMHlLVlcya3BXODFwVFNONWE5XzVqTWFXa0dvbURYVnZ5TmtLQw?oc=5",
     "summary": "What’s new in Power Apps: May 2025 Feature Update  Microsoft What’s new in Power Apps: May 2025 Feature Update  Microsoft",
     "published": "Mon, 09 Jun 2025 07:00:00 GMT",
-    "source": "Microsoft",
-    "category": "vendor",
-    "drawbacks": "Power BI and Copilot tie insights to predefined models, unlike ThoughtSpot's flexible search-first UX.",
-    "fetched": "2025-08-04"
-  },
-  {
-    "title": "What’s new in Power Apps: April 2025 Feature Update - Microsoft",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHVDQzBIODNhdFM3bld2U1QyM2RhRXBiZE1uVE9xQnFXN2h6N3ZJNXVkc25vVUJOZHNicjFKRXNHbE02UFZuNW9DaVRhMzl6TFY5MVFQZS1Lcl9MUWk1MUdBdVlwNnZVQVM3cVRDQUVxblF6dGhPSVVWNHduMjBvZnpvN0szV0NPWGRfRkFmcTNRQ2M2Wnc5bS1VZEtzMXZ3bHdmYmNxR2tpby04T0lDU1JEMA?oc=5",
-    "summary": "What’s new in Power Apps: April 2025 Feature Update  Microsoft What’s new in Power Apps: April 2025 Feature Update  Microsoft",
-    "published": "Fri, 09 May 2025 07:00:00 GMT",
     "source": "Microsoft",
     "category": "vendor",
     "drawbacks": "Power BI and Copilot tie insights to predefined models, unlike ThoughtSpot's flexible search-first UX.",
